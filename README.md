@@ -24,3 +24,4 @@
  * [Lunie](https://lunie.io)
  * [Mintscan](https://www.mintscan.io/)
  * [Stargazer](https://stargazer.certus.one/)
+ * [Stake ID](https://stake.id/)
