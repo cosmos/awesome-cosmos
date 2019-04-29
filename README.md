@@ -25,3 +25,4 @@
  * [Mintscan](https://www.mintscan.io/)
  * [Stargazer](https://stargazer.certus.one/)
  * [Stake ID](https://stake.id/)
+ * [B-Harvest](https://bharvest.io/wallet_en)
