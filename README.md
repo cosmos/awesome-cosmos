@@ -7,16 +7,16 @@
  * [Block Explorers](#block-explorers)
 
 ## Resources
- * [Cosmos SDK](https://github.com/cosmos-sdk)
- * [Docs](https://cosmos.network/docs)
+ * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
+ * [Docs](https://cosmos.network/docs/)
  * [Nameservice Tutorial](https://cosmos.network/docs/tutorial/)
 
 ## Wallets
- * [Lunie](https://lunie.io)
+ * [Lunie](https://lunie.io/)
 
 ## Articles
- * [What is Cosmos?](https://cosmos.network/intro)
- 
+ * [What is Cosmos?](https://cosmos.network/intro/)
+
 ## Block Explorers
  * [Big Dipper](https://bigdipper.forbole.com/)
  * [Cosmos Overview](https://cosmos-overview.genesislab.net/)
