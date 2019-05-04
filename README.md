@@ -10,6 +10,7 @@
  * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
  * [Docs](https://cosmos.network/docs/)
  * [Nameservice Tutorial](https://cosmos.network/docs/tutorial/)
+ * [Interchain Standards](https://github.com/cosmos/ics/)
 
 ## Wallets
  * [Lunie](https://lunie.io/)
