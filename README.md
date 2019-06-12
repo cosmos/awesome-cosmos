@@ -17,6 +17,15 @@
 ## Wallets
 
 - [Lunie](https://lunie.io/)
+- [Atomic Wallet](https://atomicwallet.io/)
+- [Cobo](https://cobo.com/)
+- [Cosmos Station](https://www.cosmostation.io/)
+- [HuobiWallet](https://www.huobiwallet.com/)
+- [ImToken](https://token.im/)
+- [Lunamint](https://lunamint.com/)
+- [MathWallet](https://www.mathwallet.org/en/)
+- [Trust Wallet](https://trustwallet.com/)
+- [Wetez](https://www.wetez.io/homepage)
 
 ## Modules
 
