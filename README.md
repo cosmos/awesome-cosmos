@@ -55,3 +55,4 @@ If you are working on a module that you would like to be used by the community, 
 - [Stargazer](https://stargazer.certus.one/)
 - [Stake ID](https://stake.id/)
 - [B-Harvest](https://bharvest.io/wallet_en)
+- [Coirs](http://coris.network)
