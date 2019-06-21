@@ -40,6 +40,8 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmos SDK - Params](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/params)
 - [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/slashing)
 - [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/staking)
+- [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
+- [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
 
 ## Articles
 
