@@ -1,6 +1,10 @@
-# Awesome Cosmos!
+# Awesome Cosmos
 
-If you would like to contribute to this repo, please read the [contributing guide](./contributing.md), we have some guidelines to who can be accepted into the repo. Thank you!!!
+The Cosmos-SDK is a framework for building blockchain applications in Golang. It is being used to build Gaia, the first implementation of the Cosmos Hub.
+
+## Contributing
+
+Please read the [contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
 
 ## Contents
 
