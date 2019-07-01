@@ -20,5 +20,5 @@ If you would like to be included in the wallet and/or block explorer section the
 
 ## Modules
 
-If you would like to include your module(s) under the module section, then please link to a readme describing the use of your module and if it depends on any other module(s). The module must be ready to be used in a production setting. If there is a audit associated to the module then please link to it in your module readme or in your repo. 
+If you would like to include your module(s) under the module section, then please link to a readme describing the use of your module, if it depends on other module(s) and which versions of the SDK it is compatible with. The module must be complete if not production-ready. If there is an audit associated with the module then please link to it in your module readme or in your repo. 
 
