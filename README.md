@@ -1,11 +1,14 @@
 # Awesome Cosmos!
 
+If you would like to contribute to this repo, please read the [contributing guide](./contributing.md), we have some guidelines to who can be accepted into the repo. Thank you!!!
+
 ## Contents
 
 - [Resources](#resources)
 - [Wallets](#wallets)
-- [Articles](#articles)
 - [Block Explorers](#block-explorers)
+- [Modules](#modules)
+- [Articles](#articles)
 
 ## Resources
 
@@ -27,6 +30,16 @@
 - [Trust Wallet](https://trustwallet.com/)
 - [Wetez](https://www.wetez.io/homepage)
 
+## Block Explorers
+
+- [Big Dipper](https://bigdipper.forbole.com/)
+- [Cosmos Overview](https://cosmos-overview.genesislab.net/)
+- [Hubble](https://hubble.figment.network/)
+- [Lunie](https://lunie.io)
+- [Mintscan](https://www.mintscan.io/)
+- [Stargazer](https://stargazer.certus.one/)
+- [B-Harvest](https://bharvest.io/wallet_en)
+
 ## Modules
 
 If you are working on a module that you would like to be used by the community, add it here.
@@ -47,13 +60,3 @@ If you are working on a module that you would like to be used by the community, 
 
 - [What is Cosmos?](https://cosmos.network/intro/)
 
-## Block Explorers
-
-- [Big Dipper](https://bigdipper.forbole.com/)
-- [Cosmos Overview](https://cosmos-overview.genesislab.net/)
-- [Hubble](https://hubble.figment.network/)
-- [Lunie](https://lunie.io)
-- [Mintscan](https://www.mintscan.io/)
-- [Stargazer](https://stargazer.certus.one/)
-- [Stake ID](https://stake.id/)
-- [B-Harvest](https://bharvest.io/wallet_en)
