@@ -1,11 +1,18 @@
-# Awesome Cosmos!
+# Awesome Cosmos
+
+The Cosmos-SDK is a framework for building blockchain applications in Golang. It is being used to build Gaia, the first implementation of the Cosmos Hub.
+
+## Contributing
+
+Please read the [contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
 
 ## Contents
 
 - [Resources](#resources)
 - [Wallets](#wallets)
-- [Articles](#articles)
 - [Block Explorers](#block-explorers)
+- [Modules](#modules)
+- [Articles](#articles)
 
 ## Resources
 
@@ -27,6 +34,16 @@
 - [Trust Wallet](https://trustwallet.com/)
 - [Wetez](https://www.wetez.io/homepage)
 
+## Block Explorers
+
+- [Big Dipper](https://bigdipper.forbole.com/)
+- [Cosmos Overview](https://cosmos-overview.genesislab.net/)
+- [Hubble](https://hubble.figment.network/)
+- [Lunie](https://lunie.io)
+- [Mintscan](https://www.mintscan.io/)
+- [Stargazer](https://stargazer.certus.one/)
+- [B-Harvest](https://bharvest.io/wallet_en)
+
 ## Modules
 
 If you are working on a module that you would like to be used by the community, add it here.
@@ -47,13 +64,3 @@ If you are working on a module that you would like to be used by the community, 
 
 - [What is Cosmos?](https://cosmos.network/intro/)
 
-## Block Explorers
-
-- [Big Dipper](https://bigdipper.forbole.com/)
-- [Cosmos Overview](https://cosmos-overview.genesislab.net/)
-- [Hubble](https://hubble.figment.network/)
-- [Lunie](https://lunie.io)
-- [Mintscan](https://www.mintscan.io/)
-- [Stargazer](https://stargazer.certus.one/)
-- [Stake ID](https://stake.id/)
-- [B-Harvest](https://bharvest.io/wallet_en)
