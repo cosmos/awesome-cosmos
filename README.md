@@ -44,6 +44,7 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 - [Stargazer](https://stargazer.certus.one/)
 - [B-Harvest](https://bharvest.io/wallet_en)
 - [ATOMScan](https://atomscan.app)
+- [Coris](https://coris.network)
 
 ## Modules
 
