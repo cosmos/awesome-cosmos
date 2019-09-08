@@ -63,7 +63,12 @@ If you are working on a module that you would like to be used by the community, 
 - [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
 - [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
 
+## Ecosystem
+
+Projects built using the Cosmos-SDK
+
+- Cosmos Hub [Github](https://github.com/cosmos/gaia)
+
 ## Articles
 
 - [What is Cosmos?](https://cosmos.network/intro/)
-
