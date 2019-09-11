@@ -68,7 +68,19 @@ If you are working on a module that you would like to be used by the community, 
 Projects built using the Cosmos-SDK
 
 - Cosmos Hub [Github](https://github.com/cosmos/gaia)
-
+ - Binance Chain [Github](https://github.com/binance-chain/)
+ - e-Money [Website](https://e-money.com/)
+ - IOV [Website](https://iov.one/)
+ - IRISnet [Website](https://www.irisnet.org/)
+ - Kava [Website](https://kava.io/)
+ - Lino Network [Website](https://lino.network/)
+ - Loom [Website](https://loomx.io/)
+ - Playlist [Website](https://www.playlist.com/)
+ - Regen Network [Website](https://regen.network/)
+ - Sentinel [Website](https://sentinel.co/)
+ - Terra [Website](https://terra.money/)
+ - Trustory [Website](https://www.trustory.io/)
+ - [More Here](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243) 
 ## Articles
 
 - [What is Cosmos?](https://cosmos.network/intro/)
