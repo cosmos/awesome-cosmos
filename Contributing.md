@@ -20,7 +20,7 @@ If you would like to be included in the wallet and/or block explorer section the
 
 ## Ecosystem
 
-If you would like to be added to the ecosystem section, please find your place in the list, its alphabitized.
+If you would like to be added to the ecosystem section, please find your place in the list alphabetically.
 Add the name of your project/company and the website or github so people can find out more about you.
 
 ## Modules
