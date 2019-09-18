@@ -86,7 +86,6 @@ Projects built using the Cosmos-SDK
 - Decentrarandom [Website](https://decentrandom.com/)
 - CyberCongress [Website](https://cybercongress.ai)
 - Data PAce [Website](https://datapace.io/)
-- Lino Netowrk [Website](https://lino.network/)
 - IXO FOundation [Website](http://ixo.foundation/)
 - Hashgard [Website](https://www.hashgard.io/)
 - Kuende [Website](https://kuende.com/)
@@ -101,6 +100,7 @@ Projects built using the Cosmos-SDK
 - Tichex [Website](https://tichex.com/)
 - LCNEM [Website](https://lcnem.com/)
 - Everett [Website](https://www.everett.zone/)
+- LikeCoin [Website](https://like.co/)
 
 * [More Here](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 
