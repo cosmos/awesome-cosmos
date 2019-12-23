@@ -65,7 +65,7 @@ If you are working on a module that you would like to be used by the community, 
 
 ## Ecosystem
 
-Projects built using the Cosmos-SDK
+[Projects](https://cosmonauts.world/) built using the Cosmos SDK
 
 - Agoric [Website](https://agoric.com/)
 - Althea [Website](https://althea.net/)
@@ -101,8 +101,6 @@ Projects built using the Cosmos-SDK
 - ThorChain [Website](https://thorchain.org/)
 - Tichex [Website](https://tichex.com/)
 - Trustory [Website](https://www.trustory.io/)
-
-- [More Here](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 
 ## Articles
 
