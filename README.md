@@ -74,7 +74,7 @@ If you are working on a module that you would like to be used by the community, 
 - Comdex [Website](https://comdex.sg/)
 - Comercio.netowrk [Website](https://commercio.network)
 - Cosmos Hub [Github](https://github.com/cosmos/gaia)
-- CyberCongress [Website](https://cybercongress.ai)
+- Cyber [Website](https://cyber.page/)
 - Data Pace [Website](https://datapace.io/)
 - Denctral Card Network [Website](https://www.decentral-card.net/)
 - Decentrarandom [Website](https://decentrandom.com/)
