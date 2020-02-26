@@ -40,6 +40,7 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 - [Cosmos Overview](https://cosmos-overview.genesislab.net/)
 - [Hubble](https://hubble.figment.network/)
 - [Lunie](https://lunie.io)
+- [LOOK Explorer](https://cosmos.ping.pub)
 - [Mintscan](https://www.mintscan.io/)
 - [Stargazer](https://stargazer.certus.one/)
 - [B-Harvest](https://bharvest.io/wallet_en)
