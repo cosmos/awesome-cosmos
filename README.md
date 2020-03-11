@@ -77,7 +77,7 @@ If you are working on a module that you would like to be used by the community, 
 - Cosmos Hub [Github](https://github.com/cosmos/gaia)
 - Cyber [Website](https://cyber.page/)
 - Data Pace [Website](https://datapace.io/)
-- Denctral Card Network [Website](https://www.decentral-card.net/)
+- Decentral Card Network [Website](https://www.decentral-card.net/)
 - Decentrarandom [Website](https://decentrandom.com/)
 - Desmos [Website](https://desmos.network)
 - Dgaming [Website](https://hub.dgaming.com/)
