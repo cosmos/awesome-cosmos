@@ -79,6 +79,7 @@ If you are working on a module that you would like to be used by the community, 
 - Data Pace [Website](https://datapace.io/)
 - Denctral Card Network [Website](https://www.decentral-card.net/)
 - Decentrarandom [Website](https://decentrandom.com/)
+- Desmos [Website](https://desmos.network)
 - Dgaming [Website](https://hub.dgaming.com/)
 - Everett [Website](https://www.everett.zone/)
 - e-Money [Website](https://e-money.com/)
