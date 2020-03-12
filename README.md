@@ -81,6 +81,7 @@ If you are working on a module that you would like to be used by the community, 
 - Decentrarandom [Website](https://decentrandom.com/)
 - Desmos [Website](https://desmos.network)
 - Dgaming [Website](https://hub.dgaming.com/)
+- Enigma [Website](https://enigma.co/)
 - Everett [Website](https://www.everett.zone/)
 - e-Money [Website](https://e-money.com/)
 - Hashgard [Website](https://www.hashgard.io/)
