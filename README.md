@@ -31,6 +31,7 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 - [ImToken](https://token.im/)
 - [Lunamint](https://lunamint.com/)
 - [MathWallet](https://www.mathwallet.org/en/)
+- [Rainbow](https://www.rainbow.one/)
 - [Trust Wallet](https://trustwallet.com/)
 - [Wetez](https://www.wetez.io/homepage)
 
