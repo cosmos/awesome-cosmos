@@ -72,7 +72,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - [Ethermint](https://github.com/chainsafe/ethermint) - Ethereum Virtual Machine
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm) - WASM Virtual Machine & Rust Smart Contracts
 - [Comove](https://github.com/co-move/comove) - Libra's Move Virtual Machine
-
+- [Agoric](https://github.com/Agoric/agoric-sdk) -- Agoric's Javascript Virtual Machine
 ## Ecosystem
 
 [Projects](https://cosmonauts.world/) built using the Cosmos SDK
