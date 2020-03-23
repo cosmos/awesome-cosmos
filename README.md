@@ -35,6 +35,15 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 - [Trust Wallet](https://trustwallet.com/)
 - [Wetez](https://www.wetez.io/homepage)
 
+## Client Libraries
+### Javascript
+- [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library 
+- [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library 
+- [luniehq/cosmos-keys](https://github.com/luniehq/cosmos-keys) - Lunie Signing Library 
+- [everett-protocol/cosmosjs](https://github.com/everett-protocol/cosmosjs) - Everett Signing & API Library
+### Rust
+- [iqlusion/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
+
 ## Block Explorers
 
 - [Big Dipper](https://bigdipper.forbole.com/)
