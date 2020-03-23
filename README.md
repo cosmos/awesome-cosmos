@@ -65,6 +65,14 @@ If you are working on a module that you would like to be used by the community, 
 - [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
 - [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
 
+## Virtual Machines
+
+These are modules or frameworks for virtual machines which run within the Cosmos SDK
+
+- [Ethermint](https://github.com/chainsafe/ethermint) - Ethereum Virtual Machine
+- [CosmWasm](https://github.com/CosmWasm/cosmwasm) - WASM Virtual Machine & Rust Smart Contracts
+- [Comove](https://github.com/co-move/comove) - Libra's Move Virtual Machine
+
 ## Ecosystem
 
 [Projects](https://cosmonauts.world/) built using the Cosmos SDK
