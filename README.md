@@ -47,16 +47,17 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 
 ## Block Explorers
 
+- [ATOMScan](https://atomscan.app)
+- [B-Harvest](https://bharvest.io/wallet_en)
 - [Big Dipper](https://bigdipper.forbole.com/)
+- [Coris](https://coris.network)
+- [Cosmic Compass](https://cosmiccompass.io/)
 - [Cosmos Overview](https://cosmos-overview.genesislab.net/)
 - [Hubble](https://hubble.figment.network/)
-- [Lunie](https://lunie.io)
 - [LOOK Explorer](https://cosmos.ping.pub)
+- [Lunie](https://lunie.io)
 - [Mintscan](https://www.mintscan.io/)
 - [Stargazer](https://stargazer.certus.one/)
-- [B-Harvest](https://bharvest.io/wallet_en)
-- [ATOMScan](https://atomscan.app)
-- [Coris](https://coris.network)
 
 ## Modules
 
