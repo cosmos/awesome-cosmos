@@ -26,7 +26,7 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 - [Lunie](https://lunie.io/)
 - [Atomic Wallet](https://atomicwallet.io/)
 - [Cobo](https://cobo.com/)
-- [Cosmos Station](https://www.cosmostation.io/)
+- [Cosmostation](https://www.cosmostation.io/)
 - [HuobiWallet](https://www.huobiwallet.com/)
 - [ImToken](https://token.im/)
 - [Lunamint](https://lunamint.com/)
