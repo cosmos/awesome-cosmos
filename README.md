@@ -4,12 +4,15 @@ The Cosmos-SDK is a framework for building blockchain applications in Golang. It
 
 ## Contributing
 
-Please read the [contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
+Please read the [Contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
 
 ## Contents
 
 - [Resources](#resources)
 - [Wallets](#wallets)
+- [Client Libraries](#client-libraries)
+  - [Javascript](#javascript)
+  - [Rust](#rust)
 - [Block Explorers](#block-explorers)
 - [Modules](#modules)
 - [Articles](#articles)
@@ -17,19 +20,21 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 ## Resources
 
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
-- [Docs](https://cosmos.network/docs/)
-- [Nameservice Tutorial](https://cosmos.network/docs/tutorial/)
+- [Docs - Cosmos Hub (Gaia)](https://hub.cosmos.network/)
+- [Docs - Cosmos SDK](https://docs.cosmos.network/)
+- [Docs - Tendermint](https://docs.tendermint.com/)
 - [Interchain Standards](https://github.com/cosmos/ics/)
+- [Tutorials](https://tutorials.cosmos.network)
 
 ## Wallets
 
-- [Lunie](https://lunie.io/)
 - [Atomic Wallet](https://atomicwallet.io/)
 - [Cobo](https://cobo.com/)
 - [Cosmostation](https://www.cosmostation.io/)
 - [HuobiWallet](https://www.huobiwallet.com/)
 - [ImToken](https://token.im/)
 - [Lunamint](https://lunamint.com/)
+- [Lunie](https://lunie.io/)
 - [MathWallet](https://www.mathwallet.org/en/)
 - [Rainbow](https://www.rainbow.one/)
 - [Trust Wallet](https://trustwallet.com/)
@@ -82,10 +87,12 @@ If you are working on a module that you would like to be used by the community, 
 
 These are modules or frameworks for virtual machines which run within the Cosmos SDK
 
-- [Ethermint](https://github.com/chainsafe/ethermint) - Ethereum Virtual Machine
-- [CosmWasm](https://github.com/CosmWasm/cosmwasm) - WASM Virtual Machine & Rust Smart Contracts
+- [Agoric - SES](https://github.com/Agoric/SES-shim) - Secure EcmaScript runtime
+- [Agoric - Zoe](https://agoric.com/documentation/zoe/guide/) - Smart Contracting for Agoric SES
 - [Comove](https://github.com/co-move/comove) - Libra's Move Virtual Machine
-- [Agoric](https://github.com/Agoric/agoric-sdk) -- Agoric's Javascript Virtual Machine
+- [CosmWasm](https://github.com/CosmWasm/cosmwasm) - WASM Virtual Machine & Rust Smart Contracts
+- [Ethermint](https://github.com/chainsafe/ethermint) - Ethereum Virtual Machine
+
 ## Ecosystem
 
 [Projects](https://cosmonauts.world/) built using the Cosmos SDK
