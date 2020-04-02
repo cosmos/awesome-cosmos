@@ -15,6 +15,8 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
   - [Rust](#rust)
 - [Block Explorers](#block-explorers)
 - [Modules](#modules)
+  - [Core](#core)
+  - [External](#external)
 - [Articles](#articles)
 
 ## Resources
@@ -70,6 +72,7 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 
 If you are working on a module that you would like to be used by the community, add it here.
 
+### Core
 - [Cosmos SDK - Auth](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/auth)
 - [Cosmos SDK - Bank](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/bank)
 - [Cosmos SDK - Crisis](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/crisis)
@@ -80,6 +83,12 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/slashing)
 - [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/staking)
 - [Cosmos SDK - Supply](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/supply)
+
+### External
+- [Chainsafe - Ethermint](https://github.com/chainsafe/ethermint)
+- [Cosmos - Peggy](https://github.com/cosmos/peggy)
+- [Cosmos/Modules - Faucet](https://github.com/cosmos/modules/tree/master/incubator/faucet)
+- [Cosmos/Modules - NFT](https://github.com/cosmos/modules/tree/master/incubator/nft)
 - [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
 - [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
 
