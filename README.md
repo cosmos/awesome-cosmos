@@ -46,6 +46,7 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 ### Javascript
 - [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library 
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - Cosmostation Signing & API Library
+- [cosmwasm/cosmwasm-js](https://github.com/CosmWasm/cosmwasm-js) - Complete frontend sdk for cosmwasm and bank modules
 - [cybercongress/js-amino](https://github.com/cybercongress/js-amino) - ARCHIVED / JS implementation of Amino
 - [everett-protocol/cosmosjs](https://github.com/everett-protocol/cosmosjs) - Everett Signing & API Library
 - [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library 
