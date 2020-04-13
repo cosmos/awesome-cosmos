@@ -17,6 +17,7 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 - [Modules](#modules)
   - [Core](#core)
   - [External](#external)
+- [Validator Monitoring](#validator-monitoring)
 - [Articles](#articles)
 
 ## Resources
@@ -30,17 +31,19 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 
 ## Wallets
 
-- [Atomic Wallet](https://atomicwallet.io/)
-- [Cobo](https://cobo.com/)
-- [Cosmostation](https://www.cosmostation.io/)
-- [HuobiWallet](https://www.huobiwallet.com/)
-- [ImToken](https://token.im/)
-- [Lunamint](https://lunamint.com/)
-- [Lunie](https://lunie.io/)
-- [MathWallet](https://www.mathwallet.org/en/)
-- [Rainbow](https://www.rainbow.one/)
-- [Trust Wallet](https://trustwallet.com/)
-- [Wetez](https://www.wetez.io/homepage)
+- [Atomic Wallet](https://atomicwallet.io/) (Windows, MacOS, Ubuntu, iOS, Android)
+- [Cobo](https://cobo.com/) (iOS, Android)
+- [Cosmostation](https://www.cosmostation.io/) (iOS, Android, Browser Extension)
+- [HuobiWallet](https://www.huobiwallet.com/) (iOS, Android)
+- [ImToken](https://token.im/) (iOS, Android)
+- [Keplr](https://wallet.keplr.app) (Browser Extension)
+- [Lunamint](https://lunamint.com/) (Android)
+- [Lunie](https://lunie.io/) (iOS, Android, Browser Extension)
+- [MathWallet](https://www.mathwallet.org/en/) (iOS, Android, Browser Extension)
+- [Rainbow](https://www.rainbow.one/) (iOS, Android)
+- [Trust Wallet](https://trustwallet.com/) (iOS, Android)
+- [Wetez](https://www.wetez.io/homepage) (iOS, Android)
+- [KiraEx Interchain Wallet](https://t.me/InterchainWalletBot) (Telegram Bot)
 
 ## Client Libraries
 ### Javascript
@@ -58,7 +61,6 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 ## Block Explorers
 
 - [ATOMScan](https://atomscan.app)
-- [B-Harvest](https://bharvest.io/wallet_en)
 - [Big Dipper](https://bigdipper.forbole.com/)
 - [Coris](https://coris.network)
 - [Cosmic Compass](https://cosmiccompass.io/)
@@ -71,7 +73,7 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 
 ## Modules
 
-If you are working on a module that you would like to be used by the community, add it here.
+If you are working on a module that you would like to be used by the community, add it here. 
 
 ### Core
 - [Cosmos SDK - Auth](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/auth)
@@ -92,6 +94,15 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmos/Modules - NFT](https://github.com/cosmos/modules/tree/master/incubator/nft)
 - [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
 - [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
+
+## Validator Monitoring
+- [P.A.N.I.C. by Simply VC](https://github.com/SimplyVC/panic_cosmos) - Python Alerter for Nodes In Cosmos, or P.A.N.I.C. is an open-sourced monitoring and alerting solution for Cosmos-SDK blockchain nodes.
+- [Prometheus Exporter by Node A Team](https://github.com/node-a-team/cosmos-validator_exporter) - Prometheus exporter for Cosmos validators.
+- [Cosmos Chains Dashboard by Yelong Zhang](https://github.com/zhangyelong/cosmos-dashboard) - Grafana dashboard to monitor Cosmos-SDK and Tendermint based blockchain nodes.
+- [Bot Monitor by Forbole](https://github.com/forbole/bot_monitor) - [Telegram bot](https://t.me/forbolebot) that monitors and sends alerts every 15 seconds
+- [Chainflow Validator Tool](https://github.com/chris-remus/chainflow-icf-validator-tool-grant) - Grafana dashboard that monitors various validator node data/statistics.
+- [Node Monitor Gaiad by Stake Zone](https://github.com/stakezone/nodemonitorgaiad) - Log file based Cosmos `gaiad` monitoring solution for Zabbix.
+- [Cosmosvalmon by Fresh Atoms](https://github.com/gaia/cosmosvalmon) - Configurable Cosmos validator monitoring and alerting service.
 
 ## Virtual Machines
 
