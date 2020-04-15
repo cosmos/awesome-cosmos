@@ -67,7 +67,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 ### Rust
 - [iqlusion/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
 
-## Block Explorers
+## Block Explorers & Validator Profiles
 
 - [ATOMScan](https://atomscan.app)
 - [Big Dipper](https://bigdipper.forbole.com/)
@@ -79,6 +79,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Lunie](https://lunie.io)
 - [Mintscan](https://www.mintscan.io/)
 - [Stargazer](https://stargazer.certus.one/)
+- [Union Market](https://union.market/token/cosmos)
 
 ## Modules
 
