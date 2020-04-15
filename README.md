@@ -55,6 +55,9 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 - [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library 
 - [luniehq/cosmos-keys](https://github.com/luniehq/cosmos-keys) - Lunie Signing Library 
 
+### Python
+- [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing
+
 ### Rust
 - [iqlusion/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
 
