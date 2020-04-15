@@ -4,7 +4,7 @@ The Cosmos-SDK is a framework for building blockchain applications in Golang. It
 
 ## Contributing
 
-Please read the [Contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
+Please read the [Contributing guide](./Contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
 
 ## Contents
 
