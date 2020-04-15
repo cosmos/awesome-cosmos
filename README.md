@@ -10,6 +10,7 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 
 - [Resources](#resources)
 - [Wallets](#wallets)
+- [Vanity Address Generators](#vanity-address-generators)
 - [Client Libraries](#client-libraries)
   - [Javascript](#javascript)
   - [Rust](#rust)
@@ -44,6 +45,10 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 - [Trust Wallet](https://trustwallet.com/) (iOS, Android)
 - [Wetez](https://www.wetez.io/homepage) (iOS, Android)
 - [KiraEx Interchain Wallet](https://t.me/InterchainWalletBot) (Telegram Bot)
+
+## Vanity Address Generators
+
+- [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) (Linux, MacOS, Windows)
 
 ## Client Libraries
 ### Javascript
