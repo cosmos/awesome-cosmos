@@ -12,6 +12,7 @@ Please read the [Contributing guide](./contributing.md). Thank you to all our [c
 - [Wallets](#wallets)
 - [Client Libraries](#client-libraries)
   - [Javascript](#javascript)
+  - [Python](#python)
   - [Rust](#rust)
 - [Block Explorers](#block-explorers)
 - [Modules](#modules)
