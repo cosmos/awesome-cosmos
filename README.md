@@ -13,6 +13,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Vanity Address Generators](#vanity-address-generators)
 - [Client Libraries](#client-libraries)
   - [Javascript](#javascript)
+  - [Python](#python)
   - [Rust](#rust)
 - [Block Explorers](#block-explorers)
 - [Modules](#modules)
@@ -59,6 +60,9 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [everett-protocol/cosmosjs](https://github.com/everett-protocol/cosmosjs) - Everett Signing & API Library
 - [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library 
 - [luniehq/cosmos-keys](https://github.com/luniehq/cosmos-keys) - Lunie Signing Library 
+
+### Python
+- [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing
 
 ### Rust
 - [iqlusion/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
