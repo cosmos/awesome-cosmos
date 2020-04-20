@@ -123,6 +123,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - [Comove](https://github.com/co-move/comove) - Libra's Move Virtual Machine
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm) - WASM Virtual Machine & Rust Smart Contracts
 - [Ethermint](https://github.com/chainsafe/ethermint) - Ethereum Virtual Machine
+- [Hypermint](https://github.com/datachainlab/hypermint) - WASM Smart Contract Tendermint chain
 
 ## Ecosystem
 
