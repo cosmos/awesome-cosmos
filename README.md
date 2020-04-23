@@ -69,6 +69,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ## Block Explorers & Validator Profiles
 
+- [Anthem](https://anthem.chorus.one)
 - [ATOMScan](https://atomscan.app)
 - [Big Dipper](https://bigdipper.forbole.com/)
 - [Coris](https://coris.network)
@@ -76,7 +77,6 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Cosmos Overview](https://cosmos-overview.genesislab.net/)
 - [Hubble](https://hubble.figment.network/)
 - [LOOK Explorer](https://cosmos.ping.pub)
-- [Lunie](https://lunie.io)
 - [Mintscan](https://www.mintscan.io/)
 - [Stargazer](https://stargazer.certus.one/)
 - [Union Market](https://union.market/token/cosmos)
