@@ -131,6 +131,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 
 - Agoric [Website](https://agoric.com/)
 - Althea [Website](https://althea.net/)
+- Band Protocol [Website](https://bandprotocol.com/)
 - Binance Chain [Github](https://github.com/binance-chain/)
 - Bitsong [Website](https://bitsong.io/)
 - Comdex [Website](https://comdex.sg/)
@@ -169,5 +170,6 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 ## Articles
 
 - [What is Cosmos?](https://cosmos.network/intro/)
+- [Learn how to use Gaia in Spanish using a virtual machine](https://github.com/Colm3na/MeetupCosmos)
 
 **Discalaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
