@@ -15,11 +15,13 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
   - [Javascript](#javascript)
   - [Python](#python)
   - [Rust](#rust)
-- [Block Explorers](#block-explorers)
+- [Block Explorers & Validator Profiles](#block-explorers--validator-profiles)
 - [Modules](#modules)
   - [Core](#core)
   - [External](#external)
 - [Validator Monitoring](#validator-monitoring)
+- [Virtual Machines](#virtual-machines)
+- [Ecosystem](#ecosystem)
 - [Articles](#articles)
 
 ## Resources
@@ -148,7 +150,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - e-Money [Website](https://e-money.com/)
 - Hashgard [Website](https://www.hashgard.io/)
 - IRISnet [Website](https://www.irisnet.org/)
-- IXO FOundation [Website](http://ixo.foundation/)
+- IXO Foundation [Website](http://ixo.foundation/)
 - Kava [Website](https://kava.io/)
 - Kira Interchain Exchange [Website](https://kiraex.com/)
 - Kuende [Website](https://kuende.com/)
