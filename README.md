@@ -1,4 +1,4 @@
-# Awesome Cosmos
+# Awesome Cosmos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The Cosmos-SDK is a framework for building blockchain applications in Golang. It is being used to build Gaia, the first implementation of the Cosmos Hub.
 
@@ -54,19 +54,23 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) (Linux, MacOS, Windows)
 
 ## Client Libraries
+
 ### Javascript
-- [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library 
+
+- [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - Cosmostation Signing & API Library
 - [cosmwasm/cosmwasm-js](https://github.com/CosmWasm/cosmwasm-js) - Complete frontend sdk for cosmwasm and bank modules
 - [cybercongress/js-amino](https://github.com/cybercongress/js-amino) - ARCHIVED / JS implementation of Amino
 - [everett-protocol/cosmosjs](https://github.com/everett-protocol/cosmosjs) - Everett Signing & API Library
-- [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library 
-- [luniehq/cosmos-keys](https://github.com/luniehq/cosmos-keys) - Lunie Signing Library 
+- [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library
+- [luniehq/cosmos-keys](https://github.com/luniehq/cosmos-keys) - Lunie Signing Library
 
 ### Python
+
 - [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing
 
 ### Rust
+
 - [iqlusion/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
 
 ## Block Explorers & Validator Profiles
@@ -85,29 +89,35 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ## Modules
 
-If you are working on a module that you would like to be used by the community, add it here. 
+If you are working on a module that you would like to be used by the community, add it here.
 
 ### Core
-- [Cosmos SDK - Auth](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/auth)
-- [Cosmos SDK - Bank](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/bank)
-- [Cosmos SDK - Crisis](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/crisis)
-- [Cosmos SDK - Distribution](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/distribution)
-- [Cosmos SDK - Governance](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/governance)
-- [Cosmos SDK - Mint](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/mint)
-- [Cosmos SDK - Params](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/params)
-- [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/slashing)
-- [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/staking)
-- [Cosmos SDK - Supply](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/supply)
+
+- [Cosmos SDK - Auth](https://github.com/cosmos/cosmos-sdk/tree/master/x/auth)
+- [Cosmos SDK - Bank](https://github.com/cosmos/cosmos-sdk/tree/master/x/bank)
+- [Cosmos SDK - Crisis](https://github.com/cosmos/cosmos-sdk/tree/master/x/crisis)
+- [Cosmos SDK - Distribution](https://github.com/cosmos/cosmos-sdk/tree/master/x/distribution)
+- [Cosmos SDK - Governance](https://github.com/cosmos/cosmos-sdk/tree/master/x/governance)
+- [Cosmos SDK - IBC](https://github.com/cosmos/cosmos-sdk/tree/master/x/ibc)
+- [Cosmos SDK - Mint](https://github.com/cosmos/cosmos-sdk/tree/master/x/mint)
+- [Cosmos SDK - Params](https://github.com/cosmos/cosmos-sdk/tree/master/x/params)
+- [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/x/slashing)
+- [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/x/staking)
+- [Cosmos SDK - Supply](https://github.com/cosmos/cosmos-sdk/tree/master/x/supply)
 
 ### External
-- [Chainsafe - Ethermint](https://github.com/chainsafe/ethermint)
+
+- [Ethermint - EVM](https://github.com/ChainSafe/ethermint/tree/development/x/evm)
 - [Cosmos - Peggy](https://github.com/cosmos/peggy)
 - [Cosmos/Modules - Faucet](https://github.com/cosmos/modules/tree/master/incubator/faucet)
 - [Cosmos/Modules - NFT](https://github.com/cosmos/modules/tree/master/incubator/nft)
-- [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
-- [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
+- [Kava - Auction](https://github.com/Kava-Labs/kava/tree/master/x/auction)
+- [Kava - CDP](https://github.com/Kava-Labs/kava/tree/master/x/cdp)
+- [Kava - Pricefeed](https://github.com/Kava-Labs/kava/tree/master/x/pricefeed)
+- [Kava - Validator Vesting](https://github.com/Kava-Labs/kava/tree/master/x/validator-vesting)
 
 ## Validator Monitoring
+
 - [P.A.N.I.C. by Simply VC](https://github.com/SimplyVC/panic_cosmos) - Python Alerter for Nodes In Cosmos, or P.A.N.I.C. is an open-sourced monitoring and alerting solution for Cosmos-SDK blockchain nodes.
 - [Prometheus Exporter by Node A Team](https://github.com/node-a-team/cosmos-validator_exporter) - Prometheus exporter for Cosmos validators.
 - [Cosmos Chains Dashboard by Yelong Zhang](https://github.com/zhangyelong/cosmos-dashboard) - Grafana dashboard to monitor Cosmos-SDK and Tendermint based blockchain nodes.
