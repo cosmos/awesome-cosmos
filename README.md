@@ -35,6 +35,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ## Wallets
 
+- [Airgap](https://airgap.it/) (iOS, Android)
 - [Atomic Wallet](https://atomicwallet.io/) (Windows, MacOS, Ubuntu, iOS, Android)
 - [Cobo](https://cobo.com/) (iOS, Android)
 - [Cosmostation](https://www.cosmostation.io/) (iOS, Android, Browser Extension)
