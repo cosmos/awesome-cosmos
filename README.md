@@ -87,6 +87,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Mintscan](https://www.mintscan.io/)
 - [Stargazer](https://stargazer.certus.one/)
 - [Union Market](https://union.market/token/cosmos)
+- [Map of Zones](https://mapofzones.com/?period=24)
 
 ## Modules
 
