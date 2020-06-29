@@ -59,7 +59,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 ### Javascript
 
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - Cosmostation Signing & API Library
-- [cosmwasm/cosmjs](https://github.com/CosmWasm/cosmjs) - **ICF sponsorted Cosmos Javascript library**
+- [cosmwasm/cosmjs](https://github.com/CosmWasm/cosmjs) - **ICF sponsored Cosmos Javascript library**
 - [cybercongress/js-amino](https://github.com/cybercongress/js-amino) - ARCHIVED / JS implementation of Amino
 - [everett-protocol/cosmosjs](https://github.com/everett-protocol/cosmosjs) - Everett Signing & API Library
 - [lcnem/cosmos-client-ts](https://github.com/lcnem/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains
