@@ -74,6 +74,8 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 ### Rust
 
 - [iqlusion/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
+- [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs/) - Tendermint data structures, RPC client, and light client
+- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures, handlers, and relayer
 
 ## Block Explorers & Validator Profiles
 
