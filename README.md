@@ -113,5 +113,6 @@ Projects built using the Cosmos-SDK
 
 ## Related
 
+- [Awesome Tendermint](https://github.com/tendermint/awesome)
 - [Awesome Binance Chain](https://github.com/binance-chain/awesome)
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm)
