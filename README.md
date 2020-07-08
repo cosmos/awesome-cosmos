@@ -45,6 +45,7 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 - [B-Harvest](https://bharvest.io/wallet_en)
 - [ATOMScan](https://atomscan.app)
 - [Coris](https://coris.network)
+- [Cosmoscan](https://cosmoscan.net)
 
 ## Modules
 
