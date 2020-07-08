@@ -107,4 +107,8 @@ Projects built using the Cosmos-SDK
 
 - [What is Cosmos?](https://cosmos.network/intro/)
 
-**Discalaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
+**Disclaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
+
+## Related
+
+- [Awesome Binance Chain](https://github.com/binance-chain/awesome)
