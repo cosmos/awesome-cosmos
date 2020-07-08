@@ -100,7 +100,6 @@ Projects built using the Cosmos-SDK
 - Terra [Website](https://terra.money/)
 - ThorChain [Website](https://thorchain.org/)
 - Tichex [Website](https://tichex.com/)
-- Trustory [Website](https://www.trustory.io/)
 
 - [More Here](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 
