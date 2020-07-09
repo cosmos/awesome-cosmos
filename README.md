@@ -86,9 +86,15 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Cosmic Compass](https://cosmiccompass.io/)
 - [Cosmos Overview](https://cosmos-overview.genesislab.net/)
 - [Hubble](https://hubble.figment.network/)
-- [LOOK Explorer](https://cosmos.ping.pub)
-- [Mintscan](https://www.mintscan.io/)
+- [Lunie](https://lunie.io)
+- [Mintscan by Cosmostation](https://www.mintscan.io/)
 - [Stargazer](https://stargazer.certus.one/)
+- [B-Harvest](https://bharvest.io/wallet_en)
+- [ATOMScan](https://atomscan.app)
+- [Coris](https://coris.network)
+- [Cosmoscan](https://cosmoscan.net)
+- [Stake ID](https://stake.id)
+- [LOOK Explorer](https://cosmos.ping.pub)
 - [Union Market](https://union.market/token/cosmos)
 - [Map of Zones](https://mapofzones.com/?period=24)
 
@@ -182,11 +188,16 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - Terra [Website](https://terra.money/)
 - ThorChain [Website](https://thorchain.org/)
 - Tichex [Website](https://tichex.com/)
-- Trustory [Website](https://www.trustory.io/)
 
 ## Articles
 
 - [What is Cosmos?](https://cosmos.network/intro/)
 - [Learn how to use Gaia in Spanish using a virtual machine](https://github.com/Colm3na/MeetupCosmos)
 
-**Discalaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
+**Disclaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
+
+## Related
+
+- [Awesome Tendermint](https://github.com/tendermint/awesome)
+- [Awesome Binance Chain](https://github.com/binance-chain/awesome)
+- [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm)
