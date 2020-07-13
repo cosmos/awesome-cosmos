@@ -1,0 +1,12 @@
+{
+  "name": "Chainpoint",
+  "description": "?",
+  "image": "/static/logos/chainpoint.png",
+  "network": "?",
+  "links": {
+    "proof": "https://medium.com/chainpoint/chainpoint-roadmap-2019-d04e726b6e85",
+    "github": "https://github.org/chainpoint",
+    "website": "https://chainpoint.org/"
+  },
+  "tags": ["?"]
+}

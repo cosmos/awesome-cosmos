@@ -1,0 +1,13 @@
+{
+  "name": "EVERETT",
+  "description": "A staking derivative middle-layer protocol to solve the problem of competing interest rates between staking and DeFi liquidity.",
+  "image": "/static/logos/everett.png",
+  "network": "development",
+  "links": {
+    "proof": "https://medium.com/everett-protocol/introducing-everett-1ae9b7e73164",
+    "github": "https://github.com/mesg-foundation",
+    "twitter": "https://twitter.com/mesgfoundation",
+    "website": "https://www.everett.zone/"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

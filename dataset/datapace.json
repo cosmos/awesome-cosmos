@@ -1,0 +1,11 @@
+{
+  "name": "Datapace",
+  "description": "?",
+  "image": "/static/logos/peerity.png",
+  "network": "?",
+  "links": {
+    "proof": "https://datapace.io/datapace_whitepaper.pdf",
+    "website": "https://datapace.io/"
+  },
+  "tags": ["?"]
+}

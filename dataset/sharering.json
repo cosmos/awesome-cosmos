@@ -1,0 +1,13 @@
+{
+  "name": "ShareRing",
+  "description": "?",
+  "image": "/static/logos/sharering.jpeg",
+  "network": "?",
+  "links": {
+    "proof": "https://venturebeat.com/2019/01/14/sharering-launches-blockchain-powered-car-sharing-on-top-of-existing-rental-services/",
+    "github": "https://github.com/ShareRing/",
+    "chat": "https://t.me/ShareRing",
+    "website": "https://sharering.network/"
+  },
+  "tags": ["?"]
+}

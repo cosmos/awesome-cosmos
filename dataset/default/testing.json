@@ -1,0 +1,61 @@
+{
+	"name": "app",
+	"slug": "app-name",
+	"short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	"long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt leo sed nunc tincidunt auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent rutrum eget ex eget tempor.",
+	"website_url": "https://app.com",
+	"logo": "app.svg",
+	"featured_image": "app.png",
+	"developer": {
+		"name": "GOOD_DEV",
+		"url": "https://good.dev"
+	},
+	"social_links": [
+	  {
+      "name": "twitter",
+      "url": ""
+    },
+	  {
+      "name": "proof",
+      "url": ""
+    },
+	  {
+      "name": "github",
+      "url": ""
+    },
+	  {
+      "name": "gitlab",
+      "url": ""
+    },
+	  {
+      "name": "medium",
+      "url": ""
+    },
+	  {
+      "name": "discord",
+      "url": ""
+    },
+	  {
+      "name": "website",
+      "url": ""
+    }
+	],
+  "categories": [
+    {
+      "name": "tools",
+      "subcategories": [
+        "modules",
+        "block-explorers",
+        "frameworks",
+        "smart-contracts",
+        "utilities"
+      ]
+    }
+  ],
+	"platforms": ["cosmos-sdk", "tendermint-core", "ethermint", "cosmwasm", "none"],
+	"lang": ["go", "js", "rust", "none"],
+	"popularity": 123123,
+	"alexa_score": 1029,
+	"is_verified": true,
+	"is_ibc_support": true
+}

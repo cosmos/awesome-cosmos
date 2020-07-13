@@ -1,0 +1,13 @@
+{
+  "name": "Loom Network",
+  "description": "Loom is a Layer 2 scaling solution for Ethereum that includes a network of DPoS sidechains for highly-scalable games and user-facing DApps.",
+  "image": "/static/logos/loom-network.png",
+  "network": "mainnet",
+  "links": {
+    "proof": "https://github.com/loomnetwork/loomchain",
+    "github": "https://github.com/loomnetwork",
+    "chat": "https://t.me/loomnetwork",
+    "website": "https://loomx.io/"
+  },
+  "tags": ["tendermint core"]
+}

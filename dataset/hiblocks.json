@@ -1,0 +1,12 @@
+{
+  "name": "HIBLOCKS",
+  "description": "hiblocks is a blockchain-based social media platform. Anyone can become a content curator or creator and get rewarded.",
+  "image": "/static/logos/default.png",
+  "network": "?",
+  "links": {
+    "proof": "https://medium.com/@hiblocks/why-were-using-tendermint-consensus-algorithm-for-the-hiblocks-platform-21737a14b21f",
+    "chat": "https://t.me/hiblocks_eng",
+    "website": "http://www.hiblocks.io/main.do"
+  },
+  "tags": ["tendermint core"]
+}

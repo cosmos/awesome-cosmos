@@ -1,0 +1,14 @@
+{
+  "name": "Idena",
+  "description": "Proof-of-Person blockchain. It allows for proof of humanity and uniqueness for its participants by running AI-hard Turing test globally at the same time.",
+  "image": "/static/logos/idena.png",
+  "network": "?",
+  "links": {
+    "proof": "https://leapdao.org/blog/Plasma-Testnet-Launched/",
+    "github": "https://github.com/idena-network",
+    "twitter": "https://twitter.com/IdenaNetwork",
+    "chat": "https://t.me/IdenaAnnouncements",
+    "website": "https://idena.io/"
+  },
+  "tags": ["?"]
+}

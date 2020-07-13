@@ -1,0 +1,13 @@
+{
+  "name": "IRIS Network",
+  "description": "IRISnet is designed to be the foundation for next generation distributed business applications. It is a BPoS blockchain, built with Cosmos-SDK, that enables cross-chain interoperability through a unified service model.",
+  "image": "/static/logos/irisnet.png",
+  "network": "mainnet",
+  "links": {
+    "proof": "https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md",
+    "github": "https://github.com/irisnet/",
+    "chat": "https://t.me/irisnetwork",
+    "website": "https://www.irisnet.org/"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Xar",
+  "description": "Cosmos-based cross-chain decentralized finance.",
+  "image": "/static/logos/xar.png",
+  "network": "mainnet",
+  "links": {
+    "proof": "https://www.blog.xar.network/what-is-xar-network/",
+    "github": "https://github.com/xar-network",
+    "twitter": "https://twitter.com/xarnetwork",
+    "website": "https://xar.network/"
+  },
+  "tags": ["cosmos sdk"]
+}

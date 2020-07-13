@@ -1,0 +1,11 @@
+{
+  "name": "Uphack",
+  "description": "Build blockchain powered social apps.",
+  "image": "/static/logos/hashnode-mint.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/Hashnode/mint",
+    "github": "https://github.com/Hashnode"
+  },
+  "tags": ["?"]
+}

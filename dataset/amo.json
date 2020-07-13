@@ -1,0 +1,12 @@
+{
+  "name": "AMO",
+  "description": "?",
+  "image": "/static/logos/amo.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/amolabs/docs/blob/master/protocol.md",
+    "github": "https://github.com/amolabs/amoabci",
+    "website": "https://www.amo.foundation/"
+  },
+  "tags": ["?"]
+}

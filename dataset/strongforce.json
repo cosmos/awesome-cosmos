@@ -1,0 +1,12 @@
+{
+  "name": "Strong Force",
+  "description": "C# Smart Contracts framework over Tendermint consensus",
+  "image": "/static/logos/strongforce.png",
+  "network": "?",
+  "links": {
+    "github": "https://github.com/comrade-coop/strongforce",
+    "chat": "https://discordapp.com/invite/KrtQdXX",
+    "website": "https://www.strongforce.io/"
+  },
+  "tags": ["?"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "EnLedger",
+  "description": "",
+  "image": "/static/logos/enledger.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/enledger/standAlonePassGenerate",
+    "github": "https://github.com/enledger",
+    "website": "https://www.enledger.io/"
+  },
+  "tags": ["?"]
+}

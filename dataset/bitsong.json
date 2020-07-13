@@ -1,0 +1,13 @@
+{
+  "name": "BitSong",
+  "description": "BitSong’s mission is to enable a simple global blockchain infrastructure that empowers the music industry.",
+  "image": "/static/logos/bitsong.jpeg",
+  "network": "testnet",
+  "links": {
+    "proof": "https://medium.com/@BitSongOfficial/important-bitsongs-public-sale-notice-e70e448bd90c",
+    "github": "https://github.com/BitSongOfficial",
+    "chat": "https://t.me/BitSongOfficial",
+    "website": "https://bitsong.io/"
+  },
+  "tags": ["cosmos sdk"]
+}

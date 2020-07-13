@@ -1,0 +1,11 @@
+{
+  "name": "COMDEX",
+  "description": "Comdex is revolutionising the archaic and laggard commodity trade industry to make it more efficient and usher it into the next era of transformation. Comdex revolutionizes the $17 trillion a year commodity trading industry by using existing banking structures and advanced technology. With a plethora of solutions including a single platform to connect trade financiers, aid in trade settlement and propel trade discoveries, Comdex is already in the pilot phase with trades of millions of dollars.",
+  "image": "/static/logos/comdex.jpg",
+  "network": "testnet",
+  "links": {
+    "proof": "https://comdex.sg/",
+    "website": "https://comdex.sg/"
+  },
+  "tags": ["cosmos sdk"]
+}

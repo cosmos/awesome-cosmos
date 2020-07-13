@@ -1,0 +1,14 @@
+{
+  "name": "KiChain",
+  "description": "The Ki Foundation creates a strong and fair ecosystem of value by deploying a new currency with a sustainable business model. For a better world. Block by block.",
+  "image": "/static/logos/ki.png",
+  "network": "testnet",
+  "links": {
+    "website": "https://foundation.ki",
+    "github": "https://github.com/KiFoundation",
+    "twitter": "https://twitter.com/Ki_Foundation",
+    "chat": "https://t.me/KiFoundation",
+    "proof": "https://static.foundation.ki/documents/ki-whitepaper.pdf"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wisdom of Crowd",
+  "description": "?",
+  "image": "/static/logos/woc.jpeg",
+  "network": "?",
+  "links": {
+    "proof": "https://medium.com/wisdom-of-crowd/wisdom-of-crowd-decentralized-prediction-market-on-lotionjs-with-tendermint-blockchain-77082e7c37d4",
+    "github": "https://github.com/swswsw/predictionmkt",
+    "chat": "https://t.me/wisdomofcrowd5",
+    "website": "http://www.wisdomofcrowd.org/"
+  },
+  "tags": ["?"]
+}

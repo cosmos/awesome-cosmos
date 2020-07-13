@@ -1,0 +1,13 @@
+{
+  "name": "ThetaToken",
+  "description": "Decentralized video streaming, powered by users and an innovative new blockchain.",
+  "image": "/static/logos/thetatoken.png",
+  "network": "?",
+  "links": {
+    "proof": "https://medium.com/@ThetaLabs/theta-network-roadmap-for-2018-90c4fbf2cf4a",
+    "github": "https://github.com/thetatoken",
+    "chat": "https://t.me/thetatoken",
+    "website": "https://www.thetatoken.org/"
+  },
+  "tags": ["?"]
+}

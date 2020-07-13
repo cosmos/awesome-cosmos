@@ -1,0 +1,13 @@
+{
+  "name": "KONSTELLATION",
+  "description": "Our mission is to remove opacity and inefficiencies from the global alternative investment industry via blockchain solutions. The Konstellation Network will continue to attract leading global financial firms and industry leaders as node operators, service providers, and users.",
+  "image": "/static/logos/konstellation.png",
+  "network": "development",
+  "links": {
+    "proof": "https://medium.com/@KONSTELLATION/konstellation-network-will-be-developed-on-cosmos-4d8c01ff0871",
+    "github": "https://github.com/Konstellation",
+    "chat": "https://t.me/Konstellation",
+    "website": "https://konstellation.tech/"
+  },
+  "tags": ["?"]
+}

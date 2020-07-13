@@ -1,0 +1,11 @@
+{
+  "name": "FourthState",
+  "description": "Cosmos SDK (Tendermint consensus) side-chain implementation for plasma.",
+  "image": "/static/logos/fourthstate.png",
+  "network": "development",
+  "links": {
+    "proof": "https://medium.com/blockchain-at-berkeley/fourthstate-is-implementing-plasma-6fe99019edb2",
+    "github": "https://github.com/fourthstate"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

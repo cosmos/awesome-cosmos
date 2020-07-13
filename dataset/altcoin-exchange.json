@@ -1,0 +1,13 @@
+{
+  "name": "Altcoin Exchange",
+  "description": "?",
+  "image": "/static/logos/altcoin.png",
+  "network": "?",
+  "links": {
+    "proof": "https://blog.altcoin.io/why-weve-chosen-a-plasma-like-sidechain-solution-for-our-dex-97737ca46b86",
+    "github": "https://github.com/AltCoinExchange",
+    "chat": "https://t.me/altcoin_io",
+    "website": "https://altcoin.io/"
+  },
+  "tags": ["?"]
+}

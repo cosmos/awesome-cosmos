@@ -1,0 +1,14 @@
+{
+  "name": "National Digital ID",
+  "description": "",
+  "image": "/static/logos/ndidplatform.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/ndidplatform/smart-contract/blob/master/go.mod#L22",
+    "github": "https://github.com/ndidplatform",
+    "twitter": "https://twitter.com/DawnProtocol",
+    "facebook": "https://www.facebook.com/NationalDigitalID",
+    "website": "http://www.ndid.co.th"
+  },
+  "tags": ["tendermint core"]
+}

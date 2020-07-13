@@ -1,0 +1,13 @@
+{
+  "name": "Stratumn - IndigoCore",
+  "description": "Stratumn\"s Proof of Process Technology enables people and organizations to trust the millions of processes that connect our world",
+  "image": "/static/logos/stratumn.jpeg",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/stratumn/go-indigocore",
+    "github": "https://github.com/stratumn",
+    "chat": "https://gitter.im/stratumn/Lobby",
+    "website": "https://stratumn.com/"
+  },
+  "tags": ["?"]
+}

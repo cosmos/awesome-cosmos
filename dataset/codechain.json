@@ -1,0 +1,12 @@
+{
+  "name": "CodeChain",
+  "description": "Programmable open source blockchain technology optimal for developing and customizing multi-asset management systems.",
+  "image": "/static/logos/codechain.png",
+  "network": "mainnet",
+  "links": {
+    "proof": "https://codechain.readthedocs.io/en/latest/basic-usage.html?highlight=tendermint",
+    "github": "https://github.com/CodeChain-io",
+    "website": "https://codechain.io/"
+  },
+  "tags": ["tendermint bft"]
+}

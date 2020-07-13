@@ -1,0 +1,13 @@
+{
+  "name": "LIGHT STREAMS",
+  "description": "Given our analysis of this environment in addition to thorough understanding of the technology, we created CITA, an enterprise oriented blockchain framework that supports smart contract execution and design. CITA provides a stable, efficient, flexible and future-proof platform for enterprise-level blockchain applications.",
+  "image": "/static/logos/lightstreams-network.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/lightstreams-network/lightchain",
+    "github": "https://github.com/lightstreams-network",
+    "chat": "https://t.me/lightstreams",
+    "website": "https://www.lightstreams.network/"
+  },
+  "tags": ["tendermint core"]
+}

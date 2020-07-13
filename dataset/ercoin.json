@@ -1,0 +1,13 @@
+{
+  "name": "Ercoin",
+  "description": "?",
+  "image": "/static/logos/ercoin.png",
+  "network": "?",
+  "links": {
+    "proof": "https://goo.gl/hQyRy5",
+    "gitlab": "https://gitlab.com/Ercoin",
+    "chat": "irc://irc.freenode.net/ercoin",
+    "website": "http://ercoin.tech/"
+  },
+  "tags": ["?"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fluence",
+  "description": "?",
+  "image": "/static/logos/fluence.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/fluencelabs/tendermint-demo",
+    "github": "https://github.com/fluencelabs",
+    "chat": "https://t.me/joinchat/AAEssEJVYu-7YvRc0XNZaQ",
+    "website": "https://fluence.one/"
+  },
+  "tags": ["tendermint core"]
+}

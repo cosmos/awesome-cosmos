@@ -1,0 +1,14 @@
+{
+  "name": "DATA",
+  "description": "DATA is a blockchain based digital data authentication protocol powered by AI & P2P mobile storage infrastructure.",
+  "image": "/static/logos/data.jpg",
+  "network": "mainnet",
+  "links": {
+    "proof": "https://data.eco/#technology",
+    "github": "https://github.com/BlockchainDATA",
+    "twitter": "https://twitter.com/Blockchain_Data",
+    "chat": "http://t.me/blockchainDATA",
+    "website": "https://data.eco/"
+  },
+  "tags": ["?"]
+}

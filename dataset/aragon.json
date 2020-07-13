@@ -1,0 +1,14 @@
+{
+  "name": "Aragon",
+  "description": "Aragon empowers you to freely organize and collaborate without borders or intermediaries. Create global, bureaucracy-free organizations, companies, and communities.",
+  "image": "/static/logos/aragon-chain.png",
+  "network": "development",
+  "links": {
+    "proof": "https://blog.aragon.one/aragon-chain",
+    "github": "https://github.com/aragon",
+    "twitter": "https://twitter.com/aragonproject",
+    "chat": "https://aragon.chat",
+    "website": "https://aragon.org/"
+  },
+  "tags": ["ethermint", "cosmos sdk", "tendermint core"]
+}

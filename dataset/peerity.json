@@ -1,0 +1,12 @@
+{
+  "name": "Peerity",
+  "description": "?",
+  "image": "/static/logos/peerity.png",
+  "network": "?",
+  "links": {
+    "proof": "http://peerity.io/whitepaper/",
+    "github": "https://github.com/Peerity",
+    "website": "http://peerity.io/"
+  },
+  "tags": ["?"]
+}

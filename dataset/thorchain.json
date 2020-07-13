@@ -1,0 +1,13 @@
+{
+  "name": "THORChain",
+  "description": "?",
+  "image": "/static/logos/thorchain.png",
+  "network": "mainnet",
+  "links": {
+    "proof": "https://github.com/thorchain/thorchain-wasm-bridge",
+    "github": "https://github.com/thorchain",
+    "chat": "https://t.me/thorchain_org",
+    "website": "https://thorchain.org/"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

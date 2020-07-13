@@ -1,0 +1,13 @@
+{
+  "name": "LeapDAO",
+  "description": "?",
+  "image": "/static/logos/leapdao.png",
+  "network": "testnet",
+  "links": {
+    "proof": "https://leapdao.org/blog/Plasma-Testnet-Launched/",
+    "github": "https://github.com/leapdao",
+    "twitter": "https://twitter.com/leapdao",
+    "website": "https://leapdao.org"
+  },
+  "tags": ["?"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DecentRandom",
+  "description": "Higher security and quality randomization than any traditional service can be handled at a fraction of the cost of a network fee.",
+  "image": "/static/logos/decentrandom.png",
+  "network": "testnet",
+  "links": {
+    "proof": "https://decentrandom.com/asset/whitepaper/whitepaper_beta_kr_v.0.2.1.pdf",
+    "github": "https://github.com/decentrandom",
+    "chat": "https://t.me/joinchat/EF5N2RHTiUOFs4db7vCviA",
+    "website": "https://decentrandom.com/"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

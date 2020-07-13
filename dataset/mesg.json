@@ -1,0 +1,13 @@
+{
+  "name": "MESG",
+  "description": "An open event channel and CLI for building and running modular applications. Control the flow of data and level of security between your whole stack of connected systems.",
+  "image": "/static/logos/mesg.png",
+  "network": "?",
+  "links": {
+    "proof": "https://medium.com/mesg/bi-weekly-news-29-08-19-3e7ce9d3533a",
+    "github": "https://github.com/mesg-foundation",
+    "twitter": "https://twitter.com/mesgfoundation",
+    "website": "https://mesg.com/"
+  },
+  "tags": ["cosmos sdk"]
+}

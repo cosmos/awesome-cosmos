@@ -1,0 +1,12 @@
+{
+  "name": "Color Platform",
+  "description": "?",
+  "image": "/static/logos/color-platform.png",
+  "network": "testnet",
+  "links": {
+    "proof": "https://color-platform.org/~colors/_assets/down/Color_Prism.pdf",
+    "chat": "https://open.kakao.com/o/gN5YMamb",
+    "website": "https://color-platform.org/kr/"
+  },
+  "tags": ["cosmos-sdk", "tendermint core"]
+}

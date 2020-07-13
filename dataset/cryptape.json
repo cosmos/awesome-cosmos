@@ -1,0 +1,12 @@
+{
+  "name": "CITA by Cryptape",
+  "description": "?",
+  "image": "/static/logos/cryptape.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/cryptape/cita-whitepaper/blob/master/en/technical-whitepaper.md",
+    "github": "https://github.com/cryptape/",
+    "website": "https://www.cryptape.com/#/"
+  },
+  "tags": ["?"]
+}

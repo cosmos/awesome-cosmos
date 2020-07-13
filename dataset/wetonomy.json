@@ -1,0 +1,10 @@
+{
+  "name": "WETONOMY",
+  "description": "based on Strong Force",
+  "image": "/static/logos/wetonomy.png",
+  "network": "?",
+  "links": {
+    "github": "https://github.com/comrade-coop/wetonomy"
+  },
+  "tags": ["?"]
+}

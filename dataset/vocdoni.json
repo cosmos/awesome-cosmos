@@ -1,0 +1,15 @@
+{
+  "name": "Vocdoni",
+  "description": "A user-friendly, highly secure and privacy-centric governance platform.",
+  "image": "/static/logos/vocdoni.png",
+  "network": "testnet",
+  "links": {
+    "website": "https://vocdoni.io",
+    "github": "https://github.com/vocdoni",
+    "gitlab": "https://gitlab.com/vocdoni",
+    "twitter": "https://twitter.com/vocdoni",
+    "chat": "https://t.me/vocdoni",
+    "proof": "https://blog.vocdoni.io/vocdoni-technical-overview-v1/"
+  },
+  "tags": ["tendermint core"]
+}

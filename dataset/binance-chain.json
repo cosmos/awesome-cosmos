@@ -1,0 +1,13 @@
+{
+  "name": "Binance Chain",
+  "description": "Binance Chain is a blockchain software system developed by Binance and its community. Binance DEX refers to the decentralized exchange features developed on top of Binance Chain. The purpose of the new blockchain and DEX is to create an alternative marketplace for issuing and exchanging digital assets in a decentralized manner.",
+  "image": "/static/logos/binance-chain.png",
+  "network": "mainnet",
+  "links": {
+    "proof": "https://binance-chain.github.io/acknowledgement.html#tendermint-and-cosmos",
+    "github": "https://github.com/binance-chain/",
+    "chat": "https://t.me/binanceexchange",
+    "website": "https://binance-chain.github.io/"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

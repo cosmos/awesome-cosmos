@@ -1,0 +1,14 @@
+{
+  "name": "Dropil Chain",
+  "description": "Dropil brings a suite of tools to cater to a broad cryptocurrency audience",
+  "image": "/static/logos/dropil.png",
+  "network": "testnet",
+  "links": {
+    "proof": "https://dropil.com/dropil-chain-testnet-official-launch/",
+    "github": "https://github.com/dropilchain-testnet",
+    "twitter": "https://twitter.com/DropilCoin",
+    "chat": "https://t.me/DropilCoin",
+    "website": "https://dropilchain.com"
+  },
+  "tags": ["cosmos sdk", "tendermint core"]
+}

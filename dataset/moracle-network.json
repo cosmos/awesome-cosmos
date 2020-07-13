@@ -1,0 +1,13 @@
+{
+  "name": "Moracle Network",
+  "description": "?",
+  "image": "/static/logos/moraclenetwork.png",
+  "network": "?",
+  "links": {
+    "proof": "https://moracle.network/",
+    "github": "https://github.com/MoracleNetwork",
+    "chat": "https://t.me/MoracleNetwork",
+    "website": "https://moracle.network/"
+  },
+  "tags": ["?"]
+}

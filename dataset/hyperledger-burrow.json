@@ -1,0 +1,13 @@
+{
+  "name": "HyperLedger Burrow (Monax)",
+  "description": "Hyperledger Burrow is one of the Hyperledger projects hosted by The Linux Foundation. Hyperledger Burrow provides a modular blockchain client with a permissioned smart contract interpreter partially developed to the specification of the EVM.",
+  "image": "/static/logos/hyperledger-burrow.png",
+  "network": "?",
+  "links": {
+    "proof": "https://github.com/hyperledger/burrow",
+    "github": "https://github.com/hyperledger/burrow",
+    "chat": "https://chat.hyperledger.org/",
+    "website": "https://hyperledger.org/projects/hyperledger-burrow"
+  },
+  "tags": ["tendermint core"]
+}

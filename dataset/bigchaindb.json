@@ -1,0 +1,14 @@
+{
+  "name": "BigchainDB",
+  "description": "Traditional blockchains lack what most enterprises require. BigchainDB takes a different approach, one that starts with a big data distributed database and then adds blockchain characteristics. The result is high throughput and low latency, making data-centric and high volume use cases a breeze. BigchainDB combines the all-important advantages of queryability and performance of traditional databases with the distributed, secure and immutable nature of blockchain technology into one package.",
+  "image": "/static/logos/bigchaindb.jpg",
+  "network": "?",
+  "links": {
+    "proof": "https://blog.bigchaindb.com/bigchaindb-2-0-is-byzantine-fault-tolerant-5ffdac96bc44",
+    "github": "https://github.com/bigchaindb",
+    "twitter": "https://twitter.com/BigchainDB",
+    "chat": "https://gitter.im/bigchaindb/bigchaindb",
+    "website": "https://www.bigchaindb.com/"
+  },
+  "tags": ["tendermint core"]
+}

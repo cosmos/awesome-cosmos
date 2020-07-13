@@ -1,0 +1,13 @@
+{
+  "name": "Bytom",
+  "description": "?",
+  "image": "/static/logos/bytom.png",
+  "network": "?",
+  "links": {
+    "proof": "https://cointelegraph.com/press-releases/bytom-blockchain-developers-takes-home-the-second-prize-in-the-2nd-cosmos-hackathon",
+    "github": "https://github.com/Bytom/",
+    "chat": "https://t.me/BytomInternational",
+    "website": "https://bytom.io/"
+  },
+  "tags": ["?"]
+}
