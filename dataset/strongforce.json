@@ -2,8 +2,9 @@
   "name": "Strong Force",
   "description": "C# Smart Contracts framework over Tendermint consensus",
   "image": "/static/logos/strongforce.png",
-  "network": "?",
+  "network": "framework",
   "links": {
+    "proof": "https://medium.com/strong-force/the-power-of-a-c-smartcontract-d5e87f5380b5",
     "github": "https://github.com/comrade-coop/strongforce",
     "chat": "https://discordapp.com/invite/KrtQdXX",
     "website": "https://www.strongforce.io/"
