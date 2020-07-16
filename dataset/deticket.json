@@ -1,10 +1,12 @@
 {
   "name": "DeTicket",
-  "description": "verified via @Berliner1234 on TG",
+  "description": "App built on Cosmos providing a secure ticketing experience",
   "image": "/static/logos/default.png",
-  "network": "?",
+  "network": "development",
   "links": {
-    "twitter": "https://twitter.com/DeTicket1"
+    "proof": "https://medium.com/@DeTicket/the-ticketing-market-is-broken-31592753c8e4",
+    "twitter": "https://twitter.com/DeTicket1",
+    "website": "https://deticket.io/"
   },
   "tags": ["?"]
 }
