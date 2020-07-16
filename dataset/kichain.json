@@ -4,11 +4,11 @@
   "image": "/static/logos/ki.png",
   "network": "testnet",
   "links": {
-    "website": "https://foundation.ki",
+    "proof": "https://static.foundation.ki/documents/ki-whitepaper.pdf"
     "github": "https://github.com/KiFoundation",
     "twitter": "https://twitter.com/Ki_Foundation",
     "chat": "https://t.me/KiFoundation",
-    "proof": "https://static.foundation.ki/documents/ki-whitepaper.pdf"
+    "website": "https://foundation.ki",
   },
   "tags": ["cosmos sdk", "tendermint core"]
 }
