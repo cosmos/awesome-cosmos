@@ -1,11 +1,12 @@
 {
   "name": "ShareRing",
-  "description": "?",
+  "description": "ShareRing is built on distributed ledger technology, allowing for a transparent, decentralised ecosystem.",
   "image": "/static/logos/sharering.jpeg",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://venturebeat.com/2019/01/14/sharering-launches-blockchain-powered-car-sharing-on-top-of-existing-rental-services/",
     "github": "https://github.com/ShareRing/",
+    "twitter": "https://twitter.com/ShareRingGlobal",
     "chat": "https://t.me/ShareRing",
     "website": "https://sharering.network/"
   },
