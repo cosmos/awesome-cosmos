@@ -5,6 +5,7 @@
   "network": "development",
   "links": {
     "proof": "https://medium.com/@PersistenceOne/issue-01-introducing-persistence-ff778a9b7022",
+    "github": "https://github.com/persistenceOne",
     "twitter": "https://twitter.com/PersistenceOne",
     "chat": "https://t.me/PersistenceOne",
     "website": "https://persistence.one"
