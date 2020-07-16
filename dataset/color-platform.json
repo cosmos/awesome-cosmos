@@ -1,11 +1,13 @@
 {
   "name": "Color Platform",
-  "description": "?",
+  "description": "Color Platform is devoted to bringing the opportunities of a decentralized platform for daily life.",
   "image": "/static/logos/color-platform.png",
-  "network": "testnet",
+  "network": "mainnet",
   "links": {
     "proof": "https://color-platform.org/~colors/_assets/down/Color_Prism.pdf",
-    "chat": "https://open.kakao.com/o/gN5YMamb",
+    "github": "https://github.com/ColorPlatform/",
+    "twitter": "https://twitter.com/colorsorgmx",
+    "chat": "https://t.me/color_platform_en",
     "website": "https://color-platform.org/kr/"
   },
   "tags": ["cosmos-sdk", "tendermint core"]
