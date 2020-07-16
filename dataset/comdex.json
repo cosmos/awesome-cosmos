@@ -5,6 +5,7 @@
   "network": "testnet",
   "links": {
     "proof": "https://comdex.sg/",
+    "twitter": "https://twitter.com/ComdexOfficial",
     "website": "https://comdex.sg/"
   },
   "tags": ["cosmos sdk"]
