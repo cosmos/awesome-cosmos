@@ -2,10 +2,11 @@
   "name": "Papyrus",
   "description": "Papyrus is an open source public blockchain network compatible with Ethereum ecosystem, which eliminates key issues of Ethereum, providing highly scalable, reliable and cost-efficient decentralized platform for application developers.",
   "image": "/static/logos/papyrus.png",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://i.imgur.com/ok5CORM.png",
     "github": "https://github.com/papyrusglobal",
+    "twitter": "https://twitter.com/papyrus_network",
     "chat": "https://t.me/papyrusglobal",
     "website": "https://papyrus.global/"
   },
