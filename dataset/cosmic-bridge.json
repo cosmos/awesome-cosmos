@@ -1,11 +1,12 @@
 {
   "name": "Cosmic Bridge",
-  "description": "?",
+  "description": "Building an experimental second layer for Bitcoin using Cosmos",
   "image": "/static/logos/cosmic-bridge.jpeg",
-  "network": "?",
+  "network": "frozen",
   "links": {
     "proof": "https://github.com/CosmicBridge/server/blob/master/README.md",
     "github": "https://github.com/CosmicBridge"
+    "website": "https://lotionjs.com/"
   },
   "tags": ["?"]
 }
