@@ -1,11 +1,10 @@
 {
   "name": "DGaming",
-  "description": "?",
+  "description": "The DGaming Hub is a decentralized gaming hub in the Cosmos network, which will connect standalone gaming blockchains to the economical ecosystem. ",
   "image": "/static/logos/dgaming.png",
-  "network": "?",
+  "network": "frozen",
   "links": {
-    "proof": "https://www.cryptoninjas.net/2019/05/29/dgaming-to-launch-decentralized-gaming-hub-on-the-cosmos-network/",
-    "website": "https://hub.dgaming.com/"
+    "proof": "https://medium.com/@dgaminghub/announcing-the-dgaming-hub-in-the-cosmos-ecosystem-7adc5e9628d3",
   },
   "tags": ["?"]
 }
