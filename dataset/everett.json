@@ -5,8 +5,7 @@
   "network": "development",
   "links": {
     "proof": "https://medium.com/everett-protocol/introducing-everett-1ae9b7e73164",
-    "github": "https://github.com/mesg-foundation",
-    "twitter": "https://twitter.com/mesgfoundation",
+    "github": "https://github.com/chainapsis/everett-hackathon",
     "website": "https://www.everett.zone/"
   },
   "tags": ["cosmos sdk", "tendermint core"]
