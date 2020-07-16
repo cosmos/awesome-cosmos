@@ -6,6 +6,8 @@
   "links": {
     "proof": "https://agoric.com/agoric-launches-testnet",
     "github": "https://github.com/agoric",
+    "twitter": "https://twitter.com/agoric",
+    "chat": "https://t.me/agoricsystems",
     "website": "https://agoric.com/about/"
   },
   "tags": ["cosmos sdk"]
