@@ -1,8 +1,8 @@
 {
   "name": "Peerity",
-  "description": "?",
+  "description": "",
   "image": "/static/logos/peerity.png",
-  "network": "?",
+  "network": "frozen",
   "links": {
     "proof": "http://peerity.io/whitepaper/",
     "github": "https://github.com/Peerity",
