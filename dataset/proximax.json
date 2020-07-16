@@ -2,7 +2,7 @@
   "name": "ProximaX",
   "description": "The ProximaX Sirius core infrastructure platform leverages on an amended and augmented blockchain and is integrated with peer-to-peer, distributed off-chain storage, streaming, and database layers. These are overlaid with APIs/SDKs in a wide range of languages for developers to rapidly develop and deploy their applications. By parallelising all of these protocols into manageable but distinct layers, ProximaX leverages the advantages of blockchain whilst solving its challenges via service layers found in traditional architectures, packaged into an all-in-one extensive framework.",
   "image": "/static/logos/proximax.jpg",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://medium.com/@proximaxio/proximax-sirius-an-integrated-and-distributed-ledger-technology-platform-5ced5f38097b",
     "github": "https://github.com/proximax-storage",
