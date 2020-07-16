@@ -2,7 +2,7 @@
   "name": "UniCoins",
   "description": "UniCoins is a Dapp used as a red pocket in China based on Cosmos and IRISnet. It enables users to send cryptocurrency directly to others using a function of red pocket, create and share a lucky draw event, and make an intelligent bulk transfer",
   "image": "/static/logos/unicoins.png",
-  "network": "?",
+  "network": "dApp",
   "links": {
     "proof": "https://t.me/cosmosproject/176383",
     "chat": "https://t.me/UniCoinsUs",
