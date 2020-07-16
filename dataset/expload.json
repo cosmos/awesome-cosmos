@@ -2,9 +2,11 @@
   "name": "Expload",
   "description": "A trusted tool for the development of open-economy games, player payouts, a ready-made legal solution for digital assets and a new game distribution channel.",
   "image": "/static/logos/expload.png",
-  "network": "?",
+  "network": "open beta",
   "links": {
     "proof": "https://expload.com/blue-paper",
+    "github": "https://github.com/expload",
+    "twitter": "https://twitter.com/Exploadcom",    
     "chat": "https://t.me/expload_en",
     "website": "https://expload.com/"
   },
