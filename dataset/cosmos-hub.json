@@ -4,7 +4,11 @@
   "image": "/static/logos/gaia.png",
   "network": "mainnet",
   "links": {
+    "proof": "https://tutorials.cosmos.network/",
     "github": "https://github.com/cosmos/gaia"
+    "twitter": "https://twitter.com/cosmoshub",
+    "chat": "https://discord.gg/wUaUptB",
+    "website": "https://hub.cosmos.network/master/hub-overview/overview.html"
   },
   "tags": ["cosmos sdk", "tendermint core"]
 }
