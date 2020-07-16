@@ -2,10 +2,11 @@
   "name": "ixo",
   "description": "ixo is a blockchain built to ledger impact projects and work done in pursuit of the sustainable development goals. Its makes this project data visible, so that the progress of these projects can be easily tracked by investors. It is built on tendermint and uses the cosmos SDK.",
   "image": "/static/logos/ixo.png",
-  "network": "?",
+  "network": "development",
   "links": {
     "proof": "https://medium.com/ixo-blog/weekly-update-may-14th-2018-ce306efdc66",
     "github": "https://github.com/ixofoundation",
+    "twitter": "https://twitter.com/ixoworld",
     "chat": "https://t.me/ixonetwork",
     "website": "http://ixo.foundation/"
   },
