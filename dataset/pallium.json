@@ -1,13 +1,14 @@
 {
   "name": "Pallium",
-  "description": "?",
+  "description": "Pallium Network is a distributed computing network for the Bitcoin Era system.",
   "image": "/static/logos/neocortex.png",
-  "network": "?",
+  "network": "testnet",
   "links": {
     "proof": "https://github.com/neocortexlab?utf8=%E2%9C%93&q=tendermint&type=&language=",
     "github": "https://github.com/neocortexlab",
+    "twitter": "https://twitter.com/palliumnet",
     "chat": "https://t.me/joinchat/BnO6ig_CZTTF5zc8Iwx7aA",
-    "website": "https://neocortexlab.io"
+    "website": "http://www.pallium.network/"
   },
   "tags": ["?"]
 }
