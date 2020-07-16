@@ -2,10 +2,11 @@
   "name": "OneLedger",
   "description": "OneLedger is a Blockchain as a Service (BaaS) Solutions company, that uses their own Blockchain technology to support their customer’s blockchain needs.",
   "image": "/static/logos/oneledger.png",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://imgur.com/bUH1mpm",
     "github": "https://github.com/Oneledger/",
+    "twitter": "https://twitter.com/OneLedgerTech",
     "chat": "https://t.me/oneledger",
     "website": "https://oneledger.io/"
   },
