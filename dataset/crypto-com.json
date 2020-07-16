@@ -2,7 +2,7 @@
   "name": "crypto.com",
   "description": "We intend that Crypto.com Chain will be a high performing native blockchain solution, which will make the transaction flows between crypto users and merchants accepting crypto seamless, cost-efficient and secure.",
   "image": "/static/logos/crypto-com.png",
-  "network": "mainnet",
+  "network": "testnet",
   "links": {
     "proof": "https://blog.crypto.com/crypto-com-chain-dev-update-1/",
     "github": "https://github.com/crypto-com",
