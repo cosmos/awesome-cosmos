@@ -1,6 +1,6 @@
 {
   "name": "Desmos",
-  "description": "Desmos is an attempt to bootstrap a new social network tokenomics through the simplest form of social networking: microblogging.",
+  "description": "Desmos is a protocol whereby anyone can build any form of decentralized social networks in the easiest way possible.",
   "image": "/static/logos/desmos.jpeg",
   "network": "testnet",
   "links": {
