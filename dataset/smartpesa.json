@@ -2,7 +2,7 @@
   "name": "SmartPesa",
   "description": "A payments & agency banking solutions company.",
   "image": "/static/logos/smartpesa.png",
-  "network": "mainnet",
+  "network": "dApp",
   "links": {
     "proof": "https://tozzi21.wordpress.com/author/tozzi21/",
     "github": "http://github.com/smartpesa",
