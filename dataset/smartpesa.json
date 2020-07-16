@@ -1,11 +1,12 @@
 {
   "name": "SmartPesa",
-  "description": "?",
+  "description": "A payments & agency banking solutions company.",
   "image": "/static/logos/smartpesa.png",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://tozzi21.wordpress.com/author/tozzi21/",
     "github": "http://github.com/smartpesa",
+    "twitter": "https://twitter.com/smartpesa",
     "chat": "https://t.me/smartpesa",
     "website": "https://www.smartpesa.com/"
   },
