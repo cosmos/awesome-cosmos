@@ -1,12 +1,13 @@
 {
-  "name": "comercio.network",
+  "name": "commercio.network",
   "description": "An open source project to provide companies the ability to exchange documents and guarantee paternity, integrity, and non-repudiation.",
   "image": "/static/logos/commercio-network.png",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://github.com/commercionetwork/commercionetwork",
     "github": "https://github.com/commercionetwork",
-    "chat": "?",
+    "twitter": "https://twitter.com/Commercionet",
+    "chat": "https://t.me/CommercioNetwork",
     "website": "https://commercio.network/"
   },
   "tags": ["cosmos sdk", "tendermint core"]
