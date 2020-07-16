@@ -6,7 +6,8 @@
   "links": {
     "proof": "https://gitlab.com/microtick/mtkit/blob/master/docs/Microtick%20Guide%201.0.pdf",
     "gitlab": "https://gitlab.com/microtick",
-    "website": "https://gitlab.com/microtick/mtkit"
+    "chat": "https://t.me/microtick_general",
+    "website": "http://www.microtick.com/"
   },
   "tags": ["cosmos sdk", "tendermint core"]
 }
