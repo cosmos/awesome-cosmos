@@ -1,11 +1,12 @@
 {
   "name": "CyberMiles",
-  "description": "?",
+  "description": "CyberMiles has built highly customized solutions for the e-commerce companies to deploy their business on the Blockchain with ease.",
   "image": "/static/logos/cybermiles.png",
   "network": "mainnet",
   "links": {
     "proof": "https://www.cybermiles.io/en-us/cmt/whitepaper/",
     "github": "https://github.com/cybermiles",
+    "twitter": "https://twitter.com/cybermiles",
     "chat": "https://t.me/cybermilestoken",
     "website": "https://www.cybermiles.io/"
   },
