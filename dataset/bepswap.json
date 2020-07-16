@@ -2,9 +2,12 @@
   "name": "BEPSwap",
   "description": "Swap and stake BNB and BEP2 assets. BEPSwap is Binance Chain’s first decentralized finance application allowing BEP2 token holders to swap their assets, or stake them to provide liquidity to the market. Powered by THORChain technology.",
   "image": "/static/logos/bepswap.png",
-  "network": "?",
+  "network": "development",
   "links": {
     "proof": "https://bepswap.com/",
+    "github": "https://github.com/thorchain",
+    "twitter": "https://twitter.com/thorchain_org",
+    "chat": "https://t.me/thorchain_org",
     "website": "https://bepswap.com/"
   },
   "tags": ["cosmos sdk"]
