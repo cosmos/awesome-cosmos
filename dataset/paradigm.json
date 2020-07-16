@@ -2,10 +2,11 @@
   "name": "Paradigm",
   "description": "Paradigm provides simple interfaces and libraries for developers to implement smart contract based financial primitives. These settlement systems can be anything from spot exchange to derivatives, loans, and more. Any hybrid decentralized settlement logic (with off-chain order relay with on-chain settlement) can be implemented. Paradigm enables diverse and open marketplaces for custom exchange logic and tokenized financial instrumentation.",
   "image": "/static/logos/paradigm.png",
-  "network": "?",
+  "network": "tetsnet",
   "links": {
     "proof": "https://paradigm.market/whitepaper",
     "github": "https://github.com/ParadigmFoundation",
+    "twitter": "https://twitter.com/ParadigmMarket",
     "chat": "https://chat.paradigm.market",
     "website": "https://paradigm.market/"
   },
