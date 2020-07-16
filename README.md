@@ -188,6 +188,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - Terra [Website](https://terra.money/)
 - ThorChain [Website](https://thorchain.org/)
 - Tichex [Website](https://tichex.com/)
+- KuChain [Website](https://kuchain.network/)
 
 ## Articles
 
