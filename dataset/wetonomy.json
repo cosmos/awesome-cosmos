@@ -1,10 +1,14 @@
 {
   "name": "WETONOMY",
-  "description": "based on Strong Force",
+  "description": "Toolkit for building Decentralized Autonomous Organizations",
   "image": "/static/logos/wetonomy.png",
-  "network": "?",
+  "network": "framework",
   "links": {
-    "github": "https://github.com/comrade-coop/wetonomy"
+    "proof": "https://medium.com/wetonomy",
+    "github": "https://github.com/comrade-coop/wetonomy",
+    "twitter": "https://twitter.com/wetonomy",
+    "chat": "https://twitter.com/wetonomy",
+    "website": "https://www.wetonomy.com/"
   },
   "tags": ["?"]
 }
