@@ -1,8 +1,8 @@
 {
   "name": "XMN Blockchain Services",
-  "description": "?",
+  "description": "",
   "image": "/static/logos/xmn-services.png",
-  "network": "?",
+  "network": "",
   "links": {
     "proof": "https://github.com/xmnservices/xmnsuite",
     "github": "https://github.com/xmnservices",
