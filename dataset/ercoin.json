@@ -1,11 +1,12 @@
 {
   "name": "Ercoin",
-  "description": "?",
+  "description": "Ercoin is a cryptocurrency which aims to be simple, fast, efficient and fairly distributed.",
   "image": "/static/logos/ercoin.png",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://goo.gl/hQyRy5",
     "gitlab": "https://gitlab.com/Ercoin",
+    "twitter": "https://twitter.com/ErcoinTech",
     "chat": "irc://irc.freenode.net/ercoin",
     "website": "http://ercoin.tech/"
   },
