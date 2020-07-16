@@ -2,10 +2,11 @@
   "name": "THORChain",
   "description": "?",
   "image": "/static/logos/thorchain.png",
-  "network": "mainnet",
+  "network": "testnet",
   "links": {
     "proof": "https://github.com/thorchain/thorchain-wasm-bridge",
     "github": "https://github.com/thorchain",
+    "twitter": "https://twitter.com/thorchain_org",
     "chat": "https://t.me/thorchain_org",
     "website": "https://thorchain.org/"
   },
