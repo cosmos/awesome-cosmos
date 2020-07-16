@@ -2,10 +2,11 @@
   "name": "FOAM",
   "description": "FOAM’s dynamic proof of location protocol will enable a permissionless and privacy-preserving network of radio beacons that is independent from external centralized sources such as GPS and capable of providing secure location verification services.",
   "image": "/static/logos/foam.png",
-  "network": "mainnet",
+  "network": "development",
   "links": {
     "proof": "https://blog.foam.space/tendermint-foam-achieving-global-scalability-through-local-consensus-4c63c8bb51a8",
     "github": "https://github.com/f-o-a-m/",
+    "twitter": "https://twitter.com/foamspace",
     "chat": "https://t.me/foamspace",
     "website": "https://www.foam.space/"
   },
