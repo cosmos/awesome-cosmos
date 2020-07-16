@@ -2,7 +2,7 @@
   "name": "Dawn",
   "description": "Dawn is a global, self-governed and open-sourced Blockchain built for gamers. — “Cosmos Zone” Gaming Protocol",
   "image": "/static/logos/dawn.png",
-  "network": "?",
+  "network": "testnet",
   "links": {
     "proof": "https://dawn.org/what-is-dawn.html",
     "github": "https://github.com/Dawn-Protocol",
