@@ -1,14 +1,14 @@
 {
-  "name": "e-Money",
-  "description": "e-Money is the leading issuer of interest-bearing, currency-backed tokens on blockchain. Our technology facilitates sub-second payments on a global scale, settled immediately.",
-  "image": "/static/logos/e-money.png",
-  "network": "mainnet",
+  "name": "Regen Network",
+  "description": "Regen Network is built to support a wide variety of ecological improvement agreements. These include agreements about improving practices, agreements about ecological changes and a combination of both. Changing practices isn’t 100% sure to be effective, but can be tracked in the short term. To track actual ecological impact, we look at long term indicators. Regen Network allows users to track change that is meaningful to them, not restricting metrics, and allowing us to gain a more holistic understanding of ecosystem health.",
+  "image": "/static/logos/regen-network.jpg",
+  "network": "tetsnet",
   "links": {
-    "proof": "https://e-money.com/documents/e-Money%20Whitepaper.pdf",
-    "github": "https://github.com/e-money",
-    "twitter": "https://twitter.com/emoney_com",
-    "chat": "https://t.me/emoney_com",
-    "website": "https://e-money.com/"
+    "proof": "https://medium.com/regen-network/how-to-choose-a-blockchain-55a343fd7ec4",
+    "github": "https://gitlab.com/regen-network",
+    "twitter": "https://twitter.com/regen_network",
+    "chat": "https://t.me/regennetwork_public",
+    "website": "https://www.regen.network/"
   },
   "tags": ["cosmos sdk", "tendermint core"]
 }
