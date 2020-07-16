@@ -1,8 +1,8 @@
 {
   "name": "National Digital ID",
-  "description": "",
+  "description": "NDID Platform is an ecosystem to connect members to send/recive requests of authentication and information.",
   "image": "/static/logos/ndidplatform.png",
-  "network": "?",
+  "network": "development",
   "links": {
     "proof": "https://github.com/ndidplatform/smart-contract/blob/master/go.mod#L22",
     "github": "https://github.com/ndidplatform",
