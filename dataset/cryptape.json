@@ -1,12 +1,13 @@
 {
   "name": "CITA by Cryptape",
-  "description": "?",
+  "description": "CITA is a fast and scalable blockchain kernel for enterprises. CITA supports both native contract and EVM contract, by which enterprise users can build their own blockchain applications.",
   "image": "/static/logos/cryptape.png",
-  "network": "?",
+  "network": "framework",
   "links": {
     "proof": "https://github.com/cryptape/cita-whitepaper/blob/master/en/technical-whitepaper.md",
+    "twitter": "https://twitter.com/Cryptape",
     "github": "https://github.com/cryptape/",
-    "website": "https://www.cryptape.com/#/"
+    "website": "https://www.citahub.com/"
   },
   "tags": ["?"]
 }
