@@ -2,10 +2,11 @@
   "name": "Kuende",
   "description": "Kuende is the first blockchain fueled social network that uses gamified challenges to reward real life social interaction.",
   "image": "/static/logos/kuende.png",
-  "network": "?",
+  "network": "beta version",
   "links": {
     "proof": "https://medium.com/kuende/cosmos-network-kuendes-home-for-its-own-decentralized-solution-e60d9a74cb4",
     "github": "https://github.com/kuende",
+    "twitter": "https://twitter.com/KuendeOfficial",
     "chat": "http://t.me/kuende",
     "website": "https://kuende.com/"
   },
