@@ -2,11 +2,12 @@
   "name": "IRITA",
   "description": "IRITA (Inter-Realm Industry Trust Alliance), powered by Tendermint, Cosmos SDK and IRIS Service (a.k.a. iService), is the first enterprise consortium blockchain product in the Cosmos ecosystem.",
   "image": "/static/logos/irita.png",
-  "network": "?",
+  "network": "mainnet",
   "links": {
     "proof": "https://blog.cosmos.network/team-behind-irisnet-open-sourced-its-enterprise-blockchain-product-irita-9cd44b24f23e",
     "github": "https://github.com/bianjieai/irita",
     "twitter": "https://twitter.com/IRITAchain",
+    "chat": "https://t.me/irisnetwork",
     "website": "https://www.bianjie.ai/products/irita"
   },
   "tags": ["cosmos sdk", "tendermint core"]
