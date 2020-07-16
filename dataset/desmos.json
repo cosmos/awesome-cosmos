@@ -2,10 +2,11 @@
   "name": "Desmos",
   "description": "Desmos is an attempt to bootstrap a new social network tokenomics through the simplest form of social networking: microblogging.",
   "image": "/static/logos/desmos.jpeg",
-  "network": "development",
+  "network": "testnet",
   "links": {
     "proof": "https://medium.com/forbole/forbole-and-desmos-in-japan-bfdd66317d62",
     "github": "https://github.com/desmos-labs",
+    "twitter": "https://twitter.com/DesmosNetwork",
     "chat": "https://t.me/desmoslabs",
     "website": "https://www.desmos.network"
   },
