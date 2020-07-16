@@ -1,10 +1,14 @@
 {
   "name": "Oracle International Corporation",
-  "description": "?",
+  "description": "Distributed ledger systems that provide enhanced accountability and trust are described.",
   "image": "/static/logos/oracle.png",
-  "network": "?",
+  "network": "development",
   "links": {
     "proof": "http://www.freepatentsonline.com/y2017/0236120.html"
+    "github": "https://github.com/hiblocks",
+    "twitter": "https://twitter.com/oracle",
+    "chat": "https://t.me/microtick_general",
+    "website": "https://www.oracle.com/corporate/"
   },
   "tags": ["?"]
 }
