@@ -1,11 +1,12 @@
 {
   "name": "LIGHT STREAMS",
-  "description": "Given our analysis of this environment in addition to thorough understanding of the technology, we created CITA, an enterprise oriented blockchain framework that supports smart contract execution and design. CITA provides a stable, efficient, flexible and future-proof platform for enterprise-level blockchain applications.",
+  "description": "Lightstreams is a technology stack for helping you create apps that put people in control of their money, assets and data.",
   "image": "/static/logos/lightstreams-network.png",
-  "network": "?",
+  "network": "tetsnet",
   "links": {
     "proof": "https://github.com/lightstreams-network/lightchain",
     "github": "https://github.com/lightstreams-network",
+    "twitter": "https://twitter.com/lightstreams_io",
     "chat": "https://t.me/lightstreams",
     "website": "https://www.lightstreams.network/"
   },
