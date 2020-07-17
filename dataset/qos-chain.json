@@ -2,7 +2,7 @@
   "name": "QOS Chain",
   "description": "QOS is an operating system based on the hybrid of public and consortium chains, unified identity authentication system, self-motivated double-layer token protocol, a double-layer mining mechanism for super nodes + transaction mining, Distributed file system, and an interactive community between developers and users, serve the community with massive users in consume, traditional finance, financial technology, new media, etc., allow various service providers to easily publish their own new applications under the protocol, and gradually maximize the value of community citizenship through data transactions.",
   "image": "/static/logos/qos.png",
-  "network": "development",
+  "network": "testnet",
   "links": {
     "proof": "https://github.com/QOSGroup/qmoon",
     "github": "https://github.com/QOSGroup",
