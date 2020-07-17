@@ -1,0 +1,13 @@
+{
+  "name": "Cross",
+  "description": "A framework empowers the development of smart contracts that support cross-chain transactions.",
+  "image": "",
+  "network": "framework",
+  "links": {
+    "proof": "https://github.com/datachainlab/cross/blob/master/docs/spec/02_smart_contract.md#how-to-execute-a-smart-contract-on-cross-chain",
+    "github": "https://github.com/datachainlab/cross",
+    "twitter": "https://twitter.com/Datachain_admin",
+    "website": "https://datachain.jp/"
+  },
+  "tags": [""]
+}
