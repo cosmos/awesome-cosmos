@@ -2,7 +2,7 @@
   "name": "BOID",
   "description": "At the heart of Boid is the desire to make the benefits of blockchain technology accessible to all people. Boid acts as a gateway, lowering the barrier to entry for non-technical users to directly participate in blockchains and distributed computing projects. ",
   "image": "/static/logos/boid.png",
-  "network": "testnet",
+  "network": "mainnet",
   "links": {
     "proof": "https://forum.cosmos.network/t/about-the-ecosystem-category/15/2",
     "github": "https://github.com/boid-com",
