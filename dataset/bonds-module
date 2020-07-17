@@ -1,0 +1,14 @@
+{
+  "name": "Bonds Module",
+  "description": "The Bonds module is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.",
+  "image": "",
+  "network": "development",
+  "links": {
+    "proof": "https://github.com/ixoworld/bonds#readme",
+    "github": "https://github.com/ixoworld/bonds",
+    "twitter": "https://twitter.com/ixoworld?lang=en",
+    "chat": "https://t.me/joinchat/Ejz5exAfFUzcBMRlaYLecQ",
+    "website": "http://ixo.foundation/"
+  },
+  "tags": ["cosmos sdk"]
+}
