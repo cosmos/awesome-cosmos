@@ -2,7 +2,7 @@
   "name": "Clearing",
   "description": "Clearing.cc is the new approach for Crypto Currency Exchanges. Our goal is to provide a solid Crypto Currency clearing process using our new technology designed for the Crypto Currency market. This is the solution for the new Crypto Currency era.",
   "image": "/static/logos/peerity.png",
-  "network": "?",
+  "network": "development",
   "links": {
     "proof": "https://i.imgur.com/kWCkPIY.png",
     "website": "https://www.clearing.cc/"
