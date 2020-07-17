@@ -1,0 +1,11 @@
+{
+  "name": "btctool",
+  "description": "btc cross-chain tool",
+  "image": "",
+  "network": "development",
+  "links": {
+    "proof": "https://github.com/zouxyan/btctool#readme",
+    "github": "https://github.com/zouxyan/btctool",
+  },
+  "tags": [""]
+}
