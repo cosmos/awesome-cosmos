@@ -1,0 +1,14 @@
+{
+  "name": "Dfinance",
+  "description": "dfinance is a truly decentralized infrastructure dedicated to various financial and DeFi instruments and products designed for people.",
+  "image": "",
+  "network": "testnet",
+  "links": {
+    "proof": "https://docs.dfinance.co/",
+    "github": "https://github.com/dfinance",
+    "twitter": "https://twitter.com/dfinance_co",
+    "chat": "https://t.me/dfinance_news",
+    "website": "https://dfinance.co/"
+  },
+  "tags": [""]
+}
