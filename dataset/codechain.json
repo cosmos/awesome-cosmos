@@ -6,6 +6,8 @@
   "links": {
     "proof": "https://codechain.readthedocs.io/en/latest/basic-usage.html?highlight=tendermint",
     "github": "https://github.com/CodeChain-io",
+    "twitter": "https://twitter.com/codechain_io",
+    "chat": "https://t.me/codechain_protocol",
     "website": "https://codechain.io/"
   },
   "tags": ["tendermint bft"]
