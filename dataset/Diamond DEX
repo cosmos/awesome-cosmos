@@ -1,0 +1,13 @@
+{
+  "name": "Diamond DEX",
+  "description": "A high performance public blockchain with built-in DEX based on Diamond Network SDK",
+  "image": "",
+  "network": "development",
+  "links": {
+    "proof": "https://github.com/diamondnetwork2000/whitepaper-V2.0/blob/master/Diamond%20Network%20Whitepaper.pdf",
+    "github": "https://github.com/diamondnetwork2000/diamond-dex",
+    "twitter": "https://twitter.com/diamondnetwork5",
+    "chat": "https://t.me/DiamondNetwork888",
+  },
+  "tags": ["cosmos sdk"]
+}
