@@ -93,6 +93,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [ATOMScan](https://atomscan.app)
 - [Coris](https://coris.network)
 - [Cosmoscan](https://cosmoscan.net)
+- [SG-1](https://sg-1.online)
 - [Stake ID](https://stake.id)
 - [LOOK Explorer](https://cosmos.ping.pub)
 - [Union Market](https://union.market/token/cosmos)
