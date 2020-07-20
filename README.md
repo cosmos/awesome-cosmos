@@ -81,7 +81,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 - [Anthem](https://anthem.chorus.one)
 - [ATOMScan](https://atomscan.app)
-- [Big Dipper](https://bigdipper.forbole.com/)
+- [Big Dipper](https://cosmos.bigdipper.live/)
 - [Coris](https://coris.network)
 - [Cosmic Compass](https://cosmiccompass.io/)
 - [Cosmos Overview](https://cosmos-overview.genesislab.net/)
