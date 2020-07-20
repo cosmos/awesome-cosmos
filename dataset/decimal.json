@@ -4,11 +4,11 @@
   "image": "/static/logos/decimal.png",
   "network": "testnet",
   "links": {
-    "proof": "https://decimalchain.com/WPeng.pdf"
+    "proof": "https://decimalchain.com/WPeng.pdf",
     "code": "https://bitbucket.org/decimalteam",
     "twitter": "https://twitter.com/DecimalChain",
     "chat": "https://t.me/decimal_ru",
-    "website": "https://decimalchain.com",
+    "website": "https://decimalchain.com"
   },
   "tags": ["cosmos sdk", "tendermint core"]
 }

@@ -5,7 +5,7 @@
   "network": "development",
   "links": {
     "proof": "https://github.com/zouxyan/btctool#readme",
-    "github": "https://github.com/zouxyan/btctool",
+    "github": "https://github.com/zouxyan/btctool"
   },
   "tags": ["cosmos sdk"]
 }

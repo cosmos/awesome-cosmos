@@ -4,7 +4,7 @@
   "image": "/static/logos/oracle.png",
   "network": "development",
   "links": {
-    "proof": "http://www.freepatentsonline.com/y2017/0236120.html"
+    "proof": "http://www.freepatentsonline.com/y2017/0236120.html",
     "github": "https://github.com/hiblocks",
     "twitter": "https://twitter.com/oracle",
     "chat": "https://t.me/microtick_general",

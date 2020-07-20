@@ -5,7 +5,7 @@
   "network": "frozen",
   "links": {
     "proof": "https://github.com/Hashnode/mint",
-    "github": "https://github.com/Hashnode"
+    "github": "https://github.com/Hashnode",
     "twitter": "https://twitter.com/hashnode",
     "website": "https://hashnode.com/"
   },

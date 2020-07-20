@@ -4,11 +4,11 @@
   "image": "/static/logos/vocdoni.png",
   "network": "testnet",
   "links": {
-    "proof": "https://blog.vocdoni.io/vocdoni-technical-overview-v1/"
+    "proof": "https://blog.vocdoni.io/vocdoni-technical-overview-v1/",
     "github": "https://github.com/vocdoni",
     "twitter": "https://twitter.com/vocdoni",
     "chat": "https://t.me/vocdoni",
-    "website": "https://vocdoni.io",
+    "website": "https://vocdoni.io"
   },
   "tags": ["tendermint core"]
 }

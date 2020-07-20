@@ -5,7 +5,7 @@
   "network": "frozen",
   "links": {
     "proof": "https://github.com/CosmicBridge/server/blob/master/README.md",
-    "github": "https://github.com/CosmicBridge"
+    "github": "https://github.com/CosmicBridge",
     "website": "https://lotionjs.com/"
   },
   "tags": ["?"]
