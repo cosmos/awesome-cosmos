@@ -81,7 +81,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 - [Anthem](https://anthem.chorus.one)
 - [ATOMScan](https://atomscan.app)
-- [Big Dipper](https://bigdipper.forbole.com/)
+- [Big Dipper](https://cosmos.bigdipper.live/)
 - [Hubble](https://hubble.figment.network/)
 - [Lunie](https://lunie.io)
 - [Mintscan by Cosmostation](https://www.mintscan.io/)
