@@ -1,3 +1,7 @@
+// TODO:
+// alexa score
+// is_verified
+
 {
 	"name": "app",
 	"slug": "app-name",
@@ -41,16 +45,11 @@
     }
 	],
   "categories": [
-    {
-      "name": "tools",
-      "subcategories": [
-        "modules",
-        "block-explorers",
-        "frameworks",
-        "smart-contracts",
-        "utilities"
-      ]
-    }
+    "modules",
+    "block-explorers",
+    "frameworks",
+    "smart-contracts",
+    "utilities"
   ],
 	"platforms": ["cosmos-sdk", "tendermint-core", "ethermint", "cosmwasm", "none"],
 	"lang": ["go", "js", "rust", "none"],
