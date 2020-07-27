@@ -9,5 +9,7 @@
     "twitter": "https://twitter.com/diamondnetwork5",
     "chat": "https://t.me/DiamondNetwork888"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

@@ -10,5 +10,7 @@
     "chat": "https://t.me/bluzelle",
     "website": "https://www.bluzelle.com"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

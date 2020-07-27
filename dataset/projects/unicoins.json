@@ -8,5 +8,7 @@
     "chat": "https://t.me/UniCoinsUs",
     "website": "http://unicoins.us/beta/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

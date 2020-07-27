@@ -10,5 +10,7 @@
     "chat": "https://t.me/unificationfoundation",
     "website": "https://unification.com/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

@@ -10,5 +10,7 @@
     "chat": "https://t.me/xarnetwork",
     "website": "https://xar.network/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

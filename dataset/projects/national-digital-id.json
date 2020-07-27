@@ -10,5 +10,7 @@
     "facebook": "https://www.facebook.com/NationalDigitalID",
     "website": "http://www.ndid.co.th"
   },
-  "tags": ["tendermint core"]
+  "tags": [
+    "tendermint core"
+  ]
 }

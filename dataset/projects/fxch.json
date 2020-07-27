@@ -10,5 +10,7 @@
     "chat": "https://slack.fxclr.com:3000/",
     "website": "https://fxclr.com"
   },
-  "tags": ["tendermint core"]
+  "tags": [
+    "tendermint core"
+  ]
 }

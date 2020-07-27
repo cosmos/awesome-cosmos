@@ -8,5 +8,8 @@
     "github": "https://github.com/chainapsis/everett-hackathon",
     "website": "https://www.everett.zone/"
   },
-  "tags": ["cosmos sdk", "tendermint core"]
+  "tags": [
+    "cosmos sdk",
+    "tendermint core"
+  ]
 }

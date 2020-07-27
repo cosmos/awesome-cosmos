@@ -10,5 +10,7 @@
     "chat": "https://t.me/loomnetwork",
     "website": "https://loomx.io/"
   },
-  "tags": ["tendermint core"]
+  "tags": [
+    "tendermint core"
+  ]
 }

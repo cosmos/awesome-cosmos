@@ -10,5 +10,7 @@
     "chat": "https://t.me/thorchain_org",
     "website": "https://bepswap.com/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

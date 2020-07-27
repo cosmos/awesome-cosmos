@@ -10,5 +10,7 @@
     "chat": "https://t.me/supernovachain",
     "website": "https://supernova.community"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

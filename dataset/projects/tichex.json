@@ -10,5 +10,7 @@
     "chat": "https://t.me/TichexOfficial",
     "website": "https://tichex.com/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

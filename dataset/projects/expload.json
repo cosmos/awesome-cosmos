@@ -6,9 +6,11 @@
   "links": {
     "proof": "https://expload.com/blue-paper",
     "github": "https://github.com/expload",
-    "twitter": "https://twitter.com/Exploadcom",    
+    "twitter": "https://twitter.com/Exploadcom",
     "chat": "https://t.me/expload_en",
     "website": "https://expload.com/"
   },
-  "tags": ["?"]
+  "tags": [
+    "?"
+  ]
 }

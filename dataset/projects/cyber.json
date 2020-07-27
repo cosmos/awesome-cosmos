@@ -10,5 +10,8 @@
     "chat": "https://t.me/fuckgoogle",
     "website": "https://cybercongress.ai/"
   },
-  "tags": ["cosmos sdk", "tendermint bft"]
+  "tags": [
+    "cosmos sdk",
+    "tendermint bft"
+  ]
 }

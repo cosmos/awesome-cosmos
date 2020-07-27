@@ -10,5 +10,7 @@
     "chat": "https://t.me/hashgardeng",
     "website": "https://www.hashgard.io/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

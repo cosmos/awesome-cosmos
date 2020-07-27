@@ -10,5 +10,7 @@
     "chat": "https://t.me/internetofvalues",
     "website": "https://www.iov.one/"
   },
-  "tags": ["tendermint core"]
+  "tags": [
+    "tendermint core"
+  ]
 }

@@ -10,5 +10,7 @@
     "chat": "https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ",
     "website": "https://bandprotocol.com"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

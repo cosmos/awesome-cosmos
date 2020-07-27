@@ -10,5 +10,7 @@
     "chat": "https://t.me/agoricsystems",
     "website": "https://agoric.com/about/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

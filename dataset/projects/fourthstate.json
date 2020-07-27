@@ -9,5 +9,8 @@
     "twitter": "https://twitter.com/fourthstatelabs",
     "website": "http://fourthstate.network/"
   },
-  "tags": ["cosmos sdk", "tendermint core"]
+  "tags": [
+    "cosmos sdk",
+    "tendermint core"
+  ]
 }

@@ -10,5 +10,7 @@
     "chat": "irc://irc.freenode.net/ercoin",
     "website": "http://ercoin.tech/"
   },
-  "tags": ["?"]
+  "tags": [
+    "?"
+  ]
 }

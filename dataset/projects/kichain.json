@@ -10,5 +10,8 @@
     "chat": "https://t.me/KiFoundation",
     "website": "https://foundation.ki"
   },
-  "tags": ["cosmos sdk", "tendermint core"]
+  "tags": [
+    "cosmos sdk",
+    "tendermint core"
+  ]
 }

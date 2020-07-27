@@ -10,5 +10,7 @@
     "chat": "https://t.me/foamspace",
     "website": "https://www.foam.space/"
   },
-  "tags": ["tendermint core"]
+  "tags": [
+    "tendermint core"
+  ]
 }

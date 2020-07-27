@@ -10,5 +10,7 @@
     "chat": "https://t.me/mesg_community",
     "website": "https://mesg.com/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

@@ -10,5 +10,8 @@
     "chat": "https://t.me/DropilCoin",
     "website": "https://dropilchain.com"
   },
-  "tags": ["cosmos sdk", "tendermint core"]
+  "tags": [
+    "cosmos sdk",
+    "tendermint core"
+  ]
 }

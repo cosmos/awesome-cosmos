@@ -10,5 +10,7 @@
     "chat": "https://t.me/thorchain_org",
     "website": "https://thorchain.org/"
   },
-  "tags": ["cosmos sdk"]
+  "tags": [
+    "cosmos sdk"
+  ]
 }

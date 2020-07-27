@@ -10,5 +10,9 @@
     "chat": "https://aragon.chat",
     "website": "https://aragon.org/"
   },
-  "tags": ["ethermint", "cosmos sdk", "tendermint core"]
+  "tags": [
+    "ethermint",
+    "cosmos sdk",
+    "tendermint core"
+  ]
 }

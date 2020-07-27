@@ -10,5 +10,7 @@
     "chat": "https://t.me/cybermilestoken",
     "website": "https://www.cybermiles.io/"
   },
-  "tags": ["tendermint core"]
+  "tags": [
+    "tendermint core"
+  ]
 }

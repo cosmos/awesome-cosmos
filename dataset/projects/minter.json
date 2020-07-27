@@ -10,5 +10,7 @@
     "chat": "https://t.me/MinterNetworkGroup",
     "website": "https://minter.network"
   },
-  "tags": ["tendermint bft"]
+  "tags": [
+    "tendermint bft"
+  ]
 }
