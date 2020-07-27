@@ -13,37 +13,16 @@
 	"developer": {
 		"name": "GOOD_DEV",
 		"url": "https://good.dev"
-	},
-	"social_links": [
-	  {
-      "name": "twitter",
-      "url": ""
-    },
-	  {
-      "name": "proof",
-      "url": ""
-    },
-	  {
-      "name": "github",
-      "url": ""
-    },
-	  {
-      "name": "gitlab",
-      "url": ""
-    },
-	  {
-      "name": "medium",
-      "url": ""
-    },
-	  {
-      "name": "discord",
-      "url": ""
-    },
-	  {
-      "name": "website",
-      "url": ""
-    }
-	],
+  },
+  "social_links": {
+    "proof": "",
+    "twitter": "",
+    "github": "",
+    "gitlab": "",
+    "medium": "",
+    "discord": "",
+    "website": ""
+  },
   "categories": [
     "modules",
     "block-explorers",
@@ -52,6 +31,6 @@
     "utilities"
   ],
 	"platforms": ["cosmos-sdk", "tendermint-core", "ethermint", "cosmwasm", "none"],
-	"lang": ["go", "js", "rust", "none"],
+	"languages": ["go", "js", "rust", "none"],
 	"is_ibc_support": true
 }
