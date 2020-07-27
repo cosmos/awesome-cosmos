@@ -1,7 +1,7 @@
 {
   "name": "Ockam",
   "description": "Ockam is a new approach to help developers innovate with the Internet of Things. The platform rolls up the best practices in secure connected device systems, and abstracts away technical complexity below a developer experience layer. Ockam’s blockchain based infrastructure provides a serverless experience so developers can innovate - fast.",
-  "image": "/static/logos/ockam.png",
+  "image": "",
   "network": "framework",
   "links": {
     "proof": "https://medium.com/ockam/ockam-is-tuned-for-iot-c2f04cae019a",

@@ -1,7 +1,7 @@
 {
   "name": "Bluzelle",
   "description": "Bluzelle gives dapps a place to store data that is secure, tamper-proof, and highly scalable.",
-  "image": "/static/logos/bluzelle.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://www.cryptoninjas.net/2019/12/02/distributed-data-service-bluzelle-to-integrate-cosmos/",

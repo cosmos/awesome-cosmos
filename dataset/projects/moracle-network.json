@@ -1,7 +1,7 @@
 {
   "name": "Moracle Network",
   "description": "The blockchain oracle.",
-  "image": "/static/logos/moraclenetwork.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://medium.com/moracle-network/introducing-the-moracle-proof-of-concept-for-lisk-3a6b425cb622",

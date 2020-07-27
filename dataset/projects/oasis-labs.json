@@ -1,7 +1,7 @@
 {
   "name": "Oasis Labs",
   "description": "Privacy-first cloud computing on blockchain.",
-  "image": "/static/logos/oasis-labs.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://github.com/oasislabs/oasis-core/search?utf8=%E2%9C%93&q=tendermint&type=",

@@ -1,7 +1,7 @@
 {
   "name": "datopia",
   "description": "On-chain governance, voting analytics, supply chain management — processes many suspect will yield to blockchains — consume and translate vast quantities of information in all but the simplest cases. Platforms encumbered by astronomical storage costs — or inexpressive data modelling primitives — are unlikely to provide us with sustainable, cost-effective or transparent solutions to data-hungry problems. Our inaugural post, Blockchains as Information Systems, covers these ideas in more detail.",
-  "image": "/static/logos/datopia.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://blog.datopia.io/2019/04/04/building-your-first-clojure-blockchain/",

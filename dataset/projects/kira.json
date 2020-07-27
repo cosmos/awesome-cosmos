@@ -1,7 +1,7 @@
 {
   "name": "Kira Interchain Exchange",
   "description": "Kira is a next generation hyperscale decentralized exchange (DEX) engineered for cross-chain transfers and frictionless trading. On the one hand, Kira aims to deliver all the liquidity, performance and trading sophistication of a centralised exchange but without the custody, downtime and fraud risk that plague our industry. On the other hand, Kira offers stronger security guarantees than state-of-the-art DEXs, but with a powerful governance model that builds trust and engagement whilst actively resisting corruption.",
-  "image": "/static/logos/kiraex.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://medium.com/kira-core/introducing-kira-the-future-of-interchain-exchange-c5d8f4223607",

@@ -1,7 +1,7 @@
 {
   "name": "Datapace",
   "description": "Datapace is Blockchain powered data marketplace with technical and policy-based data verification, and access to the worldwide network of sensors.",
-  "image": "/static/logos/peerity.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://datapace.io/datapace_whitepaper.pdf",

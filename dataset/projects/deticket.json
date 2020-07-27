@@ -1,7 +1,7 @@
 {
   "name": "DeTicket",
   "description": "App built on Cosmos providing a secure ticketing experience",
-  "image": "/static/logos/default.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://medium.com/@DeTicket/the-ticketing-market-is-broken-31592753c8e4",

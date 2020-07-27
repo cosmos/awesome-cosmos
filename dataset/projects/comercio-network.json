@@ -1,7 +1,7 @@
 {
   "name": "commercio.network",
   "description": "An open source project to provide companies the ability to exchange documents and guarantee paternity, integrity, and non-repudiation.",
-  "image": "/static/logos/commercio-network.png",
+  "image": "",
   "network": "mainnet",
   "links": {
     "proof": "https://github.com/commercionetwork/commercionetwork",

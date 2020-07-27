@@ -1,7 +1,7 @@
 {
   "name": "AMO",
   "description": "AMO provides an environment for discovering new values in many people's driving data and trading them openly but safely.",
-  "image": "/static/logos/amo.png",
+  "image": "",
   "network": "mainnet",
   "links": {
     "proof": "https://github.com/amolabs/docs/blob/master/protocol.md",

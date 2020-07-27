@@ -1,7 +1,7 @@
 {
   "name": "Vega Protocol",
   "description": "Vega is a protocol for creating and trading derivatives on a fully decentralised network.",
-  "image": "/static/logos/vega.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://www.mbarlow.com/ethereum-london-meetup-vega/",

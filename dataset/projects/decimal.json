@@ -1,7 +1,7 @@
 {
   "name": "Decimal",
   "description": "Decimal will assist you to create a liquid coin, make passive income and transfer money across our planet Earth. Create your coin on Decimal within 3 minutes",
-  "image": "/static/logos/decimal.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://decimalchain.com/WPeng.pdf",

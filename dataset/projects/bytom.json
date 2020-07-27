@@ -1,7 +1,7 @@
 {
   "name": "Bytom",
   "description": "Bytom Blockchain Protocol is an interactive protocol of multiple byteassets. Heterogeneous byte-assets that operate in different forms on the Bytom Blockchain.",
-  "image": "/static/logos/bytom.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://cointelegraph.com/press-releases/bytom-blockchain-developers-takes-home-the-second-prize-in-the-2nd-cosmos-hackathon",

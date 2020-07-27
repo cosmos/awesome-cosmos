@@ -1,7 +1,7 @@
 {
   "name": "Aragon",
   "description": "Aragon empowers you to freely organize and collaborate without borders or intermediaries. Create global, bureaucracy-free organizations, companies, and communities.",
-  "image": "/static/logos/aragon-chain.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://blog.aragon.one/aragon-chain",

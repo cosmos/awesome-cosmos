@@ -1,7 +1,7 @@
 {
   "name": "memecom",
   "description": "Collect and trade dank memes on the blockchain.",
-  "image": "/static/logos/memecom.png",
+  "image": "",
   "network": "alpha version",
   "links": {
     "proof": "https://goo.gl/pnJD67",

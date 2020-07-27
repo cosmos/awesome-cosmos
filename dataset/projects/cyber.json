@@ -1,7 +1,7 @@
 {
   "name": "Cyber~Congress",
   "description": "A decentralized Google for provable and relevant answers. A relevance machine & a state of the art consensus computer, built with the help of go-IPFS and cosmos-SDK",
-  "image": "/static/logos/cybercongress.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://github.com/cybercongress/cyberd",

@@ -1,7 +1,7 @@
 {
   "name": "Tatau",
   "description": "Tatau is a distributed supercomputing platform used by AI companies to perform complex deep-learning operations more cost-effectively, and efficiently than other alternatives.",
-  "image": "/static/logos/tatau.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://tatau.io/img/en/final_tatau_wp.pdf",

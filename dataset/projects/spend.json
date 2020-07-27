@@ -1,7 +1,7 @@
 {
   "name": "Spend",
   "description": "A Multi-Currency Digital Wallet — The Spend App gives our users access to a Digital Wallet that enables them to store and spend with their smart phone or Spend Visa® Card.",
-  "image": "/static/logos/spend.png",
+  "image": "",
   "network": "Dapp",
   "links": {
     "proof": "https://blog.spend.com/introducing-spendchain/",

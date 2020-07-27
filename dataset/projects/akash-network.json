@@ -1,7 +1,7 @@
 {
   "name": "Akash Network",
   "description": "Akash is the world’s first super cloud for serverless computing, empowering the architects and builders of the internet with greater access, freedom, and efficiency.",
-  "image": "/static/logos/akash-network.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://github.com/ovrclk/akash/search?q=tendermint&unscoped_q=tendermint",

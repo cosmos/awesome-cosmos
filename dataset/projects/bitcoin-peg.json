@@ -1,7 +1,7 @@
 {
   "name": "Proof-of-Stake Bitcoin Sidechains",
   "description": "We present a design for a Bitcoin sidechain based on the Tendermint consensus protocol, enabling the development of decentralized networks which coordinate to manage reserves of Bitcoin, allowing for custom application code and smart contracts which use Bitcoin as the native currency. We also avoid the long-range attack problem of proof-of-stake networks by periodically timestamping the sidechain on the Bitcoin blockchain, gaining the security of Bitcoin’s proof-of-work in addition to the instant finality of BFT consensus protocols.",
-  "image": "/static/logos/default.png",
+  "image": "",
   "network": "peg-zone under development",
   "links": {
     "proof": "https://github.com/mappum/bitcoin-peg/blob/master/bitcoinPeg.md",

@@ -1,7 +1,7 @@
 {
   "name": "Band Protocol",
   "description": "Band Protocol connects smart contracts with trusted off-chain information, provided through community-curated data providers.",
-  "image": "/static/logos/band-protocol.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://medium.com/bandprotocol/january-2020-update-announcing-an-early-alpha-release-of-band-protocol-2-0-ef320969714c",

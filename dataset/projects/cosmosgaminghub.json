@@ -1,7 +1,7 @@
 {
   "name": "Cosmos Gaming Hub",
   "description": "The Cosmos Gaming Hub is a PoS-based original blockchain using Tendermint. Developers can easily create games on the Cosmos Gaming Hub and the games will allow users to trade freely and quickly in addtion to managing digital assets.",
-  "image": "/static/logos/mold.png",
+  "image": "",
   "network": "testnet",
   "links": {
     "proof": "https://medium.com/@cosmosgaminghub/rebranding-press-release-9fd050bc0ca0?source=---------9------------------",

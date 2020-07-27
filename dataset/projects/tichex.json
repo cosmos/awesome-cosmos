@@ -1,7 +1,7 @@
 {
   "name": "TICHEX",
   "description": "Tichex is a DPoS blockchain based on Tendermint and Cosmos SDK. The first pegged zone in EUR, that is the EUR/Crypto bridge of Cosmos and at the same time it is the technological evolution of an already existing European Financial Institution, namely Em@ney plc.",
-  "image": "/static/logos/tichex.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://medium.com/@Tichex/tichex-the-first-eur-pegged-zone-on-cosmos-96dd8810dd90",

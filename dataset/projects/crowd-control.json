@@ -1,7 +1,7 @@
 {
   "name": "Crowd Control",
   "description": "Trading Card Game where you can create your own cards and balance all cards by voting on the blockchain.",
-  "image": "/static/logos/crowd-control.png",
+  "image": "",
   "network": "development",
   "links": {
     "proof": "https://github.com/DecentralCardGame/whitepaper/blob/master/whitepaper.pdf",

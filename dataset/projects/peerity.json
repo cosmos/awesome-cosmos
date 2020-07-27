@@ -1,7 +1,7 @@
 {
   "name": "Peerity",
   "description": "",
-  "image": "/static/logos/peerity.png",
+  "image": "",
   "network": "frozen",
   "links": {
     "proof": "http://peerity.io/whitepaper/",
