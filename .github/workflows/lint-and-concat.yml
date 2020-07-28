@@ -1,0 +1,23 @@
+name: Lint and Concat
+
+on: [push]
+
+jobs:
+  lint:
+    name: Lint and Concat
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Lint
+        run: make lint
+      - name: Concat
+        run: make concat
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: tenderbot
+          author_email: tenderbot@tendermint.com
+          message: "action: lint and concat"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
