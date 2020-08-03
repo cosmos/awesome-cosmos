@@ -61,7 +61,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - Cosmostation Signing & API Library
 - [cosmwasm/cosmjs](https://github.com/CosmWasm/cosmjs) - **ICF sponsored Cosmos Javascript library**
 - [cybercongress/js-amino](https://github.com/cybercongress/js-amino) - ARCHIVED / JS implementation of Amino
-- [everett-protocol/cosmosjs](https://github.com/everett-protocol/cosmosjs) - Everett Signing & API Library
+- [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library
 - [lcnem/cosmos-client-ts](https://github.com/lcnem/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains
 - [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library
 - [luniehq/cosmos-keys](https://github.com/luniehq/cosmos-keys) - Lunie Signing Library
@@ -164,7 +164,6 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - Desmos [Website](https://desmos.network)
 - Dgaming [Website](https://hub.dgaming.com/)
 - Enigma [Website](https://enigma.co/)
-- Everett [Website](https://www.everett.zone/)
 - e-Money [Website](https://e-money.com/)
 - Hashgard [Website](https://www.hashgard.io/)
 - IRISnet [Website](https://www.irisnet.org/)
