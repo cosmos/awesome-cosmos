@@ -9,5 +9,12 @@
   },
   "platforms": [
     "none"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }

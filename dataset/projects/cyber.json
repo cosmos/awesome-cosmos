@@ -13,5 +13,12 @@
   "platforms": [
     "cosmos sdk",
     "tendermint bft"
-  ]
+  ],
+  "languages": [
+    "go",
+    "javascript",
+    "rust",
+    "none"
+  ],
+  "is_ibc_support": false
 }
