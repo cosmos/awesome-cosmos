@@ -11,9 +11,16 @@
       "chat": "https://t.me/agoricsystems",
       "website": "https://agoric.com/about/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Agreements Network",
@@ -26,9 +33,16 @@
       "chat": "https://t.me/Agreements_Network",
       "website": "https://agreements.network/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Akash Network",
@@ -42,10 +56,17 @@
       "chat": "https://akash.network/chat",
       "website": "https://akash.network/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Altcoin Exchange",
@@ -59,9 +80,16 @@
       "chat": "https://t.me/altcoin_io",
       "website": "https://altcoin.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Althea",
@@ -75,9 +103,16 @@
       "chat": "https://riot.im/app/#/room/#althea:matrix.org",
       "website": "https://althea.net/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "AMO",
@@ -91,9 +126,16 @@
       "chat": "https://t.me/amo_official",
       "website": "https://www.amo.foundation/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Aragon",
@@ -107,11 +149,18 @@
       "chat": "https://aragon.chat",
       "website": "https://aragon.org/"
     },
-    "tags": [
+    "platforms": [
       "ethermint",
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Band Protocol",
@@ -125,9 +174,16 @@
       "chat": "https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ",
       "website": "https://bandprotocol.com"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "BEPSwap",
@@ -141,9 +197,16 @@
       "chat": "https://t.me/thorchain_org",
       "website": "https://bepswap.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "BigchainDB",
@@ -157,9 +220,16 @@
       "chat": "https://gitter.im/bigchaindb/bigchaindb",
       "website": "https://www.bigchaindb.com/"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Binance Chain",
@@ -173,10 +243,17 @@
       "chat": "https://t.me/binanceexchange",
       "website": "https://binance-chain.github.io/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Proof-of-Stake Bitcoin Sidechains",
@@ -190,9 +267,16 @@
       "chat": "https://t.me/nomicbtc",
       "website": "https://nomic.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "BitSong",
@@ -206,9 +290,16 @@
       "chat": "https://t.me/BitSongOfficial",
       "website": "https://bitsong.io/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "DATA",
@@ -222,9 +313,16 @@
       "chat": "http://t.me/blockchainDATA",
       "website": "https://data.eco/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Bluzelle",
@@ -238,9 +336,16 @@
       "chat": "https://t.me/bluzelle",
       "website": "https://www.bluzelle.com"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "BOID",
@@ -254,9 +359,16 @@
       "chat": "https://t.me/Boidcom_official",
       "website": "https://www.boid.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Bonds Module",
@@ -270,9 +382,16 @@
       "chat": "https://t.me/joinchat/Ejz5exAfFUzcBMRlaYLecQ",
       "website": "http://ixo.foundation/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "btctool",
@@ -283,9 +402,16 @@
       "proof": "https://github.com/zouxyan/btctool#readme",
       "github": "https://github.com/zouxyan/btctool"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Bytom",
@@ -299,9 +425,16 @@
       "chat": "https://t.me/BytomInternational",
       "website": "https://bytom.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Chainpoint",
@@ -315,9 +448,16 @@
       "chat": "https://t.me/chainpoint",
       "website": "https://chainpoint.org/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Clearing",
@@ -328,9 +468,16 @@
       "proof": "https://i.imgur.com/kWCkPIY.png",
       "website": "https://www.clearing.cc/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "CodeChain Foundry",
@@ -344,9 +491,16 @@
       "chat": "https://t.me/codechain_protocol",
       "website": "https://codechain.io/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "CodeChain",
@@ -360,9 +514,16 @@
       "chat": "https://t.me/codechain_protocol",
       "website": "https://codechain.io/"
     },
-    "tags": [
+    "platforms": [
       "tendermint bft"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Color Platform",
@@ -376,10 +537,17 @@
       "chat": "https://t.me/color_platform_en",
       "website": "https://color-platform.org/kr/"
     },
-    "tags": [
+    "platforms": [
       "cosmos-sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "COMDEX",
@@ -391,9 +559,16 @@
       "twitter": "https://twitter.com/ComdexOfficial",
       "website": "https://comdex.sg/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "commercio.network",
@@ -407,10 +582,17 @@
       "chat": "https://t.me/CommercioNetwork",
       "website": "https://commercio.network/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Cosmic Bonding",
@@ -424,9 +606,16 @@
       "chat": "https://t.me/joinchat/Ejz5exAfFUzcBMRlaYLecQ",
       "website": "http://ixo.foundation/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Cosmic Bridge",
@@ -438,9 +627,16 @@
       "github": "https://github.com/CosmicBridge",
       "website": "https://lotionjs.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Cosmos Hub",
@@ -454,10 +650,17 @@
       "chat": "https://discord.gg/wUaUptB",
       "website": "https://hub.cosmos.network/master/hub-overview/overview.html"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Cosmos Swap",
@@ -471,9 +674,16 @@
       "chat": "https://t.me/thorchain_org",
       "website": "https://thorchain.org/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Cosmos Gaming Hub",
@@ -487,9 +697,16 @@
       "chat": "https://t.me/CosmosGamingHub_EN",
       "website": "https://cosmosgaminghub.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Cross",
@@ -502,9 +719,16 @@
       "twitter": "https://twitter.com/Datachain_admin",
       "website": "https://datachain.jp/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Crowd Control",
@@ -518,9 +742,16 @@
       "website": "https://crowdcontrol.network/",
       "twitter": "https://twitter.com/CrowdControlNet"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "CITA by Cryptape",
@@ -533,9 +764,16 @@
       "github": "https://github.com/cryptape/",
       "website": "https://www.citahub.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "crypto.com",
@@ -549,9 +787,16 @@
       "chat": "https://t.me/CryptoComOfficial",
       "website": "https://www.crypto.com/en/chain"
     },
-    "tags": [
+    "platforms": [
       "tendermint bft"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Cyber~Congress",
@@ -565,10 +810,17 @@
       "chat": "https://t.me/fuckgoogle",
       "website": "https://cybercongress.ai/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint bft"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "CyberMiles",
@@ -582,9 +834,16 @@
       "chat": "https://t.me/cybermilestoken",
       "website": "https://www.cybermiles.io/"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Datapace",
@@ -596,9 +855,16 @@
       "twitter": "https://twitter.com/Datapacemarket",
       "website": "https://datapace.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "datopia",
@@ -612,9 +878,16 @@
       "chat": "https://t.me/datopia",
       "website": "https://datopia.io/"
     },
-    "tags": [
+    "platforms": [
       "tendermint bft"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Dawn",
@@ -628,10 +901,17 @@
       "chat": "https://t.me/dawnprotocol",
       "website": "https://dawn.org/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "DecentRandom",
@@ -645,10 +925,17 @@
       "chat": "https://t.me/joinchat/EF5N2RHTiUOFs4db7vCviA",
       "website": "https://decentrandom.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Decimal",
@@ -662,10 +949,17 @@
       "chat": "https://t.me/decimal_ru",
       "website": "https://decimalchain.com"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Desmos",
@@ -679,10 +973,17 @@
       "chat": "https://t.me/desmoslabs",
       "website": "https://www.desmos.network"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "DeTicket",
@@ -694,9 +995,16 @@
       "twitter": "https://twitter.com/DeTicket1",
       "website": "https://deticket.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Dfinance",
@@ -710,9 +1018,16 @@
       "chat": "https://t.me/dfinance_news",
       "website": "https://dfinance.co/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "DGaming",
@@ -722,9 +1037,16 @@
     "links": {
       "proof": "https://medium.com/@dgaminghub/announcing-the-dgaming-hub-in-the-cosmos-ecosystem-7adc5e9628d3"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Diamond DEX",
@@ -737,9 +1059,16 @@
       "twitter": "https://twitter.com/diamondnetwork5",
       "chat": "https://t.me/DiamondNetwork888"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Dropil Chain",
@@ -753,10 +1082,17 @@
       "chat": "https://t.me/DropilCoin",
       "website": "https://dropilchain.com"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "e-Money",
@@ -770,10 +1106,17 @@
       "chat": "https://t.me/emoney_com",
       "website": "https://e-money.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "EnLedger",
@@ -787,9 +1130,16 @@
       "chat": "https://t.me/EnLedgerChat",
       "website": "https://www.enledger.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Ercoin",
@@ -803,9 +1153,16 @@
       "chat": "irc://irc.freenode.net/ercoin",
       "website": "http://ercoin.tech/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "EVERETT",
@@ -817,10 +1174,17 @@
       "github": "https://github.com/chainapsis/everett-hackathon",
       "website": "https://www.everett.zone/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Expload",
@@ -834,9 +1198,16 @@
       "chat": "https://t.me/expload_en",
       "website": "https://expload.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Fluence",
@@ -850,9 +1221,16 @@
       "chat": "https://t.me/joinchat/AAEssEJVYu-7YvRc0XNZaQ",
       "website": "https://fluence.one/"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "FOAM",
@@ -866,9 +1244,16 @@
       "chat": "https://t.me/foamspace",
       "website": "https://www.foam.space/"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "FourthState",
@@ -881,10 +1266,17 @@
       "twitter": "https://twitter.com/fourthstatelabs",
       "website": "http://fourthstate.network/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "FXCH",
@@ -898,9 +1290,16 @@
       "chat": "https://slack.fxclr.com:3000/",
       "website": "https://fxclr.com"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Hashgard",
@@ -914,9 +1313,16 @@
       "chat": "https://t.me/hashgardeng",
       "website": "https://www.hashgard.io/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "HIBLOCKS",
@@ -930,9 +1336,16 @@
       "chat": "https://t.me/hiblocks_eng",
       "website": "http://www.hiblocks.io/main.do"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "HyperLedger Burrow (Monax)",
@@ -946,9 +1359,16 @@
       "chat": "https://chat.hyperledger.org/",
       "website": "https://hyperledger.org/projects/hyperledger-burrow"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Idena",
@@ -962,9 +1382,16 @@
       "chat": "https://t.me/IdenaAnnouncements",
       "website": "https://idena.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "IOV",
@@ -978,9 +1405,16 @@
       "chat": "https://t.me/internetofvalues",
       "website": "https://www.iov.one/"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "IRIS Network",
@@ -994,10 +1428,17 @@
       "chat": "https://t.me/irisnetwork",
       "website": "https://www.irisnet.org/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "IRITA",
@@ -1011,10 +1452,17 @@
       "chat": "https://t.me/irisnetwork",
       "website": "https://www.bianjie.ai/products/irita"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "ixo",
@@ -1028,10 +1476,17 @@
       "chat": "https://t.me/ixonetwork",
       "website": "http://ixo.foundation/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Kadena",
@@ -1045,9 +1500,16 @@
       "chat": "https://discordapp.com/invite/bsUcWmX",
       "website": "https://kadena.io/en/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Kava",
@@ -1061,10 +1523,17 @@
       "chat": "https://t.me/joinchat/FkPmgRKdMAyLdWMItxYt0w",
       "website": "https://kava.io/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "KiChain",
@@ -1078,10 +1547,17 @@
       "chat": "https://t.me/KiFoundation",
       "website": "https://foundation.ki"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Kira Interchain Exchange",
@@ -1095,10 +1571,17 @@
       "chat": "https://t.me/kirainterex",
       "website": "https://kiraex.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "KONSTELLATION",
@@ -1112,9 +1595,16 @@
       "chat": "https://t.me/Konstellation",
       "website": "https://konstellation.tech/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "KuChain",
@@ -1128,9 +1618,16 @@
       "chat": "https://t.co/oxRRgkxG2U?amp=1",
       "website": "https://www.kucoin.com/news/en-kuchain-betanet-event-extension-annoucement"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Kuende",
@@ -1144,10 +1641,17 @@
       "chat": "http://t.me/kuende",
       "website": "https://kuende.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "LCNEM",
@@ -1160,9 +1664,16 @@
       "twitter": "https://twitter.com/lcnem_en",
       "website": "https://lcnem.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "LeapDAO",
@@ -1175,9 +1686,16 @@
       "twitter": "https://twitter.com/leapdao",
       "website": "https://leapdao.org"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "LIGHT STREAMS",
@@ -1191,9 +1709,16 @@
       "chat": "https://t.me/lightstreams",
       "website": "https://www.lightstreams.network/"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "LikeCoin",
@@ -1207,10 +1732,17 @@
       "chat": "https://t.me/likecoin",
       "website": "https://like.co/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Loom Network",
@@ -1224,9 +1756,16 @@
       "chat": "https://t.me/loomnetwork",
       "website": "https://loomx.io/"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "MEDIBLOCK",
@@ -1240,10 +1779,17 @@
       "chat": "https://t.me/medibloc",
       "website": "https://medibloc.org/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "memecom",
@@ -1254,9 +1800,16 @@
       "proof": "https://goo.gl/pnJD67",
       "website": "https://memecom.co/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "MESG",
@@ -1270,9 +1823,16 @@
       "chat": "https://t.me/mesg_community",
       "website": "https://mesg.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Microtick",
@@ -1285,10 +1845,17 @@
       "chat": "https://t.me/microtick_general",
       "website": "http://www.microtick.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Minter",
@@ -1302,9 +1869,16 @@
       "chat": "https://t.me/MinterNetworkGroup",
       "website": "https://minter.network"
     },
-    "tags": [
+    "platforms": [
       "tendermint bft"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Moracle Network",
@@ -1318,9 +1892,16 @@
       "chat": "https://t.me/MoracleNetwork",
       "website": "https://moracle.network/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "National Digital ID",
@@ -1334,9 +1915,16 @@
       "facebook": "https://www.facebook.com/NationalDigitalID",
       "website": "http://www.ndid.co.th"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Nym Protocol",
@@ -1350,9 +1938,16 @@
       "chat": "https://t.me/nymtech",
       "website": "https://nymtech.net"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Oasis Labs",
@@ -1366,9 +1961,16 @@
       "chat": "https://join.slack.com/t/oasiscommunity/shared_invite/enQtNjQ5MTA3NTgyOTkzLWIxNTg1ZWZmOTIwNmQ2MTg1YmU0MzgyMzk3OWM2ZWQ4NTQ0ZDJkNTBmMTdlM2JhODllYjg5YmJkODc2NzgwNTg",
       "website": "https://www.oasislabs.com"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Ockam",
@@ -1381,9 +1983,16 @@
       "twitter": "https://twitter.com/Ockam_io",
       "website": "https://www.ockam.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "OKChain",
@@ -1397,10 +2006,17 @@
       "chat": "https://t.me/okchaintech",
       "website": "https://www.okex.com/okchain"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "OneLedger",
@@ -1414,9 +2030,16 @@
       "chat": "https://t.me/oneledger",
       "website": "https://oneledger.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Oracle International Corporation",
@@ -1430,9 +2053,16 @@
       "chat": "https://t.me/microtick_general",
       "website": "https://www.oracle.com/corporate/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Pallium",
@@ -1446,9 +2076,16 @@
       "chat": "https://t.me/joinchat/BnO6ig_CZTTF5zc8Iwx7aA",
       "website": "http://www.pallium.network/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Papyrus",
@@ -1462,9 +2099,16 @@
       "chat": "https://t.me/papyrusglobal",
       "website": "https://papyrus.global/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Paradigm",
@@ -1478,9 +2122,16 @@
       "chat": "https://chat.paradigm.market",
       "website": "https://paradigm.market/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "peaq",
@@ -1492,9 +2143,16 @@
       "chat": "https://t.me/peaqio",
       "website": "https://peaq.io/"
     },
-    "tags": [
+    "platforms": [
       "tendermint bft"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Peerity",
@@ -1506,9 +2164,16 @@
       "github": "https://github.com/Peerity",
       "website": "http://peerity.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Persistence",
@@ -1522,10 +2187,17 @@
       "chat": "https://t.me/PersistenceOne",
       "website": "https://persistence.one"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "playlist",
@@ -1537,10 +2209,17 @@
       "twitter": "https://twitter.com/playlist",
       "website": "https://www.playlist.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "ProximaX",
@@ -1554,9 +2233,16 @@
       "chat": "http://t.me/ProximaXio",
       "website": "https://www.proximax.io/"
     },
-    "tags": [
+    "platforms": [
       "tendermint bft"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "QOS Chain",
@@ -1570,9 +2256,16 @@
       "chat": "https://t.me/QOSOfficial_EN",
       "website": "https://www.qoschain.io/#/xingyun"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Regen Network",
@@ -1586,10 +2279,17 @@
       "chat": "https://t.me/regennetwork_public",
       "website": "https://www.regen.network/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Secret Network",
@@ -1603,10 +2303,17 @@
       "chat": "https://t.me/SCRTnetwork",
       "website": "https://scrt.network/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Sentinel",
@@ -1620,10 +2327,17 @@
       "chat": "https://t.me/sentinel_co",
       "website": "https://sentinel.co/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "ShareRing",
@@ -1637,9 +2351,16 @@
       "chat": "https://t.me/ShareRing",
       "website": "https://sharering.network/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "SmartPesa",
@@ -1653,9 +2374,16 @@
       "chat": "https://t.me/smartpesa",
       "website": "https://www.smartpesa.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Spend",
@@ -1669,9 +2397,16 @@
       "chat": "https://t.me/SpendNews",
       "website": "https://www.spend.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Stratumn - IndigoCore",
@@ -1685,9 +2420,16 @@
       "chat": "https://gitter.im/stratumn/Lobby",
       "website": "https://stratumn.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Strong Force",
@@ -1700,9 +2442,16 @@
       "chat": "https://discordapp.com/invite/KrtQdXX",
       "website": "https://www.strongforce.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Supernova",
@@ -1716,9 +2465,16 @@
       "chat": "https://t.me/supernovachain",
       "website": "https://supernova.community"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Tatau",
@@ -1732,9 +2488,16 @@
       "chat": "https://t.me/tatau_io",
       "website": "https://tatau.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Terra",
@@ -1748,10 +2511,17 @@
       "chat": "https://discord.gg/bYfyhUT",
       "website": "https://terra.money"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "ThetaToken",
@@ -1765,9 +2535,16 @@
       "chat": "https://t.me/thetatoken",
       "website": "https://www.thetatoken.org/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "THORChain",
@@ -1781,10 +2558,17 @@
       "chat": "https://t.me/thorchain_org",
       "website": "https://thorchain.org/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk",
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "TICHEX",
@@ -1798,9 +2582,16 @@
       "chat": "https://t.me/TichexOfficial",
       "website": "https://tichex.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "UniCoins",
@@ -1812,9 +2603,16 @@
       "chat": "https://t.me/UniCoinsUs",
       "website": "http://unicoins.us/beta/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Unification",
@@ -1828,9 +2626,16 @@
       "chat": "https://t.me/unificationfoundation",
       "website": "https://unification.com/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Uphack",
@@ -1843,9 +2648,16 @@
       "twitter": "https://twitter.com/hashnode",
       "website": "https://hashnode.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Vega Protocol",
@@ -1859,9 +2671,16 @@
       "chat": "https://t.me/vegaprotocol",
       "website": "https://vegaprotocol.io/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Vocdoni",
@@ -1875,9 +2694,16 @@
       "chat": "https://t.me/vocdoni",
       "website": "https://vocdoni.io"
     },
-    "tags": [
+    "platforms": [
       "tendermint core"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "WETONOMY",
@@ -1891,9 +2717,16 @@
       "chat": "https://twitter.com/wetonomy",
       "website": "https://www.wetonomy.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Wisdom of Crowd",
@@ -1907,9 +2740,16 @@
       "chat": "https://t.me/wisdomofcrowd5",
       "website": "http://www.wisdomofcrowd.org/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "Xar",
@@ -1923,9 +2763,16 @@
       "chat": "https://t.me/xarnetwork",
       "website": "https://xar.network/"
     },
-    "tags": [
+    "platforms": [
       "cosmos sdk"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   },
   {
     "name": "XMN Blockchain Services",
@@ -1937,8 +2784,15 @@
       "github": "https://github.com/xmnservices",
       "website": "http://xmnblockchain.com/"
     },
-    "tags": [
+    "platforms": [
       "none"
-    ]
+    ],
+    "languages": [
+      "go",
+      "javascript",
+      "rust",
+      "none"
+    ],
+    "is_ibc_support": false
   }
 ]
