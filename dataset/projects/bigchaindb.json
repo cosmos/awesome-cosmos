@@ -10,7 +10,7 @@
     "chat": "https://gitter.im/bigchaindb/bigchaindb",
     "website": "https://www.bigchaindb.com/"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

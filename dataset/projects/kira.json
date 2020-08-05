@@ -10,7 +10,7 @@
     "chat": "https://t.me/kirainterex",
     "website": "https://kiraex.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

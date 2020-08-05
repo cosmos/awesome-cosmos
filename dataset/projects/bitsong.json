@@ -10,7 +10,7 @@
     "chat": "https://t.me/BitSongOfficial",
     "website": "https://bitsong.io/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
   ]
 }

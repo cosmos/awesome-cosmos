@@ -10,7 +10,7 @@
     "chat": "https://akash.network/chat",
     "website": "https://akash.network/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

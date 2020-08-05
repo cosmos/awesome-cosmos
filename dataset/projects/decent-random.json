@@ -10,7 +10,7 @@
     "chat": "https://t.me/joinchat/EF5N2RHTiUOFs4db7vCviA",
     "website": "https://decentrandom.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

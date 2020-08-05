@@ -10,7 +10,7 @@
     "chat": "https://t.me/datopia",
     "website": "https://datopia.io/"
   },
-  "tags": [
+  "platforms": [
     "tendermint bft"
   ]
 }

@@ -10,7 +10,7 @@
     "chat": "https://t.me/PersistenceOne",
     "website": "https://persistence.one"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

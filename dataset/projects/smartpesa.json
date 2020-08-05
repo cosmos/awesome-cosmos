@@ -10,7 +10,7 @@
     "chat": "https://t.me/smartpesa",
     "website": "https://www.smartpesa.com/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

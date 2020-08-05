@@ -9,7 +9,7 @@
     "chat": "https://t.me/microtick_general",
     "website": "http://www.microtick.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

@@ -10,7 +10,7 @@
     "chat": "https://t.me/medibloc",
     "website": "https://medibloc.org/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

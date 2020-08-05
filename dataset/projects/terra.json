@@ -10,7 +10,7 @@
     "chat": "https://discord.gg/bYfyhUT",
     "website": "https://terra.money"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

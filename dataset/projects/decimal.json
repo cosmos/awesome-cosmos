@@ -10,7 +10,7 @@
     "chat": "https://t.me/decimal_ru",
     "website": "https://decimalchain.com"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

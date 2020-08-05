@@ -10,7 +10,7 @@
     "chat": "https://t.me/emoney_com",
     "website": "https://e-money.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

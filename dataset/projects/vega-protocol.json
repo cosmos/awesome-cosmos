@@ -10,7 +10,7 @@
     "chat": "https://t.me/vegaprotocol",
     "website": "https://vegaprotocol.io/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

@@ -10,7 +10,7 @@
     "chat": "https://discord.gg/wUaUptB",
     "website": "https://hub.cosmos.network/master/hub-overview/overview.html"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

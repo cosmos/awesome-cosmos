@@ -10,7 +10,7 @@
     "facebook": "https://www.facebook.com/NationalDigitalID",
     "website": "http://www.ndid.co.th"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

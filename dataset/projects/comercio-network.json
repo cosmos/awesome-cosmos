@@ -10,7 +10,7 @@
     "chat": "https://t.me/CommercioNetwork",
     "website": "https://commercio.network/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

@@ -10,7 +10,7 @@
     "chat": "https://t.me/joinchat/AAEssEJVYu-7YvRc0XNZaQ",
     "website": "https://fluence.one/"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

@@ -10,7 +10,7 @@
     "chat": "https://t.me/desmoslabs",
     "website": "https://www.desmos.network"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

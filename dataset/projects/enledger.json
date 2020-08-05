@@ -10,7 +10,7 @@
     "chat": "https://t.me/EnLedgerChat",
     "website": "https://www.enledger.io/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

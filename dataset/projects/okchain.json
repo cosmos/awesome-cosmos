@@ -10,7 +10,7 @@
     "chat": "https://t.me/okchaintech",
     "website": "https://www.okex.com/okchain"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

@@ -10,7 +10,7 @@
     "chat": "https://t.me/lightstreams",
     "website": "https://www.lightstreams.network/"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

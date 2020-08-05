@@ -10,7 +10,7 @@
     "chat": "https://gitter.im/stratumn/Lobby",
     "website": "https://stratumn.com/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

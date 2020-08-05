@@ -10,7 +10,7 @@
     "chat": "https://riot.im/app/#/room/#althea:matrix.org",
     "website": "https://althea.net/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
   ]
 }

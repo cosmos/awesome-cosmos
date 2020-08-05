@@ -10,7 +10,7 @@
     "chat": "https://t.me/chainpoint",
     "website": "https://chainpoint.org/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

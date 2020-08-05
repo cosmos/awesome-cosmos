@@ -10,7 +10,7 @@
     "chat": "https://t.me/BytomInternational",
     "website": "https://bytom.io/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

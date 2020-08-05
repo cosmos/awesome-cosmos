@@ -10,7 +10,7 @@
     "chat": "http://t.me/ProximaXio",
     "website": "https://www.proximax.io/"
   },
-  "tags": [
+  "platforms": [
     "tendermint bft"
   ]
 }

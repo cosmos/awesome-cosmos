@@ -10,7 +10,7 @@
     "chat": "https://t.co/oxRRgkxG2U?amp=1",
     "website": "https://www.kucoin.com/news/en-kuchain-betanet-event-extension-annoucement"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
   ]
 }

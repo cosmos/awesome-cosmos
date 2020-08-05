@@ -10,7 +10,7 @@
     "chat": "http://t.me/kuende",
     "website": "https://kuende.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

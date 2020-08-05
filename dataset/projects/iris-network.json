@@ -10,7 +10,7 @@
     "chat": "https://t.me/irisnetwork",
     "website": "https://www.irisnet.org/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

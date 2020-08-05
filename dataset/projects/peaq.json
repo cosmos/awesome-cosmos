@@ -8,7 +8,7 @@
     "chat": "https://t.me/peaqio",
     "website": "https://peaq.io/"
   },
-  "tags": [
+  "platforms": [
     "tendermint bft"
   ]
 }

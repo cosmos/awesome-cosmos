@@ -10,7 +10,7 @@
     "chat": "https://t.me/ShareRing",
     "website": "https://sharering.network/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

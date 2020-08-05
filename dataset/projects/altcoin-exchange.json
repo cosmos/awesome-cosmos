@@ -1,6 +1,6 @@
 {
   "name": "Altcoin Exchange",
-  "description": "?",
+  "description": "none",
   "image": "",
   "network": "DEX",
   "links": {
@@ -10,7 +10,7 @@
     "chat": "https://t.me/altcoin_io",
     "website": "https://altcoin.io/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

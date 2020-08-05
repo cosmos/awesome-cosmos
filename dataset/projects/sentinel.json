@@ -10,7 +10,7 @@
     "chat": "https://t.me/sentinel_co",
     "website": "https://sentinel.co/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

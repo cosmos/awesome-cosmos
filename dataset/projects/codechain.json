@@ -10,7 +10,7 @@
     "chat": "https://t.me/codechain_protocol",
     "website": "https://codechain.io/"
   },
-  "tags": [
+  "platforms": [
     "tendermint bft"
   ]
 }

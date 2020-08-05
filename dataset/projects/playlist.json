@@ -8,7 +8,7 @@
     "twitter": "https://twitter.com/playlist",
     "website": "https://www.playlist.com/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

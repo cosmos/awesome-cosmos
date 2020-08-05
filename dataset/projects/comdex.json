@@ -8,7 +8,7 @@
     "twitter": "https://twitter.com/ComdexOfficial",
     "website": "https://comdex.sg/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
   ]
 }

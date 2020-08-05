@@ -10,7 +10,7 @@
     "chat": "https://t.me/color_platform_en",
     "website": "https://color-platform.org/kr/"
   },
-  "tags": [
+  "platforms": [
     "cosmos-sdk",
     "tendermint core"
   ]

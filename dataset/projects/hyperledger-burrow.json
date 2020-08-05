@@ -10,7 +10,7 @@
     "chat": "https://chat.hyperledger.org/",
     "website": "https://hyperledger.org/projects/hyperledger-burrow"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

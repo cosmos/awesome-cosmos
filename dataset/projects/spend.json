@@ -10,7 +10,7 @@
     "chat": "https://t.me/SpendNews",
     "website": "https://www.spend.com/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

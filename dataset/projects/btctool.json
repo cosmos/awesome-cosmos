@@ -7,7 +7,7 @@
     "proof": "https://github.com/zouxyan/btctool#readme",
     "github": "https://github.com/zouxyan/btctool"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
   ]
 }

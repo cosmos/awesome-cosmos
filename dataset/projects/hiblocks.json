@@ -10,7 +10,7 @@
     "chat": "https://t.me/hiblocks_eng",
     "website": "http://www.hiblocks.io/main.do"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

@@ -10,7 +10,7 @@
     "chat": "https://t.me/vocdoni",
     "website": "https://vocdoni.io"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

@@ -10,7 +10,7 @@
     "chat": "https://t.me/oneledger",
     "website": "https://oneledger.io/"
   },
-  "tags": [
-    "?"
+  "platforms": [
+    "none"
   ]
 }

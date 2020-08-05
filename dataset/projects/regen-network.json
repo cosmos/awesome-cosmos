@@ -10,7 +10,7 @@
     "chat": "https://t.me/regennetwork_public",
     "website": "https://www.regen.network/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

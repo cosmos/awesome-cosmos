@@ -10,7 +10,7 @@
     "chat": "https://t.me/nymtech",
     "website": "https://nymtech.net"
   },
-  "tags": [
+  "platforms": [
     "tendermint core"
   ]
 }

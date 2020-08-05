@@ -10,7 +10,7 @@
     "chat": "https://t.me/ixonetwork",
     "website": "http://ixo.foundation/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

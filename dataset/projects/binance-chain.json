@@ -10,7 +10,7 @@
     "chat": "https://t.me/binanceexchange",
     "website": "https://binance-chain.github.io/"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

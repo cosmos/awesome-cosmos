@@ -10,7 +10,7 @@
     "chat": "https://t.me/CryptoComOfficial",
     "website": "https://www.crypto.com/en/chain"
   },
-  "tags": [
+  "platforms": [
     "tendermint bft"
   ]
 }

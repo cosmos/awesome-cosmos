@@ -10,7 +10,7 @@
     "chat": "https://t.me/irisnetwork",
     "website": "https://www.bianjie.ai/products/irita"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk",
     "tendermint core"
   ]

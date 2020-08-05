@@ -10,7 +10,7 @@
     "website": "https://crowdcontrol.network/",
     "twitter": "https://twitter.com/CrowdControlNet"
   },
-  "tags": [
+  "platforms": [
     "cosmos sdk"
   ]
 }
