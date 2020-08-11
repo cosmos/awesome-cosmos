@@ -185,6 +185,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - ShareRing [Website](https://sharering.network/)
 - Source [Website](https://source.network/)
 - Spend [Website](https://www.spend.com/)
+- StakeBird DAO [Website](https://github.com/public-awesome/stakebird)
 - Terra [Website](https://terra.money/)
 - ThorChain [Website](https://thorchain.org/)
 - Tichex [Website](https://tichex.com/)
