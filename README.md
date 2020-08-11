@@ -94,6 +94,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [LOOK Explorer](https://cosmos.ping.pub)
 - [Union Market](https://union.market/token/cosmos)
 - [Map of Zones](https://mapofzones.com/?period=24)
+- [CosmosStation](https://www.cosmostation.io/)
 
 ## Modules
 
