@@ -20,6 +20,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
   - [Core](#core)
   - [External](#external)
 - [Validator Monitoring](#validator-monitoring)
+- [Frameworks](#frameworks)
 - [Virtual Machines](#virtual-machines)
 - [Ecosystem](#ecosystem)
 - [Articles](#articles)
@@ -134,6 +135,13 @@ If you are working on a module that you would like to be used by the community, 
 - [Chainflow Validator Tool](https://github.com/chris-remus/chainflow-icf-validator-tool-grant) - Grafana dashboard that monitors various validator node data/statistics.
 - [Node Monitor Gaiad by Stake Zone](https://github.com/stakezone/nodemonitorgaiad) - Log file based Cosmos `gaiad` monitoring solution for Zabbix.
 - [Cosmosvalmon by Fresh Atoms](https://github.com/gaia/cosmosvalmon) - Configurable Cosmos validator monitoring and alerting service.
+
+## Framework
+
+- [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/)
+- [Kepler](https://github.com/f-o-a-m/kepler)
+- [Orga](https://github.com/nomic-io/orga)
+- [CosmosSwift](https://github.com/CosmosSwift)
 
 ## Virtual Machines
 
