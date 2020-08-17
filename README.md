@@ -136,7 +136,7 @@ If you are working on a module that you would like to be used by the community, 
 - [Node Monitor Gaiad by Stake Zone](https://github.com/stakezone/nodemonitorgaiad) - Log file based Cosmos `gaiad` monitoring solution for Zabbix.
 - [Cosmosvalmon by Fresh Atoms](https://github.com/gaia/cosmosvalmon) - Configurable Cosmos validator monitoring and alerting service.
 
-## Framework
+## Frameworks
 
 - [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/)
 - [Kepler](https://github.com/f-o-a-m/kepler)
