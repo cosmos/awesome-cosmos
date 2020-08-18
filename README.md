@@ -20,6 +20,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
   - [Core](#core)
   - [External](#external)
 - [Validator Monitoring](#validator-monitoring)
+- [Frameworks](#frameworks)
 - [Virtual Machines](#virtual-machines)
 - [Ecosystem](#ecosystem)
 - [Articles](#articles)
@@ -94,6 +95,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [LOOK Explorer](https://cosmos.ping.pub)
 - [Union Market](https://union.market/token/cosmos)
 - [Map of Zones](https://mapofzones.com/?period=24)
+- [Cosmostation](https://www.cosmostation.io/)
 
 ## Modules
 
@@ -133,6 +135,14 @@ If you are working on a module that you would like to be used by the community, 
 - [Chainflow Validator Tool](https://github.com/chris-remus/chainflow-icf-validator-tool-grant) - Grafana dashboard that monitors various validator node data/statistics.
 - [Node Monitor Gaiad by Stake Zone](https://github.com/stakezone/nodemonitorgaiad) - Log file based Cosmos `gaiad` monitoring solution for Zabbix.
 - [Cosmosvalmon by Fresh Atoms](https://github.com/gaia/cosmosvalmon) - Configurable Cosmos validator monitoring and alerting service.
+
+## Frameworks
+
+- [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/) (GoLang)
+- [Kepler](https://github.com/f-o-a-m/kepler) (Haskell)
+- [Orga](https://github.com/nomic-io/orga) (Rust)
+- [CosmosSwift](https://github.com/CosmosSwift) (Swift)
+- [Lotion.js](https://github.com/nomic-io/lotion) (Javascript)
 
 ## Virtual Machines
 
@@ -175,12 +185,16 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - LikeCoin [Website](https://like.co/)
 - Lino Network [Website](https://lino.network/)
 - Mesg [Website](https://mesg.com/)
+- Provenance [Website](https://provenance.io/)
 - ProximaX [Website](https://www.proximax.io/)
 - Playlist [Website](https://www.playlist.com/)
 - QOS [Website](https://www.qoschain.io/#/xingyun)
 - Regen Network [Website](https://regen.network/)
 - Sentinel [Website](https://sentinel.co/)
+- ShareRing [Website](https://sharering.network/)
+- Source [Website](https://source.network/)
 - Spend [Website](https://www.spend.com/)
+- StakeBird DAO [Website](https://github.com/public-awesome/stakebird)
 - Terra [Website](https://terra.money/)
 - ThorChain [Website](https://thorchain.org/)
 - Tichex [Website](https://tichex.com/)
