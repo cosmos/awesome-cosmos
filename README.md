@@ -142,6 +142,7 @@ If you are working on a module that you would like to be used by the community, 
 - [Kepler](https://github.com/f-o-a-m/kepler) (Haskell)
 - [Orga](https://github.com/nomic-io/orga) (Rust)
 - [CosmosSwift](https://github.com/CosmosSwift) (Swift)
+- [Lotion.js](https://github.com/nomic-io/lotion) (Javascript)
 
 ## Virtual Machines
 
