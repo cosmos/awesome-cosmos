@@ -138,10 +138,10 @@ If you are working on a module that you would like to be used by the community, 
 
 ## Frameworks
 
-- [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/)
-- [Kepler](https://github.com/f-o-a-m/kepler)
-- [Orga](https://github.com/nomic-io/orga)
-- [CosmosSwift](https://github.com/CosmosSwift)
+- [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/) (GoLang)
+- [Kepler](https://github.com/f-o-a-m/kepler) (Haskell)
+- [Orga](https://github.com/nomic-io/orga) (Rust)
+- [CosmosSwift](https://github.com/CosmosSwift) (Swift)
 
 ## Virtual Machines
 
