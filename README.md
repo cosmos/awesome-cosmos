@@ -14,7 +14,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Client Libraries](#client-libraries)
   - [Javascript](#javascript)
   - [Python](#python)
-  - [Rust](#rust)
+- [Rust Ecosystem](#rust-ecosystem)
 - [Block Explorers & Validator Profiles](#block-explorers--validator-profiles)
 - [Modules](#modules)
   - [Core](#core)
@@ -72,18 +72,37 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 - [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing
 
-### Rust
+## Rust Ecosystem
+
+Core:
+
+- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos-SDK chains
+- [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs/) - Tendermint data structures, RPC client, and light client
+- [iqlusioninc/sagan](https://github.com/iqlusioninc/sagan) - Observability tool for Cosmos and other Tendermint applications
+- [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
+- [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators
+
+
+Bridges:
 
 - [cdot-network/substrate-ibc](https://github.com/cdot-network/substrate-ibc) - IBC on Substrate
 - [ChorusOne/quantum-tunnel](https://github.com/ChorusOne/quantum-tunnel) - Cosmos <-> Substrate Relayer
-- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly smart contracts for the Cosmos-SDK
-- [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs/) - Tendermint data structures, RPC client, and light client
-- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos-SDK chains
-- [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
-- [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators
-- [iqlusioninc/sagan](https://github.com/iqlusioninc/sagan) - Observability tool for Cosmos and other Tendermint applications
-- [nomic-io/orga](http://github.com/nomic-io/orga) - ABCI framework for state machine transitions
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Merge-mined Bitcoin sidechain built with Orga and Tendermint
+
+Application Frameworks:
+
+- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly smart contracts for the Cosmos-SDK
+- [nomic-io/orga](http://github.com/nomic-io/orga) - ABCI framework for state machine transitions
+
+
+Applications:
+
+- [crypto-com/chain](https://github.com/crypto-com/chain) - crypto.com payments
+  blockchain on Tendermint
+- [KZen-networks/white-city](https://github.com/KZen-networks/white-city) -
+  Network layer for Secure Multi-Party Computation on Tendermint
+- [nymtech/nym](https://github.com/nymtech/nym) - Mixnet using Tendermint 
+
 
 ## Block Explorers & Validator Profiles
 
