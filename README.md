@@ -74,16 +74,9 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ### Rust
 
-- [cdot-network/substrate-ibc](https://github.com/cdot-network/substrate-ibc) - IBC on Substrate
-- [ChorusOne/quantum-tunnel](https://github.com/ChorusOne/quantum-tunnel) - Cosmos <-> Substrate Relayer
-- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly smart contracts for the Cosmos-SDK
+- [iqlusion/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs/) - Tendermint data structures, RPC client, and light client
-- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos-SDK chains
-- [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
-- [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators
-- [iqlusioninc/sagan](https://github.com/iqlusioninc/sagan) - Observability tool for Cosmos and other Tendermint applications
-- [nomic-io/orga](http://github.com/nomic-io/orga) - ABCI framework for state machine transitions
-- [nomic-io/nomic](https://github.com/nomic-io/nomic) - Merge-mined Bitcoin sidechain built with Orga and Tendermint
+- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures, handlers, and relayer
 
 ## Block Explorers & Validator Profiles
 
