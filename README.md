@@ -74,7 +74,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ## Rust Ecosystem
 
-Core:
+### Core
 
 - [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos-SDK chains
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs/) - Tendermint data structures, RPC client, and light client
@@ -83,19 +83,20 @@ Core:
 - [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators
 
 
-Bridges:
+### Bridges
 
 - [cdot-network/substrate-ibc](https://github.com/cdot-network/substrate-ibc) - IBC on Substrate
 - [ChorusOne/quantum-tunnel](https://github.com/ChorusOne/quantum-tunnel) - Cosmos <-> Substrate Relayer
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Merge-mined Bitcoin sidechain built with Orga and Tendermint
 
-Application Frameworks:
+
+### Application Frameworks
 
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly smart contracts for the Cosmos-SDK
 - [nomic-io/orga](http://github.com/nomic-io/orga) - ABCI framework for state machine transitions
 
 
-Applications:
+### Applications
 
 - [crypto-com/chain](https://github.com/crypto-com/chain) - crypto.com payments
   blockchain on Tendermint
