@@ -109,24 +109,30 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [nymtech/nym](https://github.com/nymtech/nym) - Mixnet using Tendermint 
 
 
-## Block Explorers & Validator Profiles
+## Block Explorers 
 
-- [Anthem](https://anthem.chorus.one)
+- [Anthem](https://anthem.chorus.one) | [Source](https://github.com/ChorusOne/anthem)
 - [ATOMScan](https://atomscan.app)
-- [Big Dipper](https://cosmos.bigdipper.live/)
-- [Hubble](https://hubble.figment.network/)
-- [Lunie](https://lunie.io)
-- [Mintscan by Cosmostation](https://www.mintscan.io/)
-- [Stargazer](https://stargazer.certus.one/)
-- [B-Harvest](https://bharvest.io/wallet_en)
-- [ATOMScan](https://atomscan.app)
-- [Cosmoscan](https://cosmoscan.net)
-- [SG-1](https://sg-1.online)
+- [Big Dipper](https://cosmos.bigdipper.live/) | [Source](https://github.com/forbole/big-dipper)
+- [Hubble](https://hubble.figment.network/) | [Source](https://github.com/figment-networks/hubble)
+- [LOOK Explorer](https://cosmos.ping.pub) | [Source](https://github.com/ping-pub/look)
+- [Map of Zones](https://mapofzones.com/?period=24) | [Source](https://github.com/mapofzones)
+- [Mintscan](https://www.mintscan.io/) | 
 - [Stake ID](https://stake.id)
-- [LOOK Explorer](https://cosmos.ping.pub)
-- [Union Market](https://union.market/token/cosmos)
-- [Map of Zones](https://mapofzones.com/?period=24)
+- [Stargazer](https://stargazer.certus.one/)
+
+## Validator Profiles
+
+- [B-Harvest](https://bharvest.io/)
+- [Certus One](https://certus.one/)
+- [Chorus one](https://chorus.one/)
+- [Cosmoscan](https://cosmoscan.net)
 - [Cosmostation](https://www.cosmostation.io/)
+- [Figment Networks](https://figment.network/)
+- [Forbole](https://www.forbole.com/)
+- [SG-1](https://sg-1.online)
+- [Staking Fund](https://www.staking.fund/)
+- [Union Market](https://union.market/token/cosmos)
 
 ## Modules
 
