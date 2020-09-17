@@ -57,6 +57,10 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ## Client Libraries
 
+### Go
+
+- [Starport](https://github.com/tendermint/starport/) - For Cosmos SDK blockchain development. Bootstraps a new Cosmos SDK blockchain with UI and allows to work conviniently with modules and types.
+
 ### Javascript
 
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - Cosmostation Signing & API Library
