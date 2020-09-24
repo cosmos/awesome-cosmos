@@ -112,7 +112,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 ## Block Explorers 
 
 - [Anthem](https://anthem.chorus.one) | [Source](https://github.com/ChorusOne/anthem)
-- [ATOMScan](https://atomscan.app)
+- [ATOMScan](https://atomscan.com)
 - [Big Dipper](https://cosmos.bigdipper.live/) | [Source](https://github.com/forbole/big-dipper)
 - [Hubble](https://hubble.figment.network/) | [Source](https://github.com/figment-networks/hubble)
 - [LOOK Explorer](https://cosmos.ping.pub) | [Source](https://github.com/ping-pub/look)
