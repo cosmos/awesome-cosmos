@@ -133,6 +133,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [SG-1](https://sg-1.online)
 - [Staking Fund](https://www.staking.fund/)
 - [Union Market](https://union.market/token/cosmos)
+- [Easy 2 Stake](https://www.easy2stake.com/)
 
 ## Modules
 
