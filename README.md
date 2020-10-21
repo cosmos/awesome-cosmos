@@ -126,6 +126,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [B-Harvest](https://bharvest.io/)
 - [Certus One](https://certus.one/)
 - [Chorus one](https://chorus.one/)
+- [Citizen Cosmos](https://www.citizencosmos.space/staking)
 - [Cosmoscan](https://cosmoscan.net)
 - [Cosmostation](https://www.cosmostation.io/)
 - [Figment Networks](https://figment.network/)
