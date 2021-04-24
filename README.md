@@ -251,3 +251,4 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - [Awesome Tendermint](https://github.com/tendermint/awesome)
 - [Awesome Binance Chain](https://github.com/binance-chain/awesome)
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm)
+- [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
