@@ -174,6 +174,8 @@ If you are working on a module that you would like to be used by the community, 
 - [Chainflow Validator Tool](https://github.com/chris-remus/chainflow-icf-validator-tool-grant) - Grafana dashboard that monitors various validator node data/statistics.
 - [Node Monitor Gaiad by Stake Zone](https://github.com/stakezone/nodemonitorgaiad) - Log file based Cosmos `gaiad` monitoring solution for Zabbix.
 - [Cosmosvalmon by Fresh Atoms](https://github.com/gaia/cosmosvalmon) - Configurable Cosmos validator monitoring and alerting service.
+- [cosmos-exporter by SOLAR Labs](https://github.com/solarlabsteam/cosmos-exporter) - a Prometheus exporter that scrapes data about wallets, specific validators or a validator set
+- [missed-blocks-checker by SOLAR Labs](https://github.com/solarlabsteam/missed-blocks-checker) - monitors validators' missed blocks and sends the information to Slack or Telegram
 
 ## Frameworks
 
