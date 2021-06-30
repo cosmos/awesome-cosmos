@@ -15,7 +15,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
   - [Javascript](#javascript)
   - [Python](#python)
 - [Rust Ecosystem](#rust-ecosystem)
-- [Block Explorers & Validator Profiles](#block-explorers--validator-profiles)
+- [Block Explorers](#block-explorers)
 - [Modules](#modules)
   - [Core](#core)
   - [External](#external)
@@ -117,7 +117,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Hubble](https://hubble.figment.network/) | [Source](https://github.com/figment-networks/hubble)
 - [LOOK Explorer](https://cosmos.ping.pub) | [Source](https://github.com/ping-pub/look)
 - [Map of Zones](https://mapofzones.com/?period=24) | [Source](https://github.com/mapofzones)
-- [Mintscan](https://www.mintscan.io/) | 
+- [Mintscan](https://www.mintscan.io/) and [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/) | 
 - [Stake ID](https://stake.id)
 - [Stargazer](https://stargazer.certus.one/)
 
@@ -146,13 +146,14 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmos SDK - Bank](https://github.com/cosmos/cosmos-sdk/tree/master/x/bank)
 - [Cosmos SDK - Crisis](https://github.com/cosmos/cosmos-sdk/tree/master/x/crisis)
 - [Cosmos SDK - Distribution](https://github.com/cosmos/cosmos-sdk/tree/master/x/distribution)
+- [Cosmos SDK - Evidence](https://github.com/cosmos/cosmos-sdk/tree/master/x/evidence)
 - [Cosmos SDK - Governance](https://github.com/cosmos/cosmos-sdk/tree/master/x/governance)
 - [Cosmos SDK - IBC](https://github.com/cosmos/cosmos-sdk/tree/master/x/ibc)
 - [Cosmos SDK - Mint](https://github.com/cosmos/cosmos-sdk/tree/master/x/mint)
 - [Cosmos SDK - Params](https://github.com/cosmos/cosmos-sdk/tree/master/x/params)
 - [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/x/slashing)
 - [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/x/staking)
-- [Cosmos SDK - Supply](https://github.com/cosmos/cosmos-sdk/tree/master/x/supply)
+- [Cosmos SDK - Upgrade](https://github.com/cosmos/cosmos-sdk/tree/master/x/upgrade)
 
 ### External
 
@@ -177,7 +178,7 @@ If you are working on a module that you would like to be used by the community, 
 
 ## Frameworks
 
-- [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk/) (GoLang)
+- [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) (GoLang)
 - [Kepler](https://github.com/f-o-a-m/kepler) (Haskell)
 - [Orga](https://github.com/nomic-io/orga) (Rust)
 - [CosmosSwift](https://github.com/CosmosSwift) (Swift)
