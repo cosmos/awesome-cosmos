@@ -235,8 +235,6 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - Regen Network [Website](https://regen.network/)
 - Sentinel [Website](https://sentinel.co/)
 - ShareRing [Website](https://sharering.network/)
-
-
 - Source [Website](https://source.network/)
 - Spend [Website](https://www.spend.com/)
 - StakeBird DAO [Website](https://github.com/public-awesome/stakebird)
