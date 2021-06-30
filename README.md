@@ -1,6 +1,6 @@
 # Awesome Cosmos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The Cosmos-SDK is a framework for building blockchain applications in Golang. It is being used to build Gaia, the first implementation of the Cosmos Hub.
+The Cosmos SDK is a framework for building blockchain applications in Golang. Cosmos SDK is being used to build Gaia, the first implementation of the Cosmos Hub.
 
 ## Contributing
 
@@ -235,6 +235,8 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - Regen Network [Website](https://regen.network/)
 - Sentinel [Website](https://sentinel.co/)
 - ShareRing [Website](https://sharering.network/)
+
+
 - Source [Website](https://source.network/)
 - Spend [Website](https://www.spend.com/)
 - StakeBird DAO [Website](https://github.com/public-awesome/stakebird)
@@ -256,3 +258,4 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - [Awesome Binance Chain](https://github.com/binance-chain/awesome)
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm)
 - [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
+- [ATOM 2021 Initiative](https://github.com/cosmosdevs/atom2021) to modernize Proof of Stake on the Cosmos Hub
