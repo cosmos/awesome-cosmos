@@ -132,6 +132,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Figment Networks](https://figment.network/)
 - [Forbole](https://www.forbole.com/)
 - [SG-1](https://sg-1.online)
+- [Stakin](https://stakin.com)
 - [Staking Fund](https://www.staking.fund/)
 - [Union Market](https://union.market/token/cosmos)
 - [Easy 2 Stake](https://www.easy2stake.com/)
