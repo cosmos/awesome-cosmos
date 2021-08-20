@@ -227,6 +227,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - LCNEM [Website](https://lcnem.com/)
 - LikeCoin [Website](https://like.co/)
 - Lino Network [Website](https://lino.network/)
+- MediBloc [Website](https://medibloc.com/en/)
 - Mesg [Website](https://mesg.com/)
 - Provenance [Website](https://provenance.io/)
 - ProximaX [Website](https://www.proximax.io/)
