@@ -218,6 +218,7 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - Dgaming [Website](https://hub.dgaming.com/)
 - Enigma [Website](https://enigma.co/)
 - e-Money [Website](https://e-money.com/)
+- FirmaChain [Website](https://firmachain.org/)
 - Hashgard [Website](https://www.hashgard.io/)
 - IRISnet [Website](https://www.irisnet.org/)
 - IXO Foundation [Website](http://ixo.foundation/)
