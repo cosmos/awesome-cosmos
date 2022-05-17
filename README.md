@@ -120,6 +120,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Mintscan](https://www.mintscan.io/) and [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/) | 
 - [Stake ID](https://stake.id)
 - [Stargazer](https://stargazer.certus.one/)
+- [NG Explorers](https://explorers.guru/)
 
 ## Validator Profiles
 
@@ -136,6 +137,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Staking Fund](https://www.staking.fund/)
 - [Union Market](https://union.market/token/cosmos)
 - [Easy 2 Stake](https://www.easy2stake.com/)
+- [Nodes.Guru](https://stake.nodes.guru/)
 
 ## Modules
 
@@ -178,6 +180,7 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmosvalmon by Fresh Atoms](https://github.com/gaia/cosmosvalmon) - Configurable Cosmos validator monitoring and alerting service.
 - [cosmos-exporter by SOLAR Labs](https://github.com/solarlabsteam/cosmos-exporter) - a Prometheus exporter that scrapes data about wallets, specific validators or a validator set
 - [missed-blocks-checker by SOLAR Labs](https://github.com/solarlabsteam/missed-blocks-checker) - monitors validators' missed blocks and sends the information to Slack or Telegram
+- [Nodes Checker by Nodes.Guru](https://t.me/NodesGuru_bot) - check your nodes status online, receive instant notification if something is wrong with your validator node.
 
 ## Frameworks
 
