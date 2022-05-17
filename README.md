@@ -59,7 +59,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ### Go
 
-- [Starport](https://github.com/tendermint/starport/) - For Cosmos SDK blockchain development. Bootstraps a new Cosmos SDK blockchain with UI and allows to work conviniently with modules and types.
+- [Ignite CLI](http://github.com/ignite-hq/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain.
 
 ### Javascript
 
