@@ -1,29 +1,38 @@
 # Awesome Cosmos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The Cosmos SDK is a framework for building blockchain applications in Golang. Cosmos SDK is being used to build Gaia, the first implementation of the Cosmos Hub.
+The Cosmos SDK is a modular framework for building blockchain applications in Golang. Gaia, the first implementation of the Cosmos Hub, is built with the Cosmos SDK.
 
 ## Contributing
 
-Please read the [Contributing guide](./Contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
+Please read the [Contributing guide](./Contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors).
 
 ## Contents
-
-- [Resources](#resources)
-- [Wallets](#wallets)
-- [Vanity Address Generators](#vanity-address-generators)
-- [Client Libraries](#client-libraries)
-  - [Javascript](#javascript)
-  - [Python](#python)
-- [Rust Ecosystem](#rust-ecosystem)
-- [Block Explorers](#block-explorers)
-- [Modules](#modules)
-  - [Core](#core)
-  - [External](#external)
-- [Validator Monitoring](#validator-monitoring)
-- [Frameworks](#frameworks)
-- [Virtual Machines](#virtual-machines)
-- [Ecosystem](#ecosystem)
-- [Articles](#articles)
+- [Awesome Cosmos ![Awesome](https://awesome.re)](#awesome-cosmos-)
+  - [Contributing](#contributing)
+  - [Contents](#contents)
+  - [Resources](#resources)
+  - [Wallets](#wallets)
+  - [Vanity Address Generators](#vanity-address-generators)
+  - [Client Libraries](#client-libraries)
+    - [Go](#go)
+    - [JavaScript](#javascript)
+    - [Python](#python)
+  - [Rust Ecosystem](#rust-ecosystem)
+    - [Core](#core)
+    - [Bridges](#bridges)
+    - [Application Frameworks](#application-frameworks)
+    - [Applications](#applications)
+  - [Block Explorers](#block-explorers)
+  - [Visual Block Explorer](#visual-block-explorer)
+  - [Validators](#validators)
+  - [Modules](#modules)
+    - [External](#external)
+  - [Validator Monitoring](#validator-monitoring)
+  - [Frameworks](#frameworks)
+  - [Virtual Machines](#virtual-machines)
+  - [Ecosystem](#ecosystem)
+  - [Articles](#articles)
+  - [Related](#related)
 
 ## Resources
 
@@ -31,8 +40,9 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Docs - Cosmos Hub (Gaia)](https://hub.cosmos.network/)
 - [Docs - Cosmos SDK](https://docs.cosmos.network/)
 - [Docs - Tendermint](https://docs.tendermint.com/)
+- [Docs - IBC](https://ibc.cosmos.network/)
 - [Interchain Standards](https://github.com/cosmos/ics/)
-- [Tutorials](https://tutorials.cosmos.network)
+- [Cosmos Developer Portal](https://tutorials.cosmos.network)
 
 ## Wallets
 
@@ -59,9 +69,9 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ### Go
 
-- [Starport](https://github.com/tendermint/starport/) - For Cosmos SDK blockchain development. Bootstraps a new Cosmos SDK blockchain with UI and allows to work conviniently with modules and types.
+- [Ignite CLI](https://github.com/ignite-hq/cli) - All-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain. Quickly bootstraps a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
 
-### Javascript
+### JavaScript
 
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - Cosmostation Signing & API Library
 - [cosmwasm/cosmjs](https://github.com/CosmWasm/cosmjs) - **ICF sponsored Cosmos Javascript library**
@@ -111,50 +121,25 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 
 ## Block Explorers 
 
-- [Anthem](https://anthem.chorus.one) | [Source](https://github.com/ChorusOne/anthem)
 - [ATOMScan](https://atomscan.com)
 - [Big Dipper](https://cosmos.bigdipper.live/) | [Source](https://github.com/forbole/big-dipper)
-- [Hubble](https://hubble.figment.network/) | [Source](https://github.com/figment-networks/hubble)
 - [LOOK Explorer](https://cosmos.ping.pub) | [Source](https://github.com/ping-pub/look)
-- [Map of Zones](https://mapofzones.com/?period=24) | [Source](https://github.com/mapofzones)
 - [Mintscan](https://www.mintscan.io/) and [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/) | 
 - [Stake ID](https://stake.id)
-- [Stargazer](https://stargazer.certus.one/)
 
-## Validator Profiles
+## Visual Block Explorer 
 
-- [B-Harvest](https://bharvest.io/)
-- [Certus One](https://certus.one/)
-- [Chorus one](https://chorus.one/)
-- [Citizen Cosmos](https://www.citizencosmos.space/staking)
-- [Cosmoscan](https://cosmoscan.net)
-- [Cosmostation](https://www.cosmostation.io/)
-- [Figment Networks](https://figment.network/)
-- [Forbole](https://www.forbole.com/)
-- [SG-1](https://sg-1.online)
-- [Stakin](https://stakin.com)
-- [Staking Fund](https://www.staking.fund/)
-- [Union Market](https://union.market/token/cosmos)
-- [Easy 2 Stake](https://www.easy2stake.com/)
+- Use beta [Map of Zones](https://mapofzones.com/?period=24) | [Source](https://github.com/mapofzones) to view Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC transactions between different blockchains (called zones in the Cosmos Hub) to display accurate aggregate information about the pulse of the entire Cosmos ecosystem.
+
+## Validators
+
+Popular block explorers provide a list of active validators. The easiest entry point to view validator profiles is from a block explorer. For example, [Mintscan](https://www.mintscan.io/cosmos/validators), [ATOMScan](https://atomscan.com/validators), and [BigDipper](https://cosmos.bigdipper.live/validators). DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
 
 ## Modules
 
-If you are working on a module that you would like to be used by the community, add it here.
+The best place to find an accurate list of the Cosmos SDK modules is the project repository. Find modules in [https://github.com/cosmos/cosmos-sdk/tree/main/x](https://github.com/cosmos/cosmos-sdk/tree/main/x). For a list of production-grade modules, see [List of Modules](https://docs.cosmos.network/main/modules/). Some modules are important but may still lack official documentation, like the [genutil](https://github.com/cosmos/cosmos-sdk/tree/main/x/genutil) module that is essential to launch a chain. Please consider contributing documentation to the Cosmos SDK to help fill these gaps.
 
-### Core
-
-- [Cosmos SDK - Auth](https://github.com/cosmos/cosmos-sdk/tree/master/x/auth)
-- [Cosmos SDK - Bank](https://github.com/cosmos/cosmos-sdk/tree/master/x/bank)
-- [Cosmos SDK - Crisis](https://github.com/cosmos/cosmos-sdk/tree/master/x/crisis)
-- [Cosmos SDK - Distribution](https://github.com/cosmos/cosmos-sdk/tree/master/x/distribution)
-- [Cosmos SDK - Evidence](https://github.com/cosmos/cosmos-sdk/tree/master/x/evidence)
-- [Cosmos SDK - Governance](https://github.com/cosmos/cosmos-sdk/tree/master/x/governance)
-- [Cosmos SDK - IBC](https://github.com/cosmos/cosmos-sdk/tree/master/x/ibc)
-- [Cosmos SDK - Mint](https://github.com/cosmos/cosmos-sdk/tree/master/x/mint)
-- [Cosmos SDK - Params](https://github.com/cosmos/cosmos-sdk/tree/master/x/params)
-- [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/x/slashing)
-- [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/x/staking)
-- [Cosmos SDK - Upgrade](https://github.com/cosmos/cosmos-sdk/tree/master/x/upgrade)
+To share a module that you want the community to know about and use, add it here. You can also create a pull request (PR) to add the module to the official project.
 
 ### External
 
@@ -169,19 +154,18 @@ If you are working on a module that you would like to be used by the community, 
 
 ## Validator Monitoring
 
-- [P.A.N.I.C. by Simply VC](https://github.com/SimplyVC/panic_cosmos) - Python Alerter for Nodes In Cosmos, or P.A.N.I.C. is an open-sourced monitoring and alerting solution for Cosmos-SDK blockchain nodes.
-- [Prometheus Exporter by Node A Team](https://github.com/node-a-team/cosmos-validator_exporter) - Prometheus exporter for Cosmos validators.
-- [Cosmos Chains Dashboard by Yelong Zhang](https://github.com/zhangyelong/cosmos-dashboard) - Grafana dashboard to monitor Cosmos-SDK and Tendermint based blockchain nodes.
-- [Bot Monitor by Forbole](https://github.com/forbole/bot_monitor) - [Telegram bot](https://t.me/forbolebot) that monitors and sends alerts every 15 seconds
-- [Chainflow Validator Tool](https://github.com/chris-remus/chainflow-icf-validator-tool-grant) - Grafana dashboard that monitors various validator node data/statistics.
-- [Node Monitor Gaiad by Stake Zone](https://github.com/stakezone/nodemonitorgaiad) - Log file based Cosmos `gaiad` monitoring solution for Zabbix.
-- [Cosmosvalmon by Fresh Atoms](https://github.com/gaia/cosmosvalmon) - Configurable Cosmos validator monitoring and alerting service.
-- [cosmos-exporter by SOLAR Labs](https://github.com/solarlabsteam/cosmos-exporter) - a Prometheus exporter that scrapes data about wallets, specific validators or a validator set
-- [missed-blocks-checker by SOLAR Labs](https://github.com/solarlabsteam/missed-blocks-checker) - monitors validators' missed blocks and sends the information to Slack or Telegram
+- [PANIC Monitoring and Alerting For Blockchains](https://github.com/SimplyVC/panic) open source monitoring and alerting solution for Cosmos SDK, Substrate, and Chainlink-based nodes
+- [Prometheus Exporter](https://github.com/node-a-team/Cosmos-IE) integrated Prometheus exporter
+- [Cosmos Chains Dashboard](https://github.com/zhangyelong/cosmos-dashboard) Grafana dashboard to monitor Cosmos SDK and Tendermint-based blockchain nodes
+- [Node Monitor Gaiad](https://github.com/stakezone/nodemonitorgaiad) log file-based Cosmos gaiad monitoring solution for Zabbix
+- [Cosmosvalmon](https://github.com/gaia/cosmosvalmon) configurable Cosmos validator monitoring and alerting service
+- [cosmos-exporter](https://github.com/solarlabsteam/cosmos-exporter) Prometheus scraper that fetches the data from a full node of a Cosmos-based blockchain via gRPC
+- [missed-blocks-checker](https://github.com/solarlabsteam/missed-blocks-checker) monitor missed blocks for Cosmos-chain validators with support for notifications to Telegram and Slack
 
 ## Frameworks
 
-- [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) (GoLang)
+- [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) (Golang)
+- [Ignite CLI](https://github.com/ignite-hq/cli) (Golang)
 - [Kepler](https://github.com/f-o-a-m/kepler) (Haskell)
 - [Orga](https://github.com/nomic-io/orga) (Rust)
 - [CosmosSwift](https://github.com/CosmosSwift) (Swift)
@@ -189,7 +173,7 @@ If you are working on a module that you would like to be used by the community, 
 
 ## Virtual Machines
 
-These are modules or frameworks for virtual machines which run within the Cosmos SDK
+Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 - [Agoric - SES](https://github.com/Agoric/SES-shim) - Secure EcmaScript runtime
 - [Agoric - Zoe](https://agoric.com/documentation/zoe/guide/) - Smart Contracting for Agoric SES
@@ -200,61 +184,20 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 
 ## Ecosystem
 
-[Projects](https://cosmonauts.world/) built using the Cosmos SDK
-
-- Agoric [Website](https://agoric.com/)
-- Althea [Website](https://althea.net/)
-- Band Protocol [Website](https://bandprotocol.com/)
-- Binance Chain [Github](https://github.com/binance-chain/)
-- Bitsong [Website](https://bitsong.io/)
-- Comdex [Website](https://comdex.sg/)
-- Commercio.network [Website](https://commercio.network)
-- Cosmos Hub [Github](https://github.com/cosmos/gaia)
-- Cyber [Website](https://cyber.page/)
-- Data Pace [Website](https://datapace.io/)
-- Decentral Card Network [Website](https://www.decentral-card.net/)
-- Decentrarandom [Website](https://decentrandom.com/)
-- Desmos [Website](https://desmos.network)
-- Dgaming [Website](https://hub.dgaming.com/)
-- Enigma [Website](https://enigma.co/)
-- e-Money [Website](https://e-money.com/)
-- Hashgard [Website](https://www.hashgard.io/)
-- IRISnet [Website](https://www.irisnet.org/)
-- IXO Foundation [Website](http://ixo.foundation/)
-- Kava [Website](https://kava.io/)
-- Kira Interchain Exchange [Website](https://kiraex.com/)
-- Kuende [Website](https://kuende.com/)
-- LCNEM [Website](https://lcnem.com/)
-- LikeCoin [Website](https://like.co/)
-- Lino Network [Website](https://lino.network/)
-- MediBloc [Website](https://medibloc.com/en/)
-- Mesg [Website](https://mesg.com/)
-- Provenance [Website](https://provenance.io/)
-- ProximaX [Website](https://www.proximax.io/)
-- Playlist [Website](https://www.playlist.com/)
-- QOS [Website](https://www.qoschain.io/#/xingyun)
-- Regen Network [Website](https://regen.network/)
-- Sentinel [Website](https://sentinel.co/)
-- ShareRing [Website](https://sharering.network/)
-- Source [Website](https://source.network/)
-- Spend [Website](https://www.spend.com/)
-- StakeBird DAO [Website](https://github.com/public-awesome/stakebird)
-- Terra [Website](https://terra.money/)
-- ThorChain [Website](https://thorchain.org/)
-- Tichex [Website](https://tichex.com/)
-- KuChain [Website](https://kuchain.network/)
+The most up-to-date list of projects built using the Cosmos SDK is (https://cosmos.network/ecosystem/apps/).
 
 ## Articles
 
-- [What is Cosmos?](https://cosmos.network/intro/)
-- [Learn how to use Gaia in Spanish using a virtual machine](https://github.com/Colm3na/MeetupCosmos)
+As the ecosystem grows, so does the content. DYOR and follow the projects you find interesting. 
 
-**Disclaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
+Essential reading includes the [Cosmos blog](https://blog.cosmos.network/) and [What is Cosmos?](https://cosmos.network/intro/). 
+
+**Disclaimer: This community-maintained repo does not reflect the views of any official entity.**
 
 ## Related
 
-- [Awesome Tendermint](https://github.com/tendermint/awesome)
+- [Awesome Tendermint consensus](https://github.com/tendermint/awesome)
 - [Awesome Binance Chain](https://github.com/binance-chain/awesome)
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm)
 - [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
-- [ATOM 2021 Initiative](https://github.com/cosmosdevs/atom2021) to modernize Proof of Stake on the Cosmos Hub
+- [ATOM 2021 Initiative](https://github.com/cosmosdevs/atom2021) to modernize Proof-of-Stake (PoS) on the Cosmos Hub
