@@ -85,6 +85,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 ### Python
 
 - [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing
+- [cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 
 ## Rust Ecosystem
 
