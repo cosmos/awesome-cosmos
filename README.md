@@ -50,6 +50,7 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [Atomic Wallet](https://atomicwallet.io/) (Windows, MacOS, Ubuntu, iOS, Android)
 - [Cobo](https://cobo.com/) (iOS, Android)
 - [Cosmostation](https://www.cosmostation.io/) (iOS, Android, Browser Extension)
+- [Coinhub](https://www.coinhub.org) (iOS, Android)
 - [HuobiWallet](https://www.huobiwallet.com/) (iOS, Android)
 - [ImToken](https://token.im/) (iOS, Android)
 - [Keplr](https://wallet.keplr.app) (Browser Extension)
