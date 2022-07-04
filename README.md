@@ -4,13 +4,11 @@ The Cosmos SDK is a modular framework for building blockchain applications in Go
 
 ## Contributing
 
-Please read the [contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors).
+Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors).
 
 ## Contents
 
 - [Awesome Cosmos](#awesome-cosmos-)
-  - [Contributing](#contributing)
-  - [Contents](#contents)
   - [Resources](#resources)
   - [Wallets](#wallets)
   - [Vanity Address Generators](#vanity-address-generators)
