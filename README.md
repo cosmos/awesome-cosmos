@@ -4,10 +4,11 @@ The Cosmos SDK is a modular framework for building blockchain applications in Go
 
 ## Contributing
 
-Please read the [Contributing guide](./Contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors).
+Please read the [contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors).
 
 ## Contents
-- [Awesome Cosmos ![Awesome](https://awesome.re)](#awesome-cosmos-)
+
+- [Awesome Cosmos](#awesome-cosmos-)
   - [Contributing](#contributing)
   - [Contents](#contents)
   - [Resources](#resources)
@@ -96,19 +97,16 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
 - [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates/tree/develop/stdtx) - Iqlusion StdTx
 - [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators
 
-
 ### Bridges
 
 - [cdot-network/substrate-ibc](https://github.com/cdot-network/substrate-ibc) - IBC on Substrate
 - [ChorusOne/quantum-tunnel](https://github.com/ChorusOne/quantum-tunnel) - Cosmos <-> Substrate Relayer
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Merge-mined Bitcoin sidechain built with Orga and Tendermint
 
-
 ### Application Frameworks
 
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly smart contracts for the Cosmos-SDK
 - [nomic-io/orga](http://github.com/nomic-io/orga) - ABCI framework for state machine transitions
-
 
 ### Applications
 
@@ -116,18 +114,17 @@ Please read the [Contributing guide](./Contributing.md). Thank you to all our [c
   blockchain on Tendermint
 - [KZen-networks/white-city](https://github.com/KZen-networks/white-city) -
   Network layer for Secure Multi-Party Computation on Tendermint
-- [nymtech/nym](https://github.com/nymtech/nym) - Mixnet using Tendermint 
+- [nymtech/nym](https://github.com/nymtech/nym) - Mixnet using Tendermint
 
-
-## Block Explorers 
+## Block Explorers
 
 - [ATOMScan](https://atomscan.com)
 - [Big Dipper](https://cosmos.bigdipper.live/) | [Source](https://github.com/forbole/big-dipper)
 - [LOOK Explorer](https://cosmos.ping.pub) | [Source](https://github.com/ping-pub/look)
-- [Mintscan](https://www.mintscan.io/) and [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/) | 
+- [Mintscan](https://www.mintscan.io/) and [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/) |
 - [Stake ID](https://stake.id)
 
-## Visual Block Explorer 
+## Visual Block Explorer
 
 - Use beta [Map of Zones](https://mapofzones.com/?period=24) | [Source](https://github.com/mapofzones) to view Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC transactions between different blockchains (called zones in the Cosmos Hub) to display accurate aggregate information about the pulse of the entire Cosmos ecosystem.
 
@@ -184,13 +181,13 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## Ecosystem
 
-The most up-to-date list of projects built using the Cosmos SDK is (https://cosmos.network/ecosystem/apps/).
+The most up-to-date list of projects built using the Cosmos SDK is (<https://cosmos.network/ecosystem/apps/>).
 
 ## Articles
 
-As the ecosystem grows, so does the content. DYOR and follow the projects you find interesting. 
+As the ecosystem grows, so does the content. DYOR and follow the projects you find interesting.
 
-Essential reading includes the [Cosmos blog](https://blog.cosmos.network/) and [What is Cosmos?](https://cosmos.network/intro/). 
+Essential reading includes the [Cosmos blog](https://blog.cosmos.network/) and [What is Cosmos?](https://cosmos.network/intro/).
 
 **Disclaimer: This community-maintained repo does not reflect the views of any official entity.**
 
