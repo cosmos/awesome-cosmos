@@ -114,6 +114,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [LOOK Explorer](https://cosmos.ping.pub) | [Source](https://github.com/ping-pub/look)
 - [Mintscan](https://www.mintscan.io/) and [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/)
 - [Stake ID](https://stake.id)
+- [NG Explorers](https://explorers.guru/)
 
 ## Visual Block Explorer
 
@@ -149,6 +150,7 @@ To share a module that you want the community to know about and use, add it here
 - [Cosmosvalmon](https://github.com/gaia/cosmosvalmon) - A configurable Cosmos validator monitoring and alerting service.
 - [cosmos-exporter](https://github.com/solarlabsteam/cosmos-exporter) - A Prometheus scraper that fetches the data from a full node of a Cosmos-based blockchain via gRPC.
 - [missed-blocks-checker](https://github.com/solarlabsteam/missed-blocks-checker) - Monitor missed blocks for Cosmos-chain validators with support for notifications to Telegram and Slack.
+- [Nodes Checker](https://t.me/NodesGuru_bot) - Check your nodes status online, receive instant notification if something is wrong with your validator node.
 
 ## Frameworks
 
