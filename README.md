@@ -1,4 +1,4 @@
-# Awesome Cosmos [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Cosmos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A community curated list of awesome projects related to the Cosmos ecosystem
 
@@ -105,7 +105,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Block Explorers
 
 - [ATOMScan](https://atomscan.com)
-- [Big Dipper](https://bigdipper.live) - [Website](https://github.com/forbole/big-dipper-2.0-cosmos)
+- [Big Dipper](https://bigdipper.live) - [Source](https://github.com/forbole/big-dipper-2.0-cosmos)
 - [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer)
 - [Mintscan](https://www.mintscan.io)
   - [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet)
