@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 # Awesome Cosmos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A community curated list of awesome projects related to the Cosmos ecosystem
