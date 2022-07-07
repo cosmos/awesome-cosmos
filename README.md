@@ -1,6 +1,9 @@
 # Awesome Cosmos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The Cosmos SDK is a modular framework for building blockchain applications in Go. Gaia, the first implementation of the Cosmos Hub, is built with the Cosmos SDK.
+> A community curated list of awesome projects related to the Cosmos ecosystem
+
+The Cosmos SDK is a modular framework for building blockchain applications in Go.
+Gaia, the first implementation of the Cosmos Hub, is built with the Cosmos SDK.
 
 **Contributing:**
 Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors).
@@ -43,19 +46,12 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ## Wallets
 
-- [Airgap](https://airgap.it/) (iOS, Android)
-- [Atomic Wallet](https://atomicwallet.io/) (Windows, macOS, Ubuntu, iOS, Android)
-- [Cobo](https://cobo.com/) (iOS, Android)
-- [Cosmostation](https://www.cosmostation.io/) (iOS, Android, Browser Extension)
-- [HuobiWallet](https://www.huobiwallet.com/) (iOS, Android)
-- [ImToken](https://token.im/) (iOS, Android)
-- [Keplr](https://wallet.keplr.app) (Browser Extension)
-- [Lunamint](https://lunamint.com/) (Android)
-- [Lunie](https://lunie.io/) (iOS, Android, Browser Extension)
-- [MathWallet](https://www.mathwallet.org/en/) (iOS, Android, Browser Extension)
-- [Rainbow](https://www.rainbow.one/) (iOS, Android)
-- [Trust Wallet](https://trustwallet.com/) (iOS, Android)
-- [Wetez](https://www.wetez.io/homepage) (iOS, Android)
+- [Airgap](https://github.com/airgap-it/airgap-wallet) (iOS, Android)
+- [Cosmostation](https://github.com/cosmostation?q=wallet) (iOS, Android, Browser Extension)
+- [ImToken](https://github.com/consenlabs?q=wallet/) (iOS, Android)
+- [Keplr](https://github.com/chainapsis/keplr-wallet) (Browser Extension)
+- [MathWallet](https://github.com/mathwallet) (iOS, Android, Browser Extension)
+- [Trust Wallet](https://github.com/trustwallet/wallet-core) (iOS, Android)
 - [KiraEx Interchain Wallet](https://t.me/InterchainWalletBot) (Telegram Bot)
 
 ## Vanity Address Generators
@@ -66,15 +62,14 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ### Go
 
-- [Ignite CLI](https://github.com/ignite-hq/cli) - All-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain. Quickly bootstraps a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
+- [Ignite CLI](https://github.com/ignite/cli) - All-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain. Quickly bootstraps a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
 
 ### JavaScript
 
-- [cosmwasm/cosmjs](https://github.com/cosmos/cosmjs) - **ICF sponsored Cosmos JavaScript library**.
-- [cybercongress/js-amino](https://github.com/cybercongress/js-amino) - ARCHIVED / JS implementation of Amino.
+- [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - **ICF sponsored Cosmos JavaScript library**.
+- [cybercongress/js-amino](https://github.com/cybercongress/js-amino) - **Archived** Implementation of Amino for clients with JavaScript.
 - [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library.
 - [cosmos-client/cosmos-client-ts](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
-- [luniehq/cosmos-api](https://github.com/luniehq/cosmos-api) - Lunie API Library.
 - [tendermint/sig](https://github.com/cosmos/sig) - Cosmos Signing Library.
 
 ### Python
@@ -110,9 +105,10 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Block Explorers
 
 - [ATOMScan](https://atomscan.com)
-- [Big Dipper](https://cosmos.bigdipper.live/) | [Source](https://github.com/forbole/big-dipper)
-- [LOOK Explorer](https://cosmos.ping.pub) | [Source](https://github.com/ping-pub/look)
-- [Mintscan](https://www.mintscan.io/) and [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/)
+- [Big Dipper](https://bigdipper.live) - [Source](https://github.com/forbole/big-dipper-2.0-cosmos)
+- [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer)
+- [Mintscan](https://www.mintscan.io)
+  - [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet)
 - [Stake ID](https://stake.id)
 - [NG Explorers](https://explorers.guru/)
 
@@ -132,8 +128,8 @@ To share a module that you want the community to know about and use, add it here
 
 ### External
 
-- [Ethermint - EVM](https://github.com/ChainSafe/ethermint/tree/development/x/evm)
-- [Cosmos - Peggy](https://github.com/cosmos/peggy)
+- [Ethermint - EVM](https://github.com/evmos/ethermint)
+- [Cosmos - Gravity Bridge](https://github.com/cosmos/gravity-bridge)
 - [Cosmos/Modules - Faucet](https://github.com/cosmos/modules/tree/master/incubator/faucet)
 - [Cosmos/Modules - NFT](https://github.com/cosmos/modules/tree/master/incubator/nft)
 - [Kava - Auction](https://github.com/Kava-Labs/kava/tree/master/x/auction)
@@ -170,7 +166,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## Ecosystem
 
-The most up-to-date list of projects built using the Cosmos SDK is (<https://cosmos.network/ecosystem/apps/>).
+The most up-to-date list of projects built using the Cosmos SDK is (<https://cosmos.network/ecosystem/apps>).
 
 ## Articles
 
