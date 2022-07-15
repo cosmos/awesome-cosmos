@@ -131,11 +131,11 @@ To share a module that you want the community to know about and use, add it here
 
 ## Frameworks
 
-- [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) (Go) - A Framework for Building High Value Public Blockchains.
-- [Kepler](https://github.com/f-o-a-m/kepler) (Haskell) - A Haskell framework that facilitates writing ABCI applications.
-- [Orga](https://github.com/nomic-io/orga) (Rust) - ABCI framework for state machine transitions.
-- [CosmosSwift](https://github.com/CosmosSwift) (Swift) - Build blockchain applications in Swift on top of the Tendermint consensus.
-- [ABCI-RS](https://github.com/devashishdxt/abci-rs) (Rust) - Rust crate for creating ABCI applications.
+- [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) - A Framework for Building High Value Public Blockchains in Go.
+- [Kepler](https://github.com/f-o-a-m/kepler) - A Haskell framework that facilitates writing ABCI applications.
+- [Orga](https://github.com/nomic-io/orga) - ABCI framework for state machine transitions in Rust.
+- [CosmosSwift](https://github.com/CosmosSwift) - Build blockchain applications in Swift on top of the Tendermint consensus.
+- [ABCI-RS](https://github.com/devashishdxt/abci-rs) - Rust crate for creating ABCI applications.
 
 ## Virtual Machines
 
@@ -151,7 +151,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 - [ibc.cosmos.network](https://ibc.cosmos.network) - IBC-Go official documentation.
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
 - [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains.
-- [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
+- [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for `ibc-go`.
 
 ## Bridges
 
@@ -163,8 +163,8 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 - [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
 - [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
-- [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) - Vanity Address Generators
-- [findaccount](https://github.com/blockpane/findaccount) - Identify what IBC chains an account exists on and what its address it
+- [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) - CLI tool for generating Cosmos vanity addresses.
+- [findaccount](https://github.com/blockpane/findaccount) - Helps identify if an account exists on multiple cosmos chains with the same address.
 
 ## Ecosystem
 
