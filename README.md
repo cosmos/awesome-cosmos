@@ -14,12 +14,12 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Contents
 
 - [Resources](#resources)
+- [Wallets](#wallets)
 - [Client Libraries](#client-libraries)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Python](#python)
-- [Rust Ecosystem](#rust-ecosystem)
-  - [Core](#core)
+  - [Rust](#rust)
 - [Block Explorers](#block-explorers)
 - [Visual Block Explorer](#visual-block-explorer)
 - [Validators](#validators)
@@ -30,7 +30,6 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [Virtual Machines](#virtual-machines)
 - [IBC](#ibc)
 - [Bridges](#bridges)
-- [Wallets](#wallets)
 - [Tools](#tools)
 - [Ecosystem](#ecosystem)
 - [Blogs](#blogs)
@@ -45,6 +44,16 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [Docs - Cosmos Hub (Gaia)](https://hub.cosmos.network/)
 - [Cosmos Hub (Gaia)](https://github.com/cosmos/gaia)
 - [Cosmos Developer Portal](https://tutorials.cosmos.network)
+
+## Wallets
+
+- [Airgap](https://github.com/airgap-it/airgap-wallet) (iOS, Android)
+- [Cosmostation](https://github.com/cosmostation?q=wallet) (iOS, Android, Browser Extension)
+- [ImToken](https://github.com/consenlabs?q=wallet/) (iOS, Android)
+- [Keplr](https://github.com/chainapsis/keplr-wallet) (Browser Extension)
+- [MathWallet](https://github.com/mathwallet) (iOS, Android, Browser Extension)
+- [Trust Wallet](https://github.com/trustwallet/wallet-core) (iOS, Android)
+- [KiraEx Interchain Wallet](https://t.me/InterchainWalletBot) (Telegram Bot)
 
 ## Client Libraries
 
@@ -65,13 +74,9 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing.
 - [cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK.
 
-## Rust Ecosystem
+### Rust
 
-### Core
-
-- [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs/) - Tendermint data structures, RPC client, and light client.
-- [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates) - A collection of open source Rust crates from iqlusion
-- [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
+- [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates) - A collection of open source Rust crates from iqlusion.
 
 ## Block Explorers
 
@@ -130,6 +135,7 @@ To share a module that you want the community to know about and use, add it here
 - [Kepler](https://github.com/f-o-a-m/kepler) (Haskell) - A Haskell framework that facilitates writing ABCI applications.
 - [Orga](https://github.com/nomic-io/orga) (Rust) - ABCI framework for state machine transitions.
 - [CosmosSwift](https://github.com/CosmosSwift) (Swift) - Build blockchain applications in Swift on top of the Tendermint consensus.
+- [ABCI-RS](https://github.com/devashishdxt/abci-rs) (Rust) - Rust crate for creating ABCI applications.
 
 ## Virtual Machines
 
@@ -145,6 +151,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 - [ibc.cosmos.network](https://ibc.cosmos.network) - IBC-Go official documentation.
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
 - [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains.
+- [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
 
 ## Bridges
 
@@ -152,18 +159,9 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 - [ChorusOne/quantum-tunnel](https://github.com/ChorusOne/quantum-tunnel) - Cosmos <-> Substrate Relayer.
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Merge-mined Bitcoin sidechain built with Orga and Tendermint.
 
-## Wallets
-
-- [Airgap](https://github.com/airgap-it/airgap-wallet) (iOS, Android)
-- [Cosmostation](https://github.com/cosmostation?q=wallet) (iOS, Android, Browser Extension)
-- [ImToken](https://github.com/consenlabs?q=wallet/) (iOS, Android)
-- [Keplr](https://github.com/chainapsis/keplr-wallet) (Browser Extension)
-- [MathWallet](https://github.com/mathwallet) (iOS, Android, Browser Extension)
-- [Trust Wallet](https://github.com/trustwallet/wallet-core) (iOS, Android)
-- [KiraEx Interchain Wallet](https://t.me/InterchainWalletBot) (Telegram Bot)
-
 ## Tools
 
+- [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
 - [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
 - [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) - Vanity Address Generators
 - [findaccount](https://github.com/blockpane/findaccount) - Identify what IBC chains an account exists on and what its address it
