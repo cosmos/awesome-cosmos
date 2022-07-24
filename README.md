@@ -152,6 +152,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
 - [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains.
 - [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for `ibc-go`.
+- [ibctest](https://github.com/strangelove-ventures/ibctest) - Conformance tests for inter-blockchain communication.
 
 ## Bridges
 
@@ -165,6 +166,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 - [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
 - [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) - CLI tool for generating Cosmos vanity addresses.
 - [findaccount](https://github.com/blockpane/findaccount) - Helps identify if an account exists on multiple cosmos chains with the same address.
+- [lens](https://github.com/strangelove-ventures/lens) - CLI tool to interact with any cosmos chain supporting the core Cosmos-SDK modules.
 
 ## Ecosystem
 
