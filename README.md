@@ -47,13 +47,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ## Wallets
 
-- [Airgap](https://github.com/airgap-it/airgap-wallet) (iOS, Android)
-- [Cosmostation](https://github.com/cosmostation?q=wallet) (iOS, Android, Browser Extension)
-- [ImToken](https://github.com/consenlabs?q=wallet/) (iOS, Android)
-- [Keplr](https://github.com/chainapsis/keplr-wallet) (Browser Extension)
-- [MathWallet](https://github.com/mathwallet) (iOS, Android, Browser Extension)
-- [Trust Wallet](https://github.com/trustwallet/wallet-core) (iOS, Android)
-- [KiraEx Interchain Wallet](https://t.me/InterchainWalletBot) (Telegram Bot)
+The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.network/ecosystem/wallets>.
 
 ## Client Libraries
 
