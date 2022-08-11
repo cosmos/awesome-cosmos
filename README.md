@@ -25,7 +25,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [Chain Registry](#chain-registry)
 - [Validators](#validators)
 - [Modules](#modules)
-  - [External](#external)
+  - [External Modules](#external-modules)
 - [Monitoring](#monitoring)
 - [Frameworks](#frameworks)
 - [Virtual Machines](#virtual-machines)
