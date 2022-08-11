@@ -22,6 +22,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
   - [Rust](#rust)
 - [Block Explorers](#block-explorers)
 - [Visual Block Explorer](#visual-block-explorer)
+- [Chain Registry](#chain-registry)
 - [Validators](#validators)
 - [Modules](#modules)
   - [External](#external)
