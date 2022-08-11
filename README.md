@@ -22,9 +22,10 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
   - [Rust](#rust)
 - [Block Explorers](#block-explorers)
 - [Visual Block Explorer](#visual-block-explorer)
+- [Chain Registry](#chain-registry)
 - [Validators](#validators)
 - [Modules](#modules)
-  - [External](#external)
+  - [External Modules](#external-modules)
 - [Monitoring](#monitoring)
 - [Frameworks](#frameworks)
 - [Virtual Machines](#virtual-machines)
@@ -38,12 +39,17 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Resources
 
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
+- [IBC Go](https://github.com/cosmos/ibc-go)
+- [Tendermint](https://github.com/tendermint/tendermint)
+- [CosmWasm](https://github.com/CosmWasm/cosmwasm)
+- [CosmJS](https://github.com/cosmos/cosmjs)
+- [Cosmos Hub (Gaia)](https://github.com/cosmos/gaia)
+- [Cosmos Developer Portal](https://tutorials.cosmos.network)
 - [Docs - Cosmos SDK](https://docs.cosmos.network/)
 - [Docs - IBC](https://ibc.cosmos.com/)
 - [Docs - Tendermint](https://docs.tendermint.com/)
 - [Docs - Cosmos Hub (Gaia)](https://hub.cosmos.network/)
-- [Cosmos Hub (Gaia)](https://github.com/cosmos/gaia)
-- [Cosmos Developer Portal](https://tutorials.cosmos.network)
+- [Docs - CosmWasm](https://docs.cosmwasm.com/docs/1.0/)
 
 ## Wallets
 
@@ -58,7 +64,7 @@ The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.
 ### JavaScript
 
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - **ICF sponsored Cosmos JavaScript library**.
-- [cybercongress/js-amino](https://github.com/cybercongress/js-amino) - **Archived** Implementation of Amino for clients with JavaScript.
+- [telescope](https://github.com/osmosis-labs/telescope) - Typescript library generator built on top of CosmJS.
 - [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library.
 - [cosmos-client/cosmos-client-ts](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
 - [tendermint/sig](https://github.com/cosmos/sig) - Cosmos Signing Library.
@@ -70,17 +76,19 @@ The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.
 
 ### Rust
 
+- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly Smart Contracts for the Cosmos SDK.
 - [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates) - A collection of open source Rust crates from iqlusion.
 
 ## Block Explorers
 
 - [ATOMScan](https://atomscan.com)
 - [Big Dipper](https://bigdipper.live) - [Source](https://github.com/forbole/big-dipper-2.0-cosmos)
-- [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer)
+- [IOBScan](https://ibc.iobscan.io/)
 - [Mintscan](https://www.mintscan.io)
   - [Mintscan for Cosmos Hub Testnet](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet)
-- [Stake ID](https://stake.id)
 - [NG Explorers](https://explorers.guru/)
+- [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer)
+- [Stake ID](https://stake.id)
 
 ## Visual Block Explorer
 
@@ -88,6 +96,12 @@ View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC 
 
 - [Map of Zones](https://mapofzones.com/?period=24) - [Source](https://github.com/mapofzones)
 - [Mintscan Hub](https://hub.mintscan.io)
+
+## Chain Registry
+A registry containing standardized metadata from most Cosmos chains.
+
+- [cosmos/chain-registry](https://github.com/cosmos/chain-registry/)
+- [Cosmos Directory](https://cosmos.directory)
 
 ## Validators
 
@@ -100,7 +114,7 @@ The best place to find an accurate list of the Cosmos SDK modules is the project
 
 To share a module that you want the community to know about and use, add it here. You can also create a pull request (PR) to add the module to the official project.
 
-### External
+### External Modules
 
 - [Ethermint - EVM](https://github.com/evmos/ethermint)
 - [Cosmos - Gravity Bridge](https://github.com/cosmos/gravity-bridge)
@@ -116,8 +130,6 @@ To share a module that you want the community to know about and use, add it here
 - [PANIC Monitoring and Alerting For Blockchains](https://github.com/SimplyVC/panic) - An open source monitoring and alerting solution for Cosmos SDK, Substrate, and Chainlink-based nodes.
 - [Prometheus Exporter](https://github.com/node-a-team/Cosmos-IE) - An integrated Prometheus exporter for the Cosmos SDK.
 - [Cosmos Chains Dashboard](https://github.com/zhangyelong/cosmos-dashboard) - A Grafana dashboard to monitor Cosmos SDK and Tendermint-based blockchain nodes.
-- [Node Monitor Gaiad](https://github.com/stakezone/nodemonitorgaiad) - Log file-based Cosmos gaiad monitoring solution for Zabbix.
-- [Cosmosvalmon](https://github.com/gaia/cosmosvalmon) - A configurable Cosmos validator monitoring and alerting service.
 - [cosmos-exporter](https://github.com/solarlabsteam/cosmos-exporter) - A Prometheus scraper that fetches the data from a full node of a Cosmos-based blockchain via gRPC.
 - [missed-blocks-checker](https://github.com/solarlabsteam/missed-blocks-checker) - Monitor missed blocks for Cosmos-chain validators with support for notifications to Telegram and Slack.
 - [Nodes Checker](https://t.me/NodesGuru_bot) - Check your nodes status online, receive instant notification if something is wrong with your validator node.
@@ -126,7 +138,6 @@ To share a module that you want the community to know about and use, add it here
 ## Frameworks
 
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) - A Framework for Building High Value Public Blockchains in Go.
-- [Kepler](https://github.com/f-o-a-m/kepler) - A Haskell framework that facilitates writing ABCI applications.
 - [Orga](https://github.com/nomic-io/orga) - ABCI framework for state machine transitions in Rust.
 - [CosmosSwift](https://github.com/CosmosSwift) - Build blockchain applications in Swift on top of the Tendermint consensus.
 - [ABCI-RS](https://github.com/devashishdxt/abci-rs) - Rust crate for creating ABCI applications.
@@ -141,11 +152,12 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## IBC
 
+- [IBCprotocol.org](https://ibcprotocol.org/) - IBC Protocol website.
 - [Interchain Standards](https://github.com/cosmos/ibc/) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 - [ibc.cosmos.network](https://ibc.cosmos.network) - IBC-Go official documentation.
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
-- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains.
-- [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for `ibc-go`.
+- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains written in Rust.
+- [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer written in Go for `ibc-go`.
 - [ibctest](https://github.com/strangelove-ventures/ibctest) - Conformance tests for inter-blockchain communication.
 
 ## Bridges
@@ -183,4 +195,3 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 - [Awesome Binance Chain](https://github.com/bnb-chain/awesome)
 - [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)
 - [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
-- [ATOM 2021 Initiative](https://github.com/cosmosdevs/atom2021) - Initiative to modernize Proof-of-Stake (PoS) on the Cosmos Hub.
