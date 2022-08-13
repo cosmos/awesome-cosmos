@@ -142,6 +142,7 @@ To share a module that you want the community to know about and use, add it here
 * [Orga](https://github.com/nomic-io/orga) - ABCI framework for state machine transitions in Rust.
 * [CosmosSwift](https://github.com/CosmosSwift) - Build blockchain applications in Swift on top of the Tendermint consensus.
 * [ABCI-RS](https://github.com/devashishdxt/abci-rs) - Rust crate for creating ABCI applications.
+* [CosmRS](https://github.com/cosmos/cosmos-rust/tree/main/cosmrs) - Framework for building Cosmos blockchain applications in Rust.
 
 ## Virtual Machines
 
