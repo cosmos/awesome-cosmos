@@ -79,6 +79,7 @@ The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.
 
 * [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly Smart Contracts for the Cosmos SDK.
 * [iqlusioninc/stdtx](https://github.com/iqlusioninc/crates) - A collection of open source Rust crates from iqlusion.
+* [peggyjv/ocular](https://github.com/peggyjv/ocular) - A client library for Cosmos SDK chains focusing on pleasant UX.
 
 ## Block Explorers
 
