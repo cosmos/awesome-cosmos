@@ -68,7 +68,7 @@ The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.
 * [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library.
 * [cosmos-client/cosmos-client-ts](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
 * [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library.
-* [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos chain registry.
+* [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 
 ### Python
 
@@ -104,7 +104,7 @@ A registry containing standardized metadata from most Cosmos chains.
 
 * [cosmos/chain-registry](https://github.com/cosmos/chain-registry/)
 * [Cosmos Directory](https://cosmos.directory)
-* [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos chain registry.
+* [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 
 ## Validators
 
