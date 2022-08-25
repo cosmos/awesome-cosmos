@@ -34,6 +34,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Tools](#tools)
 * [Ecosystem](#ecosystem)
 * [Blogs](#blogs)
+    * [Articles](#articles)
 * [Related](#related)
 
 ## Resources
@@ -193,7 +194,11 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 * [What is Cosmos?](https://cosmos.network/intro/)
 * [Cosmos Blog](https://blog.cosmos.network/)
 * [Interchain Foundation Blog](https://interchain-io.medium.com)
+
+### Articles
+
 * [Cosmos Dev Series: Cosmos Blockchain Upgrade](https://zerofruit.medium.com/cosmos-dev-series-cosmos-sdk-based-blockchain-upgrade-b5e99181554c)
+* [Hardening guides](https://cyber.orijtech.com/cosmos/hardening/)
 
 ## Related
 
@@ -201,3 +206,5 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 * [Awesome Binance Chain](https://github.com/bnb-chain/awesome)
 * [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)
 * [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
+* [Awesome Evmos](https://github.com/evmos/awesome)
+* [Awesome Osmosis](https://github.com/osmosis-labs/awesome)
