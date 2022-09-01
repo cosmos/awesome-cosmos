@@ -51,6 +51,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Docs - Tendermint](https://docs.tendermint.com/)
 * [Docs - Cosmos Hub (Gaia)](https://hub.cosmos.network/)
 * [Docs - CosmWasm](https://docs.cosmwasm.com/docs/1.0/)
+* [Docs - Cosmology](https://cosmology.tech/learn)
 
 ## Wallets
 
