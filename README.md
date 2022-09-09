@@ -175,12 +175,19 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## Tools
 
+### CLI
+
 * [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
 * [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
 * [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) - CLI tool for generating Cosmos vanity addresses.
 * [findaccount](https://github.com/blockpane/findaccount) - Helps identify if an account exists on multiple cosmos chains with the same address.
 * [lens](https://github.com/strangelove-ventures/lens) - CLI tool to interact with any cosmos chain supporting the core Cosmos-SDK modules.
 * [cosmology](https://github.com/cosmology-tech/cosmology) - CLI tool for making cryptocurrency trades, joining liquidity pools, and stake rewards on Osmosis.
+* [multisig](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
+
+### GUI
+
+* [Cosmos Hub Multisig Manager](https://cosmos-multisig-ui-kohl.vercel.app) [Source](https://github.com/cosmos/cosmos-multisig-ui) - Create multisigs and multisig transactions on the Cosmos Hub.
 
 ## Ecosystem
 
