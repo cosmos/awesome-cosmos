@@ -187,7 +187,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ### GUI
 
-* [Cosmos Hub Multisig Manager](https://cosmos-multisig-ui-kohl.vercel.app) [Source](https://github.com/cosmos/cosmos-multisig-ui) - Create multisigs and multisig transactions on the Cosmos Hub.
+* [Cosmos Hub Multisig Manager](https://cosmos-multisig-ui-kohl.vercel.app) - Create multisigs and multisig transactions on the Cosmos Hub ([source](https://github.com/cosmos/cosmos-multisig-ui)).
 
 ## Ecosystem
 
