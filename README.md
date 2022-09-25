@@ -161,11 +161,12 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 * [IBCprotocol.org](https://ibcprotocol.org/) - IBC Protocol website.
 * [Interchain Standards](https://github.com/cosmos/ibc/) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
-* [ibc.cosmos.network](https://ibc.cosmos.network) - IBC-Go official documentation.
+* [ibc.cosmos.network](https://ibc.cosmos.network) - IBC Go official documentation.
 * [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
 * [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains written in Rust.
 * [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer written in Go for `ibc-go`.
 * [ibctest](https://github.com/strangelove-ventures/ibctest) - Conformance tests for inter-blockchain communication.
+* [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript
 
 ## Bridges
 
