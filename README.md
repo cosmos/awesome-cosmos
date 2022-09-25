@@ -166,7 +166,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains written in Rust.
 * [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer written in Go for `ibc-go`.
 * [ibctest](https://github.com/strangelove-ventures/ibctest) - Conformance tests for inter-blockchain communication.
-* [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript
+* [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
 
 ## Bridges
 
