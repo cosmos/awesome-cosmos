@@ -71,6 +71,7 @@ The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.
 * [cosmos-client/cosmos-client-ts](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
 * [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library.
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
+* [strangelove-ventures/graz](https://github.com/strangelove-ventures/graz) - Collection of React hooks to interact with wallets, signers, signing clients, etc.
 
 ### Python
 
@@ -208,6 +209,7 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 
 * [Cosmos Dev Series: Cosmos Blockchain Upgrade](https://zerofruit.medium.com/cosmos-dev-series-cosmos-sdk-based-blockchain-upgrade-b5e99181554c)
 * [Hardening guides](https://cyber.orijtech.com/cosmos/hardening/)
+* [How to connect your frontend to Cosmos blockchain](https://dev.to/kikiding/how-to-connect-your-frontend-to-cosmos-blockchain-5fcn)
 
 ## Related
 
