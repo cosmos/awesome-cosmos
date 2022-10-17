@@ -117,13 +117,17 @@ For example, [Mintscan](https://www.mintscan.io/cosmos/validators), [ATOMScan](h
 
 ## Modules
 
-The best place to find an accurate list of the Cosmos SDK modules is the project repository. Find modules in [https://github.com/cosmos/cosmos-sdk/tree/main/x](https://github.com/cosmos/cosmos-sdk/tree/main/x). For a list of production-grade modules, see [List of Modules](https://docs.cosmos.network/main/modules/). Some modules are important but may still lack official documentation, like the [genutil](https://github.com/cosmos/cosmos-sdk/tree/main/x/genutil) module that is essential to launch a chain. Please consider contributing documentation to the Cosmos SDK to help fill these gaps.
+The best place to find an accurate list of the Cosmos SDK modules is the project repository:
+
+* For a list of production-grade modules, see the [List of Modules](https://docs.cosmos.network/main/modules/).
+* For a list of well-known third-party modules, see the [Ecosystem section](https://docs.cosmos.network/main/ecosystem) of the Cosmos SDK documentation. 
+
+Some modules are important but may still lack official documentation, like the [genutil](https://github.com/cosmos/cosmos-sdk/tree/main/x/genutil) module that is essential to launch a chain. Please consider contributing documentation to the Cosmos SDK to help fill these gaps.
 
 To share a module that you want the community to know about and use, add it here. You can also create a pull request (PR) to add the module to the official project.
 
 ### External Modules
 
-* [Ethermint - EVM](https://github.com/evmos/ethermint)
 * [Cosmos - Gravity Bridge](https://github.com/cosmos/gravity-bridge)
 * [Cosmos/Modules - Faucet](https://github.com/cosmos/modules/tree/master/incubator/faucet)
 * [Kava - Auction](https://github.com/Kava-Labs/kava/tree/master/x/auction)
