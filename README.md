@@ -145,6 +145,7 @@ To share a module that you want the community to know about and use, add it here
 * [missed-blocks-checker](https://github.com/solarlabsteam/missed-blocks-checker) - Monitor missed blocks for Cosmos-chain validators with support for notifications to Telegram and Slack.
 * [Nodes Checker](https://t.me/NodesGuru_bot) - Check your nodes status online, receive instant notification if something is wrong with your validator node.
 * [Cosmon](https://github.com/iqlusioninc/cosmon) - Observability tool for Cosmos and other Tendermint applications.
+* [Tender Monitor](https://github.com/BlockpowerCapital/TenderMonitor) - TenderMonitor is a tool for monitoring Cosmos nodes.
 
 ## Frameworks
 
