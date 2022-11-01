@@ -65,7 +65,7 @@ A list of wallets supporting cosmos chains is <https://cosmos.network/ecosystem/
 
 ### JavaScript
 
-* [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Cosmos JavaScript library
+* [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Cosmos JavaScript library.
 * [telescope](https://github.com/osmosis-labs/telescope) - Typescript library generator built on top of CosmJS.
 * [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library.
 * [cosmos-client/cosmos-client-ts](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
@@ -101,7 +101,7 @@ A list of wallets supporting cosmos chains is <https://cosmos.network/ecosystem/
 View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC transactions between different blockchains (called zones in the Cosmos Hub) to display accurate aggregate information about the pulse of the entire Cosmos ecosystem.
 
 * [Map of Zones](https://mapofzones.com/?period=24) - [Source](https://github.com/mapofzones)
-* [Mintscan](https://hub.mintscan.io) - Interchain Explorer by Cosmostation
+* [Mintscan](https://hub.mintscan.io) - Interchain Explorer by Cosmostation.
 
 ## Chain Registry
 
@@ -117,7 +117,7 @@ Popular block explorers provide a list of active validators. The easiest entry p
 
 * [List on Mintscan](https://www.mintscan.io/cosmos/validators)
 * [List on ATOMScan](https://atomscan.com/validators)
-* [List on BigDipper](https://cosmos.bigdipper.live/validators).
+* [List on BigDipper](https://cosmos.bigdipper.live/validators)
 
 DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
 
@@ -174,8 +174,8 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Interchain Standards](https://github.com/cosmos/ibc/) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 * [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
 * [ibctest](https://github.com/strangelove-ventures/ibctest) - E2E testing framework for IBC Chains.
-* [cosmos/relayer](https://github.com/cosmos/relayer) - IBC Relayer in Go
-* [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust
+* [cosmos/relayer](https://github.com/cosmos/relayer) - IBC Relayer in Go.
+* [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust.
 * [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
 
 ## Bridges
