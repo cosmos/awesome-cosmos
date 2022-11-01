@@ -55,7 +55,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ## Wallets
 
-The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.network/ecosystem/wallets>.
+A list of wallets supporting cosmos chains is <https://cosmos.network/ecosystem/wallets>.
 
 ## Client Libraries
 
@@ -65,13 +65,14 @@ The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.
 
 ### JavaScript
 
-* [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - **ICF sponsored Cosmos JavaScript library**.
+* [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Cosmos JavaScript library.
 * [telescope](https://github.com/osmosis-labs/telescope) - Typescript library generator built on top of CosmJS.
 * [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library.
 * [cosmos-client/cosmos-client-ts](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
 * [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library.
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 * [strangelove-ventures/graz](https://github.com/strangelove-ventures/graz) - Collection of React hooks to interact with wallets, signers, signing clients, etc.
+* [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - A npm package to bootstrap a Cosmos Web UI.
 
 ### Python
 
@@ -100,20 +101,25 @@ The most up-to-date list of wallets supporting cosmos chains is <https://cosmos.
 View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC transactions between different blockchains (called zones in the Cosmos Hub) to display accurate aggregate information about the pulse of the entire Cosmos ecosystem.
 
 * [Map of Zones](https://mapofzones.com/?period=24) - [Source](https://github.com/mapofzones)
-* [Mintscan Hub](https://hub.mintscan.io)
+* [Mintscan](https://hub.mintscan.io) - Interchain Explorer by Cosmostation.
 
 ## Chain Registry
 
 A registry containing standardized metadata from most Cosmos chains.
 
 * [cosmos/chain-registry](https://github.com/cosmos/chain-registry/)
-* [Cosmos Directory](https://cosmos.directory)
+* [Cosmos Directory](https://cosmos.directory) - [Source](https://github.com/eco-stake/cosmos-directory)
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 
 ## Validators
 
-Popular block explorers provide a list of active validators. The easiest entry point to view validator profiles is from a block explorer.
-For example, [Mintscan](https://www.mintscan.io/cosmos/validators), [ATOMScan](https://atomscan.com/validators), and [BigDipper](https://cosmos.bigdipper.live/validators). DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
+Popular block explorers provide a list of active validators. The easiest entry point to view validator profiles is from a block explorer:
+
+* [List on Mintscan](https://www.mintscan.io/cosmos/validators)
+* [List on ATOMScan](https://atomscan.com/validators)
+* [List on BigDipper](https://cosmos.bigdipper.live/validators)
+
+DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
 
 ## Modules
 
@@ -166,17 +172,15 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 * [IBCprotocol.org](https://ibcprotocol.org/) - IBC Protocol website.
 * [Interchain Standards](https://github.com/cosmos/ibc/) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
-* [ibc.cosmos.network](https://ibc.cosmos.network) - IBC Go official documentation.
 * [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
-* [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs/) - IBC data structures and handlers, and a relayer for Cosmos SDK chains written in Rust.
-* [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer written in Go for `ibc-go`.
-* [ibctest](https://github.com/strangelove-ventures/ibctest) - Conformance tests for inter-blockchain communication.
+* [ibctest](https://github.com/strangelove-ventures/ibctest) - E2E testing framework for IBC Chains.
+* [cosmos/relayer](https://github.com/cosmos/relayer) - IBC Relayer in Go.
+* [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust.
 * [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
 
 ## Bridges
 
 * [ctopus-network/substrate-ibc](<https://github.com/octopus-network/substrate-ibc>) - IBC on Substrate.
-* [ChorusOne/quantum-tunnel](https://github.com/ChorusOne/quantum-tunnel) - Cosmos <-> Substrate Relayer.
 * [nomic-io/nomic](https://github.com/nomic-io/nomic) - Merge-mined Bitcoin sidechain built with Orga and Tendermint.
 
 ## Tools
@@ -190,14 +194,16 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [lens](https://github.com/strangelove-ventures/lens) - CLI tool to interact with any cosmos chain supporting the core Cosmos-SDK modules.
 * [cosmology](https://github.com/cosmology-tech/cosmology) - CLI tool for making cryptocurrency trades, joining liquidity pools, and stake rewards on Osmosis.
 * [multisig](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
+* [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - Cli tool for modifying Cosmos genesis files.
 
 ### GUI
 
 * [Cosmos Hub Multisig Manager](https://cosmos-multisig-ui-kohl.vercel.app) - Create multisigs and multisig transactions on the Cosmos Hub ([source](https://github.com/cosmos/cosmos-multisig-ui)).
+* [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source](https://github.com/eco-stake/restake)).
 
 ## Ecosystem
 
-The most up-to-date list of projects built using the Cosmos SDK is <https://cosmos.network/ecosystem/apps>.
+The most up-to-date list of projects built using Cosmos SDK can be found on the [Cosmos Directory](https://cosmos.directory).
 
 ## Blogs
 
@@ -218,7 +224,6 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 ## Related
 
 * [Awesome Tendermint consensus](https://github.com/tendermint/awesome)
-* [Awesome Binance Chain](https://github.com/bnb-chain/awesome)
 * [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)
 * [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
 * [Awesome Evmos](https://github.com/evmos/awesome)
