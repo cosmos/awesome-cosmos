@@ -120,7 +120,6 @@ Popular block explorers provide a list of active validators. The easiest entry p
 * [List on BigDipper](https://cosmos.bigdipper.live/validators)
 * [List on Kujira POD](https://pod.kujira.app/cosmoshub-4)
 DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
-Check validator voting power on [Kujira POD](https://pod.kujira.app/cosmoshub-4).
 This is also a good pratice to avoid 0% commission validators and exchange validators.
 
 ## Modules
