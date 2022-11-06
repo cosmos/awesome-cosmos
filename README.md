@@ -118,7 +118,8 @@ Popular block explorers provide a list of active validators. The easiest entry p
 * [List on Mintscan](https://www.mintscan.io/cosmos/validators)
 * [List on ATOMScan](https://atomscan.com/validators)
 * [List on BigDipper](https://cosmos.bigdipper.live/validators)
-* [List on Kujira POD](https://pod.kujira.app/cosmoshub-4) 
+* [List on Kujira POD](https://pod.kujira.app/cosmoshub-4)
+
 DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
 This is also a good pratice to avoid 0% commission validators and exchange validators.
 
