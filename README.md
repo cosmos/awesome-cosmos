@@ -204,6 +204,10 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source](https://github.com/eco-stake/restake)).
 * [Yieldmos](https://yieldmos.com) - Staking and LP rewards auto-compounder using Authz.
 
+### Faucets
+
+* [Cosmos Discord Faucet](https://github.com/0x4139/cosmos-discord-faucet) - A discord faucet for cosmos sdk based projects that is fully configurable for any chain.
+
 ## Ecosystem
 
 The most up-to-date list of projects built using Cosmos SDK can be found on the [Cosmos Directory](https://cosmos.directory).
