@@ -34,6 +34,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Tools](#tools)
     * [CLI](#cli)
     * [GUI](#gui)
+    * [BOTS](#bots)
 * [Ecosystem](#ecosystem)
 * [Wallets](#wallets)
 * [Blogs](#blogs)
@@ -211,7 +212,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source](https://github.com/eco-stake/restake)).
 * [Yieldmos](https://yieldmos.com) - Staking and LP rewards auto-compounder using Authz.
 
-### Faucets
+### Bots
 
 * [Cosmos Discord Faucet](https://github.com/0x4139/cosmos-discord-faucet) - A configurable discord faucet for Cosmos SDK blockchains.
 
