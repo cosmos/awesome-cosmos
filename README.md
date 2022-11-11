@@ -34,7 +34,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Tools](#tools)
     * [CLI](#cli)
     * [GUI](#gui)
-    * [BOTS](#bots)
+    * [Bots](#bots)
 * [Ecosystem](#ecosystem)
 * [Wallets](#wallets)
 * [Blogs](#blogs)
