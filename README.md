@@ -13,49 +13,56 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ## Contents
 
-* [Resources](#resources)
-* [Wallets](#wallets)
+* [Core Components](#core-components)
+* [Documentation](#documentation)
 * [Client Libraries](#client-libraries)
     * [Go](#go)
     * [JavaScript](#javascript)
     * [Python](#python)
     * [Rust](#rust)
 * [Block Explorers](#block-explorers)
-* [Visual Block Explorer](#visual-block-explorer)
+    * [Visual Block Explorers](#visual-block-explorers)
 * [Chain Registry](#chain-registry)
 * [Validators](#validators)
-* [Modules](#modules)
+* [Cosmos SDK Modules](#cosmos-sdk-modules)
     * [External Modules](#external-modules)
 * [Monitoring](#monitoring)
 * [Frameworks](#frameworks)
 * [Virtual Machines](#virtual-machines)
 * [IBC](#ibc)
-* [Bridges](#bridges)
+* [Testing](#testing)
 * [Tools](#tools)
+    * [CLI](#cli)
+    * [GUI](#gui)
 * [Ecosystem](#ecosystem)
+* [Wallets](#wallets)
 * [Blogs](#blogs)
     * [Articles](#articles)
 * [Related](#related)
 
-## Resources
+## Core Components
+
+* [Cosmos Hub](https://github.com/cosmos/gaia)
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
 * [IBC Go](https://github.com/cosmos/ibc-go)
 * [Tendermint](https://github.com/tendermint/tendermint)
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm)
 * [CosmJS](https://github.com/cosmos/cosmjs)
-* [Cosmos Hub (Gaia)](https://github.com/cosmos/gaia)
+
+* [Protobuf](https://buf.build/cosmos)
+* [IAVL](https://github.com/cosmos/iavl)
+* [ICS23](https://github.com/cosmos/ics23)
+
+## Documentation
+
 * [Cosmos Developer Portal](https://tutorials.cosmos.network)
-* [Docs - Cosmos SDK](https://docs.cosmos.network/)
-* [Docs - IBC](https://ibc.cosmos.com/)
-* [Docs - Tendermint](https://docs.tendermint.com/)
-* [Docs - Cosmos Hub (Gaia)](https://hub.cosmos.network/)
-* [Docs - CosmWasm](https://docs.cosmwasm.com/docs/1.0/)
-* [Docs - Cosmology](https://cosmology.tech/learn)
-
-## Wallets
-
-A list of wallets supporting cosmos chains is <https://cosmos.network/ecosystem/wallets>.
+* [Cosmos SDK](https://docs.cosmos.network/)
+* [IBC](https://ibc.cosmos.com/)
+* [Tendermint](https://docs.tendermint.com/)
+* [Cosmos Hub](https://hub.cosmos.network/)
+* [CosmWasm](https://docs.cosmwasm.com/docs/1.0/)
+* [Cosmology](https://cosmology.tech/learn)
 
 ## Client Libraries
 
@@ -96,7 +103,7 @@ A list of wallets supporting cosmos chains is <https://cosmos.network/ecosystem/
 * [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer)
 * [Stake ID](https://stake.id)
 
-## Visual Block Explorer
+### Visual Block Explorers
 
 View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC transactions between different blockchains (called zones in the Cosmos Hub) to display accurate aggregate information about the pulse of the entire Cosmos ecosystem.
 
@@ -123,7 +130,7 @@ Popular block explorers provide a list of active validators. The easiest entry p
 DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
 This is also a good pratice to avoid 0% commission validators and exchange validators.
 
-## Modules
+## Cosmos SDK Modules
 
 The best place to find an accurate list of the Cosmos SDK modules is the project repository:
 
@@ -138,11 +145,8 @@ To share a module that you want the community to know about and use, add it here
 
 * [Cosmos - Gravity Bridge](https://github.com/cosmos/gravity-bridge)
 * [Cosmos/Modules - Faucet](https://github.com/cosmos/modules/tree/master/incubator/faucet)
-* [Kava - Auction](https://github.com/Kava-Labs/kava/tree/master/x/auction)
-* [Kava - CDP](https://github.com/Kava-Labs/kava/tree/master/x/cdp)
-* [Kava - Pricefeed](https://github.com/Kava-Labs/kava/tree/master/x/pricefeed)
-* [Kava - Validator Vesting](https://github.com/Kava-Labs/kava/tree/master/x/validator-vesting)
 * [Tendermint - Liquidity](https://github.com/tendermint/liquidity)
+* [Cosmos - Interchain Security](https://github.com/cosmos/interchain-security)
 
 ## Monitoring
 
@@ -175,15 +179,18 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [IBCprotocol.org](https://ibcprotocol.org/) - IBC Protocol website.
 * [Interchain Standards](https://github.com/cosmos/ibc/) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 * [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
+* [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 * [ibctest](https://github.com/strangelove-ventures/ibctest) - E2E testing framework for IBC Chains.
 * [cosmos/relayer](https://github.com/cosmos/relayer) - IBC Relayer in Go.
 * [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust.
 * [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
 
-## Bridges
+## Testing
 
-* [ctopus-network/substrate-ibc](<https://github.com/octopus-network/substrate-ibc>) - IBC on Substrate.
-* [nomic-io/nomic](https://github.com/nomic-io/nomic) - Merge-mined Bitcoin sidechain built with Orga and Tendermint.
+* [ibctest](https://github.com/strangelove-ventures/ibctest) - E2E testing framework for IBC Chains.
+* [atomkraft](https://github.com/informalsystems/atomkraft-cosmos) - E2E testing framework of Cosmos SDK blockchains.
+* [python-iavl](https://github.com/crypto-com/python-iavl) - IAVL inspection tool implemented in Python.
+* [cosmos/gosec](https://github.com/cosmos/gosec) - Go Security Checker for the Cosmos SDK.
 
 ## Tools
 
@@ -196,7 +203,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [lens](https://github.com/strangelove-ventures/lens) - CLI tool to interact with any cosmos chain supporting the core Cosmos-SDK modules.
 * [cosmology](https://github.com/cosmology-tech/cosmology) - CLI tool for making cryptocurrency trades, joining liquidity pools, and stake rewards on Osmosis.
 * [multisig](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
-* [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - Cli tool for modifying Cosmos genesis files.
+* [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - CLI tool for modifying Cosmos genesis files.
 
 ### GUI
 
@@ -211,6 +218,10 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 ## Ecosystem
 
 The most up-to-date list of projects built using Cosmos SDK can be found on the [Cosmos Directory](https://cosmos.directory).
+
+## Wallets
+
+A list of wallets supporting Cosmos chains is <https://cosmos.network/ecosystem/wallets>.
 
 ## Blogs
 
