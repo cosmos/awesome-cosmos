@@ -43,14 +43,14 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ## Core Components
 
-* [Cosmos Hub](https://github.com/cosmos/gaia)
-
+* [Cosmos Hub](https://github.com/cosmos/gaia)  
+<!-- -->
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
 * [IBC Go](https://github.com/cosmos/ibc-go)
 * [Tendermint](https://github.com/tendermint/tendermint)
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm)
-* [CosmJS](https://github.com/cosmos/cosmjs)
-
+* [CosmJS](https://github.com/cosmos/cosmjs)  
+<!-- -->
 * [Protobuf](https://buf.build/cosmos)
 * [IAVL](https://github.com/cosmos/iavl)
 * [ICS23](https://github.com/cosmos/ics23)
