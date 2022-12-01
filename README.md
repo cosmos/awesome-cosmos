@@ -244,6 +244,7 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 * [Cosmos Dev Series: Cosmos Blockchain Upgrade](https://zerofruit.medium.com/cosmos-dev-series-cosmos-sdk-based-blockchain-upgrade-b5e99181554c)
 * [Hardening guides](https://cyber.orijtech.com/cosmos/hardening/)
 * [How to connect your frontend to Cosmos blockchain](https://dev.to/kikiding/how-to-connect-your-frontend-to-cosmos-blockchain-5fcn)
+* [Building secure contracts, not-so-smart-contracts](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cosmos)
 
 ## Related
 
