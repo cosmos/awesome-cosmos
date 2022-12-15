@@ -220,6 +220,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 ### Bots
 
 * [Cosmos Discord Faucet](https://github.com/0x4139/cosmos-discord-faucet) - A configurable discord faucet for Cosmos SDK blockchains.
+* [Cosmos Discord Bot](https://github.com/okp4/discord-bot) - A general-purpose Discord bot for Cosmos SDK blockchains.
 
 ## Ecosystem
 
