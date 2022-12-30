@@ -224,7 +224,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Cosmos Discord Bot](https://github.com/okp4/discord-bot) - A general-purpose Discord bot for Cosmos SDK blockchains.
 
 ### Indexers
-* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - A indexer engine for cosmos based blockchain
+* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - A indexer engine for cosmos based blockchain.
 
 ## Ecosystem
 
