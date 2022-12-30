@@ -35,6 +35,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
     * [CLI](#cli)
     * [GUI](#gui)
     * [Bots](#bots)
+    * [Indexers](#indexers)
 * [Ecosystem](#ecosystem)
 * [Wallets](#wallets)
 * [Blogs](#blogs)
@@ -221,6 +222,9 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 * [Cosmos Discord Faucet](https://github.com/0x4139/cosmos-discord-faucet) - A configurable discord faucet for Cosmos SDK blockchains.
 * [Cosmos Discord Bot](https://github.com/okp4/discord-bot) - A general-purpose Discord bot for Cosmos SDK blockchains.
+
+### Indexers
+* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - A indexer engine for cosmos based blockchain
 
 ## Ecosystem
 
