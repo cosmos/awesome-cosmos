@@ -27,6 +27,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Cosmos SDK Modules](#cosmos-sdk-modules)
     * [External Modules](#external-modules)
 * [Monitoring](#monitoring)
+* [Indexers](#indexers)
 * [Frameworks](#frameworks)
 * [Virtual Machines](#virtual-machines)
 * [IBC](#ibc)
@@ -35,7 +36,6 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
     * [CLI](#cli)
     * [GUI](#gui)
     * [Bots](#bots)
-    * [Indexers](#indexers)
 * [Ecosystem](#ecosystem)
 * [Wallets](#wallets)
 * [Blogs](#blogs)
@@ -163,6 +163,9 @@ To share a module that you want the community to know about and use, add it here
 * [Tenderduty](https://github.com/blockpane/tenderduty) - Comprehensive monitoring tool for Tendermint chains. Its primary function is to alert a validator if they are missing blocks, and more.
 * [UpgradesWatchdog](https://github.com/ChihuahuaChain/UpgradesWatchdog) - SoftwareUpgradeProposal & GitHub Releases telegram monitoring tool.
 
+## Indexers
+* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - A indexer engine for cosmos based blockchain.
+
 ## Frameworks
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) - A Framework for Building High Value Public Blockchains in Go.
@@ -222,9 +225,6 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 * [Cosmos Discord Faucet](https://github.com/0x4139/cosmos-discord-faucet) - A configurable discord faucet for Cosmos SDK blockchains.
 * [Cosmos Discord Bot](https://github.com/okp4/discord-bot) - A general-purpose Discord bot for Cosmos SDK blockchains.
-
-### Indexers
-* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - A indexer engine for cosmos based blockchain.
 
 ## Ecosystem
 
