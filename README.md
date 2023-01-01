@@ -27,6 +27,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Cosmos SDK Modules](#cosmos-sdk-modules)
     * [External Modules](#external-modules)
 * [Monitoring](#monitoring)
+* [Indexers](#indexers)
 * [Frameworks](#frameworks)
 * [Virtual Machines](#virtual-machines)
 * [IBC](#ibc)
@@ -161,6 +162,9 @@ To share a module that you want the community to know about and use, add it here
 * [Cosmon](https://github.com/iqlusioninc/cosmon) - Observability tool for Cosmos and other Tendermint applications.
 * [Tenderduty](https://github.com/blockpane/tenderduty) - Comprehensive monitoring tool for Tendermint chains. Its primary function is to alert a validator if they are missing blocks, and more.
 * [UpgradesWatchdog](https://github.com/ChihuahuaChain/UpgradesWatchdog) - SoftwareUpgradeProposal & GitHub Releases telegram monitoring tool.
+
+## Indexers
+* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - A indexer engine for cosmos based blockchain.
 
 ## Frameworks
 
