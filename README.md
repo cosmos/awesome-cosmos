@@ -48,7 +48,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 <!-- -->
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
 * [IBC Go](https://github.com/cosmos/ibc-go)
-* [Tendermint](https://github.com/tendermint/tendermint)
+* [Tendermint](https://github.com/informalsystems/tendermint)
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm)
 * [CosmJS](https://github.com/cosmos/cosmjs)
 <!-- -->
@@ -164,7 +164,8 @@ To share a module that you want the community to know about and use, add it here
 * [UpgradesWatchdog](https://github.com/ChihuahuaChain/UpgradesWatchdog) - SoftwareUpgradeProposal & GitHub Releases telegram monitoring tool.
 
 ## Indexers
-* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - A indexer engine for cosmos based blockchain.
+
+* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - An indexer engine for cosmos based blockchain.
 
 ## Frameworks
 
@@ -199,6 +200,8 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [atomkraft](https://github.com/informalsystems/atomkraft-cosmos) - E2E testing framework of Cosmos SDK blockchains.
 * [python-iavl](https://github.com/crypto-com/python-iavl) - IAVL inspection tool implemented in Python.
 * [cosmos/gosec](https://github.com/cosmos/gosec) - Go Security Checker for the Cosmos SDK.
+* [tm-load-test](https://github.com/informalsystems/tm-load-test) - Tendermint load test application.
+* [cosmosloadtester](https://github.com/orijtech/cosmosloadtester) - Load tester for Cosmos SDK blockchains.
 
 ## Tools
 
