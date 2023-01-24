@@ -199,7 +199,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [ibctest](https://github.com/strangelove-ventures/ibctest) - E2E testing framework for IBC Chains.
 * [atomkraft](https://github.com/informalsystems/atomkraft-cosmos) - E2E testing framework of Cosmos SDK blockchains.
 * [python-iavl](https://github.com/crypto-com/python-iavl) - IAVL inspection tool implemented in Python.
-* [cosmos/gosec](https://github.com/cosmos/gosec) - Go Security Checker for the Cosmos SDK.
+* [cosmos-sdk-codeql](https://github.com/crypto-com/cosmos-sdk-codeql) - CodeQL queries for common Cosmos SDK bugs.
 * [tm-load-test](https://github.com/informalsystems/tm-load-test) - Tendermint load test application.
 * [cosmosloadtester](https://github.com/orijtech/cosmosloadtester) - Load tester for Cosmos SDK blockchains.
 
