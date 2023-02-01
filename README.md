@@ -25,7 +25,6 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Chain Registry](#chain-registry)
 * [Validators](#validators)
 * [Cosmos SDK Modules](#cosmos-sdk-modules)
-    * [External Modules](#external-modules)
 * [Monitoring](#monitoring)
 * [Indexers](#indexers)
 * [Frameworks](#frameworks)
@@ -48,7 +47,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 <!-- -->
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
 * [IBC Go](https://github.com/cosmos/ibc-go)
-* [Tendermint](https://github.com/informalsystems/tendermint)
+* [CometBFT](https://github.com/cometbft/cometbft)
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm)
 * [CosmJS](https://github.com/cosmos/cosmjs)
 <!-- -->
@@ -61,7 +60,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Cosmos Developer Portal](https://tutorials.cosmos.network)
 * [Cosmos SDK](https://docs.cosmos.network/)
 * [IBC](https://ibc.cosmos.com/)
-* [Tendermint](https://docs.tendermint.com/)
+* [CometBFT](https://docs.cometbft.com/)
 * [Cosmos Hub](https://hub.cosmos.network/)
 * [CosmWasm](https://docs.cosmwasm.com/docs/1.0/)
 * [Cosmology](https://cosmology.tech/learn)
@@ -144,13 +143,6 @@ Some modules are important but may still lack official documentation, like the [
 
 To share a module that you want the community to know about and use, add it here. You can also create a pull request (PR) to add the module to the official project.
 
-### External Modules
-
-* [Cosmos - Gravity Bridge](https://github.com/cosmos/gravity-bridge)
-* [Cosmos/Modules - Faucet](https://github.com/cosmos/modules/tree/master/incubator/faucet)
-* [Tendermint - Liquidity](https://github.com/tendermint/liquidity)
-* [Cosmos - Interchain Security](https://github.com/cosmos/interchain-security)
-
 ## Monitoring
 
 * [PANIC Monitoring and Alerting For Blockchains](https://github.com/SimplyVC/panic) - An open source monitoring and alerting solution for Cosmos SDK, Substrate, and Chainlink-based nodes.
@@ -200,7 +192,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [atomkraft](https://github.com/informalsystems/atomkraft-cosmos) - E2E testing framework of Cosmos SDK blockchains.
 * [python-iavl](https://github.com/crypto-com/python-iavl) - IAVL inspection tool implemented in Python.
 * [cosmos-sdk-codeql](https://github.com/crypto-com/cosmos-sdk-codeql) - CodeQL queries for common Cosmos SDK bugs.
-* [tm-load-test](https://github.com/informalsystems/tm-load-test) - Tendermint load test application.
+* [tm-load-test](https://github.com/informalsystems/tm-load-test) - CometBFT load test application.
 * [cosmosloadtester](https://github.com/orijtech/cosmosloadtester) - Load tester for Cosmos SDK blockchains.
 
 ## Tools
@@ -256,7 +248,6 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 
 ## Related
 
-* [Awesome Tendermint consensus](https://github.com/tendermint/awesome)
 * [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)
 * [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
 * [Awesome Evmos](https://github.com/evmos/awesome)
