@@ -22,6 +22,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
     * [Rust](#rust)
 * [Block Explorers](#block-explorers)
     * [Visual Block Explorers](#visual-block-explorers)
+    * [Block Explorers on Terminal UI](#terminal-block-explorers)
 * [Chain Registry](#chain-registry)
 * [Validators](#validators)
 * [Cosmos SDK Modules](#cosmos-sdk-modules)
@@ -112,6 +113,12 @@ View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC 
 * [Map of Zones](https://mapofzones.com/?period=24) - [Source](https://github.com/mapofzones)
 * [Mintscan](https://hub.mintscan.io) - Interchain Explorer by Cosmostation.
 
+## Terminal Block Explorers
+
+View the block explorer on terminal without any web application (firefox, chrome...)
+
+* [cshtop](https://github.com/gsk967/cshtop) - Cosmos htop , Blocks visualizer on terminal.
+* [pvtop](https://github.com/blockpane/pvtop) - Consensus visualizer on terminal.
 ## Chain Registry
 
 A registry containing standardized metadata from most Cosmos chains.
