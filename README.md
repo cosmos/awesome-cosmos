@@ -117,7 +117,7 @@ View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC 
 
 View the block explorer on terminal without any web application (firefox, chrome...)
 
-* [gex](https://github.com/cosmos/gex) - GEX In-Terminal Gaia Explorer.
+* [gex](https://github.com/cosmos/gex) - GEX In-Terminal Explorer.
 * [cshtop](https://github.com/gsk967/cshtop) - Cosmos htop , Blocks visualizer on terminal.
 * [pvtop](https://github.com/blockpane/pvtop) - Consensus visualizer on terminal.
 
