@@ -115,7 +115,7 @@ View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC 
 
 ### Terminal Block Explorers
 
-View the block explorer on terminal without any web application (firefox, chrome...)
+Explore Cosmos SDK blockchains via a terminal.
 
 * [gex](https://github.com/cosmos/gex) - GEX In-Terminal Explorer.
 * [cshtop](https://github.com/gsk967/cshtop) - Cosmos htop , Blocks visualizer on terminal.
