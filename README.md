@@ -86,7 +86,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ### Python
 
 * [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing.
-* [cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK.
+* [cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos SDK.
 * [pyCosmicWrap](https://github.com/ChihuahuaChain/pyCosmicWrap/) - A python3 wrapper around Cosmos API/RPC.
 
 ### Rust
@@ -166,7 +166,7 @@ To share a module that you want the community to know about and use, add it here
 
 ## Indexers
 
-* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - An indexer engine for cosmos based blockchain.
+* [Cosmscan](https://github.com/cosmscan/cosmscan-go) - An indexer engine for Cosmos chains.
 
 ## Frameworks
 
@@ -211,8 +211,8 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
 * [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
 * [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) - CLI tool for generating Cosmos vanity addresses.
-* [findaccount](https://github.com/blockpane/findaccount) - Helps identify if an account exists on multiple cosmos chains with the same address.
-* [lens](https://github.com/strangelove-ventures/lens) - CLI tool to interact with any cosmos chain supporting the core Cosmos-SDK modules.
+* [findaccount](https://github.com/blockpane/findaccount) - Helps identify if an account exists on multiple Cosmos chains with the same address.
+* [lens](https://github.com/strangelove-ventures/lens) - CLI tool to interact with any Cosmos chain supporting the core Cosmos-SDK modules.
 * [cosmology](https://github.com/cosmology-tech/cosmology) - CLI tool for making cryptocurrency trades, joining liquidity pools, and stake rewards on Osmosis.
 * [multisig](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
 * [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - CLI tool for modifying Cosmos genesis files.
@@ -222,7 +222,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Cosmos Hub Multisig Manager](https://cosmos-multisig-ui-kohl.vercel.app) - Create multisigs and multisig transactions on the Cosmos Hub ([source](https://github.com/cosmos/cosmos-multisig-ui)).
 * [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source](https://github.com/eco-stake/restake)).
 * [Yieldmos](https://yieldmos.com) - Staking and LP rewards auto-compounder using Authz.
-* [Cosmfaucet](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for cosmos based blockchain.
+* [Cosmfaucet](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for Cosmos based blockchain.
 * [Cosmos Notifier](https://cosmos-notifier.decrypto.online) - Governance notification tool for Telegram and Discord ([source](https://github.com/shifty11/cosmos-notifier)).
 
 ### Bots
