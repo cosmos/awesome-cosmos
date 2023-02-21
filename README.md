@@ -163,9 +163,9 @@ To share a module that you want the community to know about and use, add it here
 * [Cosmon](https://github.com/iqlusioninc/cosmon) - Observability tool for Cosmos and other Tendermint applications.
 * [Tenderduty](https://github.com/blockpane/tenderduty) - Comprehensive monitoring tool for Tendermint chains. Its primary function is to alert a validator if they are missing blocks, and more.
 * [UpgradesWatchdog](https://github.com/ChihuahuaChain/UpgradesWatchdog) - SoftwareUpgradeProposal & GitHub Releases telegram monitoring tool.
-* [cosmos-node-exporter](https://github.com/QuokkaStake/cosmos-node-exporter.git) - a Prometheus exporter to scrape data on your node sync status, Cosmovisor upgrades and GitHub version mismatches, useful for node operators and validators.
-* [cosmos-wallets-exporter](https://github.com/QuokkaStake/cosmos-wallets-exporter.git) - a Prometheus exporter to scrape data on wallets balance, useful to get notified if your wallet balance is too low.
-* [cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter.git) - a Prometheus exporter to scrape data about a validator (missed blocks, delegators count, total staked amount, rankings, etc.)
+* [cosmos-node-exporter](https://github.com/QuokkaStake/cosmos-node-exporter.git) - A Prometheus exporter to scrape data on your node sync status, Cosmovisor upgrades and GitHub version mismatches, useful for node operators and validators.
+* [cosmos-wallets-exporter](https://github.com/QuokkaStake/cosmos-wallets-exporter.git) - A Prometheus exporter to scrape data on wallets balance, useful to get notified if your wallet balance is too low.
+* [cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter.git) - A Prometheus exporter to scrape data about a validator (missed blocks, delegators count, total staked amount, rankings, etc.)
 
 
 ## Indexers
