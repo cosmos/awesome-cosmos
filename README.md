@@ -139,7 +139,7 @@ Popular block explorers provide a list of active validators. The easiest entry p
 * [List on Kujira POD](https://pod.kujira.app/cosmoshub-4)
 
 DYOR when choosing a validator. Consider delegating your tokens to validators outside of the top 20 to increase the decentralization of the network.
-This is also a good pratice to avoid 0% commission validators and exchange validators.
+This is also a good practice to avoid 0% commission validators and exchange validators.
 
 ## Cosmos SDK Modules
 
@@ -163,6 +163,10 @@ To share a module that you want the community to know about and use, add it here
 * [Cosmon](https://github.com/iqlusioninc/cosmon) - Observability tool for Cosmos and other Tendermint applications.
 * [Tenderduty](https://github.com/blockpane/tenderduty) - Comprehensive monitoring tool for Tendermint chains. Its primary function is to alert a validator if they are missing blocks, and more.
 * [UpgradesWatchdog](https://github.com/ChihuahuaChain/UpgradesWatchdog) - SoftwareUpgradeProposal & GitHub Releases telegram monitoring tool.
+* [cosmos-node-exporter](https://github.com/QuokkaStake/cosmos-node-exporter.git) - A Prometheus exporter to scrape data on your node sync status, Cosmovisor upgrades and GitHub version mismatches, useful for node operators and validators.
+* [cosmos-wallets-exporter](https://github.com/QuokkaStake/cosmos-wallets-exporter.git) - A Prometheus exporter to scrape data on wallets balance, useful to get notified if your wallet balance is too low.
+* [cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter.git) - A Prometheus exporter to scrape data about a validator (missed blocks, delegators count, total staked amount, rankings, etc.)
+
 
 ## Indexers
 
@@ -229,6 +233,8 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 * [Cosmos Discord Faucet](https://github.com/0x4139/cosmos-discord-faucet) - A configurable Discord faucet for Cosmos SDK blockchains.
 * [Cosmos Discord Bot](https://github.com/okp4/discord-bot) - A general-purpose Discord bot for Cosmos SDK blockchains.
+* [cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker.git) - A bot to notify you if your wallets didn't vote on proposal on multiple Cosmos SDK chains.
+* [cosmos-transactions-bot](https://github.com/QuokkaStake/cosmos-transactions-bot.git) - Get notified about transactions matching the filters you want on multiple Cosmos SDK chains.
 
 ## Ecosystem
 
