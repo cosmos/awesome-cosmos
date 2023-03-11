@@ -85,9 +85,10 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ### Python
 
-* [cosmospy](https://github.com/hukkinj1/cosmospy) - Tools for Cosmos wallet management and offline transaction signing.
 * [cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos SDK.
 * [pyCosmicWrap](https://github.com/ChihuahuaChain/pyCosmicWrap/) - A python3 wrapper around Cosmos API/RPC.
+* [mospy](https://github.com/ctrl-Felix/mospy) - A Python library to create and sign transactions for Cosmos SDK based coins.
+* [cosmospy-protobuf](https://github.com/ctrl-Felix/cosmospy-protobuf) - A Python library containing all compiled protobuf files (works very good for grpc).
 
 ### Rust
 
