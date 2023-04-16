@@ -82,6 +82,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 * [strangelove-ventures/graz](https://github.com/strangelove-ventures/graz) - Collection of React hooks to interact with wallets, signers, signing clients, etc.
 * [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - A npm package to bootstrap a Cosmos Web UI.
+* [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) - A wallet connector for the Cosmos.
 
 ### Python
 
@@ -172,6 +173,7 @@ To share a module that you want the community to know about and use, add it here
 ## Indexers
 
 * [Cosmscan](https://github.com/cosmscan/cosmscan-go) - An indexer engine for Cosmos chains.
+* [cosmos-indexer](https://github.com/Reecepbcups/cosmos-indexer) - A cosmos blockchain indexer in Python.
 
 ## Frameworks
 
