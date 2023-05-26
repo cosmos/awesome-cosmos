@@ -193,7 +193,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## IBC
 
-* [IBCprotocol.org](https://ibcprotocol.org/) - IBC Protocol website.
+* [IBCprotocol.dev](https://ibcprotocol.dev/) - IBC Protocol website.
 * [Interchain Standards](https://github.com/cosmos/ibc/) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 * [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
 * [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
