@@ -36,6 +36,8 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
     * [CLI](#cli)
     * [GUI](#gui)
     * [Bots](#bots)
+* [Node Operations](#node-operations)
+    * [Utilities](#utilities)
 * [Ecosystem](#ecosystem)
 * [Wallets](#wallets)
 * [Blogs](#blogs)
