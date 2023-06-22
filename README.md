@@ -252,7 +252,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ### Utilities
 
-*[Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
+* [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 
 ## Ecosystem
 
