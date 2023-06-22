@@ -174,7 +174,7 @@ To share a module that you want the community to know about and use, add it here
 ## Indexers
 
 * [Cosmscan](https://github.com/cosmscan/cosmscan-go) - An indexer engine for Cosmos chains.
-* [cosmos-indexer](https://github.com/Reecepbcups/cosmos-indexer) - A cosmos blockchain indexer in Python.
+* [interchain-indexer](https://github.com/Reecepbcups/interchain-indexer) - A cosmos blockchain indexer in Python.
 
 ## Frameworks
 
@@ -198,14 +198,15 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Interchain Standards](https://github.com/cosmos/ibc/) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 * [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication protocol (IBC) implementation in Go.
 * [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
-* [ibctest](https://github.com/strangelove-ventures/ibctest) - E2E testing framework for IBC Chains.
+* [interchaintest](https://github.com/strangelove-ventures/interchaintest) - E2E testing framework for IBC Chains.
 * [cosmos/relayer](https://github.com/cosmos/relayer) - IBC Relayer in Go.
 * [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust.
 * [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
+* [local-interchain](https://github.com/Reecepbcups/local-interchain) - Quickly spin up a local IBC development environment on any operating system.
 
 ## Testing
 
-* [ibctest](https://github.com/strangelove-ventures/ibctest) - E2E testing framework for IBC Chains.
+* [interchaintest](https://github.com/strangelove-ventures/interchaintest) - E2E testing framework for IBC Chains.
 * [atomkraft](https://github.com/informalsystems/atomkraft-cosmos) - E2E testing framework of Cosmos SDK blockchains.
 * [python-iavl](https://github.com/crypto-com/python-iavl) - IAVL inspection tool implemented in Python.
 * [cosmos-sdk-codeql](https://github.com/crypto-com/cosmos-sdk-codeql) - CodeQL queries for common Cosmos SDK bugs.
@@ -224,6 +225,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [cosmology](https://github.com/cosmology-tech/cosmology) - CLI tool for making cryptocurrency trades, joining liquidity pools, and stake rewards on Osmosis.
 * [multisig](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
 * [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - CLI tool for modifying Cosmos genesis files.
+* [airdrop-tools](https://github.com/Reecepbcups/airdrop-tools) - CLI scripts to help distribute a variety of tokens from multiple formats.
 
 ### GUI
 
@@ -232,6 +234,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Yieldmos](https://yieldmos.com) - Staking and LP rewards auto-compounder using Authz.
 * [Cosmfaucet](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for Cosmos based blockchain.
 * [Cosmos Notifier](https://cosmos-notifier.decrypto.online) - Governance notification tool for Telegram and Discord ([source](https://github.com/shifty11/cosmos-notifier)).
+* [IBC Anywhere](https://ibc.reece.sh/) - IBC token transfers including multi-chain hops.
 
 ### Bots
 
@@ -239,6 +242,17 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Cosmos Discord Bot](https://github.com/okp4/discord-bot) - A general-purpose Discord bot for Cosmos SDK blockchains.
 * [cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker.git) - A bot to notify you if your wallets didn't vote on proposal on multiple Cosmos SDK chains.
 * [cosmos-transactions-bot](https://github.com/QuokkaStake/cosmos-transactions-bot.git) - Get notified about transactions matching the filters you want on multiple Cosmos SDK chains.
+* [cosmos-balance-bot](https://github.com/Reecepbcups/cosmos-balance-bot) - Get notified about your wallet balance on multiple Cosmos SDK chains at a set interval.
+* [validator-stats-notifications](https://github.com/Reecepbcups/validator-stats-notifs) - Discord announcements including ranking, delegations over time, and unique delegators.
+* [Secret Stashh NFT Bot](https://github.com/Reecepbcups/stashh-bot) - A discord bot to get notified of sales, auctions, and purchases for a Secret Network NFT collection.
+* [DAODAO Treasury Bot](https://github.com/Reecepbcups/dao-treasury-bot) - A discord bot that keeps up with a DAO's treasury fiat value.
+* [Cosmos Price Bot](https://github.com/Reecepbcups/cosmos-price-bot) - A discord bot that nicknames to the USD price of any cosmos token via a DEX.
+
+## Node Operations
+
+### Utilities
+
+*[Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 
 ## Ecosystem
 
