@@ -229,6 +229,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [multisig](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
 * [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - CLI tool for modifying Cosmos genesis files.
 * [airdrop-tools](https://github.com/Reecepbcups/airdrop-tools) - CLI scripts to help distribute a variety of tokens from multiple formats.
+* [cosmos_node_app](https://gist.github.com/sxlmnwb/12aa623e4075610d56774abed7012d53) - Cosmos Node Application (CLI) is an automated tool for installation and synchronization.
 
 ### GUI
 
@@ -250,6 +251,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [Secret Stashh NFT Bot](https://github.com/Reecepbcups/stashh-bot) - A discord bot to get notified of sales, auctions, and purchases for a Secret Network NFT collection.
 * [DAODAO Treasury Bot](https://github.com/Reecepbcups/dao-treasury-bot) - A discord bot that keeps up with a DAO's treasury fiat value.
 * [Cosmos Price Bot](https://github.com/Reecepbcups/cosmos-price-bot) - A discord bot that nicknames to the USD price of any cosmos token via a DEX.
+* [nodexemperor/cosmos_wabot](https://github.com/nodexemperor/cosmos_wabot) - A whatsapp monitoring bot build on NodeJS for Cosmos-Hub Universe.
 
 ## Node Operations
 
