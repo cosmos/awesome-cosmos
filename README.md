@@ -233,6 +233,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [multisig](https://github.com/informalsystems/multisig) - CLI tool for managing multisig accounts on Cosmos SDK chains.
 * [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) - CLI tool for modifying Cosmos genesis files.
 * [airdrop-tools](https://github.com/Reecepbcups/airdrop-tools) - CLI scripts to help distribute a variety of tokens from multiple formats.
+* [cosmos.nix](https://github.com/informalsystems/cosmos.nix) - [Nix](https://nixos.org/) support for Cosmos and CosmWasm.
 
 ### GUI
 
