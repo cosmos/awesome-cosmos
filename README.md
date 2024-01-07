@@ -125,7 +125,7 @@ Explore Cosmos SDK blockchains via a terminal.
 * [gex](https://github.com/cosmos/gex) - GEX In-Terminal Explorer.
 * [cshtop](https://github.com/gsk967/cshtop) - Cosmos htop , Blocks visualizer on terminal.
 * [pvtop](https://github.com/blockpane/pvtop) - Consensus visualizer on terminal.
-* [tmtop](https://github.com/quokkastake/tmtop) - htop-like visualiser of consensus inspired by pvtop that allows showing upgrade info, working with consumer chains and non-Cosmos chains and way more.
+* [tmtop](https://github.com/quokkastake/tmtop) - Htop-like visualiser of consensus inspired by pvtop that allows showing upgrade info, working with consumer chains and non-Cosmos chains and way more.
 
 ## Chain Registry
 
