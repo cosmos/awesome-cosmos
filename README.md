@@ -182,6 +182,7 @@ To share a module that you want the community to know about and use, add it here
 * [Cosmscan](https://github.com/cosmscan/cosmscan-go) - An indexer engine for Cosmos chains.
 * [interchain-indexer](https://github.com/Reecepbcups/interchain-indexer) - A cosmos blockchain indexer in Python.
 * [Cosmos Indexer](https://github.com/DefiantLabs/cosmos-indexer) - A generalized DB schema indexer with correlation and direct database indexing in Go.
+* [BDJuno](https://github.com/forbole/bdjuno) - All the chains' data that are queried from the RPC and gRPC endpoints are stored inside a PostgreSQL database on top of which GraphQL APIs can then be created using Hasura.
 
 ## Frameworks
 
