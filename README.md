@@ -85,6 +85,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - A npm package to bootstrap a Cosmos Web UI.
 * [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) - A wallet connector for the Cosmos.
 * [nabla-studio/quirks](https://github.com/nabla-studio/quirks) - A universal wallet adapter for your Cosmos dApps, that works on both mobile and browser.
+* [cosmos/bip44](https://github.com/toschdev/cosmos-bip44) - Cosmos Bip44 implementation for development and education learning
 
 ### Python
 
