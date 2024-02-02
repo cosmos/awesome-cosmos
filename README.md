@@ -73,6 +73,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ### Go
 
 * [Ignite CLI](https://github.com/ignite/cli) - All-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain. Quickly bootstraps a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
+* [Reecepbcups/cosmos-submit-tx-client](https://github.com/Reecepbcups/cosmos-submit-tx-client) - Basic Transaction submit client in Go.
 
 ### JavaScript
 
