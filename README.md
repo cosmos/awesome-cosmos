@@ -32,6 +32,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [Virtual Machines](#virtual-machines)
 * [IBC](#ibc)
 * [Testing](#testing)
+* [Templates](#templates)
 * [Tools](#tools)
     * [CLI](#cli)
     * [GUI](#gui)
