@@ -2,6 +2,8 @@
 
 Make a pull request against master. If the Pull request is incomplete, you can still open it, but using the Draft PR feature of Github.
 
+Make sure to run the linter locally with `npx awesome-lint`.
+
 We encourage everyone building in the ecosystem to make contributions to this repo.
 
 ## Articles & Resources
