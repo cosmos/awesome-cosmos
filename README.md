@@ -209,7 +209,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust.
 * [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
 * [local-interchain](https://github.com/Reecepbcups/local-interchain) - Quickly spin up a local IBC development environment on any operating system.
-* [IBC-escrow-auditor](https://github.com/Cordtus/escrow-checker) - Standalone tool to check and report on-chain token amounts against the IBC lockup account on counterparty chain.
+* [IBC-escrow-auditor](https://github.com/Cordtus/ibc-escrow) - Standalone tool to check and report on-chain token amounts against the IBC lockup account on counterparty chain.
 
 ## Testing
 
