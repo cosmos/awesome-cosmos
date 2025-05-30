@@ -113,6 +113,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 * [NG Explorers](https://explorers.guru/)
 * [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer)
 * [Stake ID](https://stake.id)
+* [Chainroot](https://explorer.chainroot.io)
 
 ### Visual Block Explorers
 
@@ -120,6 +121,7 @@ View Inter-Blockchain Communication (IBC) transfer activity. The map traces IBC 
 
 * [Map of Zones](https://mapofzones.com/?period=24) - [Source](https://github.com/mapofzones)
 * [Mintscan](https://hub.mintscan.io) - Interchain Explorer by Cosmostation.
+* [Chainroot](https://explorer.chainroot.io) - Cosmos Explorer and Advanced IBC Analytics.
 
 ### Terminal Block Explorers
 
