@@ -273,6 +273,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 * [cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
 * [Wallet-generator](https://github.com/Cordtus/wallet_generator) - Manually generate a keypair + wallet addresses from mnemonic, pubkey + wallet addresses from privkey, or wallet addresses from pubkey. Accepts arbitrary HDpath (incl. cointype)
+* [cosmopilot](https://github.com/voluzi/cosmopilot) - Kubernetes operator to deploy and manage Cosmos nodes on Kubernetes.
 
 ## Ecosystem
 
