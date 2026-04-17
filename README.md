@@ -304,3 +304,4 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 ## Related
 
 * [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)
+* [Awesome Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) — Curated list of job boards, companies, and career resources across web3 (including Cosmos-ecosystem roles).
