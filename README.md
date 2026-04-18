@@ -180,6 +180,7 @@ The best place to find an accurate list of the Cosmos SDK modules is the project
 * [interchain-indexer](https://github.com/Reecepbcups/interchain-indexer) - A cosmos blockchain indexer in Python.
 * [Cosmos Indexer](https://github.com/DefiantLabs/cosmos-indexer) - A generalized DB schema indexer with correlation and direct database indexing in Go.
 * [BDJuno](https://github.com/forbole/bdjuno) - All the chains' data that are queried from the RPC and gRPC endpoints are stored inside a PostgreSQL database on top of which GraphQL APIs can then be created using Hasura.
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — world's first on-chain perpetual futures exchange with 100+ pairs, up to 2001× leverage, and zero trading fees.
 
 ## Frameworks
 
