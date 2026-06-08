@@ -265,6 +265,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [Secret Stashh NFT Bot](https://github.com/Reecepbcups/stashh-bot) - A discord bot to get notified of sales, auctions, and purchases for a Secret Network NFT collection.
 * [DAODAO Treasury Bot](https://github.com/Reecepbcups/dao-treasury-bot) - A discord bot that keeps up with a DAO's treasury fiat value.
 * [Cosmos Price Bot](https://github.com/Reecepbcups/cosmos-price-bot) - A discord bot that nicknames to the USD price of any cosmos token via a DEX.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent wallet trust scoring. Verify agent wallet identity before micropayments across chains. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Node Operations
 
