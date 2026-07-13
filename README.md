@@ -173,6 +173,7 @@ The best place to find an accurate list of the Cosmos SDK modules is the project
 * [cosmos-validator-monitoring-service(CVMS)](https://github.com/cosmostation/cvms) - Integrated monitoring system for validators in the Cosmos app chain ecosystem.
 * [cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker.git) - A bot that sends you a notification on multiple Cosmos chains if your wallet hasn't voted on any proposal.
 * [cosmos-transactions-bot](https://github.com/QuokkaStake/cosmos-transactions-bot.git) - A bot that sends you notifications on any transactions you want to be subscribed to on multiple Cosmos chains.
+* [cosmos-delegation-tracker](https://github.com/jjozzietech/cosmos-delegation-tracker) - Hourly append-only CSV logger for validator delegation metrics: delegator count, bonded tokens, self vs external delegation, and active-set rank over time.
 
 ## Indexers
 
@@ -265,6 +266,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [Secret Stashh NFT Bot](https://github.com/Reecepbcups/stashh-bot) - A discord bot to get notified of sales, auctions, and purchases for a Secret Network NFT collection.
 * [DAODAO Treasury Bot](https://github.com/Reecepbcups/dao-treasury-bot) - A discord bot that keeps up with a DAO's treasury fiat value.
 * [Cosmos Price Bot](https://github.com/Reecepbcups/cosmos-price-bot) - A discord bot that nicknames to the USD price of any cosmos token via a DEX.
+* [cosmos-gov-notifier](https://github.com/jjozzietech/cosmos-gov-notifier) - Hourly email notifier for Cosmos SDK governance proposals: alerts on new proposals, reminds you before voting deadlines, and flags missed votes.
 
 ## Node Operations
 
