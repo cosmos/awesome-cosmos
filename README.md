@@ -173,6 +173,7 @@ The best place to find an accurate list of the Cosmos SDK modules is the project
 * [cosmos-validator-monitoring-service(CVMS)](https://github.com/cosmostation/cvms) - Integrated monitoring system for validators in the Cosmos app chain ecosystem.
 * [cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker.git) - A bot that sends you a notification on multiple Cosmos chains if your wallet hasn't voted on any proposal.
 * [cosmos-transactions-bot](https://github.com/QuokkaStake/cosmos-transactions-bot.git) - A bot that sends you notifications on any transactions you want to be subscribed to on multiple Cosmos chains.
+* [ValidatorPulse](https://github.com/ehsanhajian/ValidatorPulse) - Self-hosted validator monitor with a dashboard, Prometheus metrics, and multi-channel alerts. Supports Cosmos SDK chains plus Ethereum, Polkadot, Solana, and more.
 
 ## Indexers
 
