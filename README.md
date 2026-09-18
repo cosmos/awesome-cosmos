@@ -253,6 +253,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [Cosmfaucet](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for Cosmos based blockchain.
 * [Cosmos Notifier](https://cosmos-notifier.decrypto.online) - Governance notification tool for Telegram and Discord ([source](https://github.com/shifty11/cosmos-notifier)).
 * [Skip:Go](https://go.skip.build) - IBC token transfers, automated swapping and multi-hop routing ([source](https://github.com/skip-mev/skip-go-app)).
+* [Presend](https://presend.pages.dev) - Free, no-signup APIs for the Cosmos ecosystem: decode raw Cosmos SDK transactions, check crypto addresses against the OFAC sanctions list, plus 30+ other developer utilities ([source](https://github.com/presendapp/presend)).
 
 ### Bots
 
