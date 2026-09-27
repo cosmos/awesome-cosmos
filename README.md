@@ -273,6 +273,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 * [cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
 * [Wallet-generator](https://github.com/Cordtus/wallet_generator) - Manually generate a keypair + wallet addresses from mnemonic, pubkey + wallet addresses from privkey, or wallet addresses from pubkey. Accepts arbitrary HDpath (incl. cointype)
+* [Presend](https://presend.pages.dev/api) - Free, no-signup HTTP API: audit a public CometBFT RPC endpoint (status, health, peers, publicly exposed unsafe methods such as `dial_seeds`) and decode a raw signed Cosmos SDK transaction into JSON.
 
 ## Ecosystem
 
